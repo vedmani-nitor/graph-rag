@@ -746,6 +746,7 @@ dependencies = [
     { name = "llama-index-graph-stores-neo4j" },
     { name = "llama-index-llms-azure-openai" },
     { name = "llama-index-llms-gemini" },
+    { name = "llama-index-vector-stores-neo4jvector" },
     { name = "nltk" },
     { name = "pandas" },
     { name = "python-dotenv" },
@@ -762,6 +763,7 @@ requires-dist = [
     { name = "llama-index-graph-stores-neo4j", specifier = ">=0.4.0" },
     { name = "llama-index-llms-azure-openai", specifier = ">=0.3.0" },
     { name = "llama-index-llms-gemini", specifier = ">=0.4.0" },
+    { name = "llama-index-vector-stores-neo4jvector", specifier = ">=0.3.0" },
     { name = "nltk", specifier = ">=3.9.1" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
@@ -1593,6 +1595,19 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/35/30/4611821286f82ba7b5842295607baa876262db86f88b87d83595eed172bf/llama_index_readers_llama_parse-0.4.0.tar.gz", hash = "sha256:e99ec56f4f8546d7fda1a7c1ae26162fb9acb7ebcac343b5abdb4234b4644e0f", size = 2472 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/68/4f/e30d4257fe9e4224f5612b77fe99aaceddae411b2e74ca30534491de3e6f/llama_index_readers_llama_parse-0.4.0-py3-none-any.whl", hash = "sha256:574e48386f28d2c86c3f961ca4a4906910312f3400dd0c53014465bfbc6b32bf", size = 2472 },
+]
+
+[[package]]
+name = "llama-index-vector-stores-neo4jvector"
+version = "0.3.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "llama-index-core" },
+    { name = "neo4j" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/2e/58/2e004fe09f84d23597f41854649276592aa768d5e3030bed72c8d514e9d2/llama_index_vector_stores_neo4jvector-0.3.0.tar.gz", hash = "sha256:83ce8a0ea8505e95a606ba50aab0964af5f08339509992b157e63c0a52b5f41d", size = 6858 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ac/35/b093cac1acb07b3bbceb6844d6fdbf484322c39832903ee13b0d5d923268/llama_index_vector_stores_neo4jvector-0.3.0-py3-none-any.whl", hash = "sha256:e958a78ebbbc748caa183ab9ecaead10e3d1aa602839a215f8c780d40d8db86b", size = 7261 },
 ]
 
 [[package]]
