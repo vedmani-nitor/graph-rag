@@ -21,6 +21,9 @@ dependencies = [
     "llama-index-embeddings-gemini>=0.3.0",
     "ipywidgets>=8.1.5",
     "llama-index-vector-stores-neo4jvector>=0.3.0",
+    "ruff>=0.8.1",
+    "loguru>=0.7.2",
+    "weave>=0.51.22",
 ]
 
 [build-system]
