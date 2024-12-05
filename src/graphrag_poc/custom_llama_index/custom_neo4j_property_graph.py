@@ -641,9 +641,36 @@ class Neo4jPropertyGraphStore(PropertyGraphStore):
         )
         if query.mode == VectorStoreQueryMode.HYBRID and not query.filters and self._supports_vector_index:
             print(len(query.query_embedding), "query_str:", query.query_str, "similarity_top_k:", query.similarity_top_k, "hybrid_top_k:", query.hybrid_top_k)
-            # data = self.structured_query()
-            # TODO: add hybrid query
-        if not query.filters and self._supports_vector_index:
+            print("--------------------------------")
+            print("Performing hybrid query")
+            data = self.structured_query(
+                f"""CALL {{
+                    CALL db.index.vector.queryNodes('{VECTOR_INDEX_NAME}', $limit, $embedding)
+                    YIELD node, score
+                    WITH collect({{node: node, score: score}}) AS nodes, max(score) AS vector_index_max_score
+                    UNWIND nodes AS n
+                    RETURN n.node AS node, (n.score / vector_index_max_score) AS score
+                    UNION
+                    CALL db.index.fulltext.queryNodes('text_index', $query_text, {{limit: $limit}})
+                    YIELD node, score
+                    WITH collect({{node: node, score: score}}) AS nodes, max(score) AS ft_index_max_score
+                    UNWIND nodes AS n
+                    RETURN n.node AS node, (n.score / ft_index_max_score) AS score
+                }}
+                WITH node, max(score) AS score
+                ORDER BY score DESC
+                LIMIT toInteger($limit)
+                RETURN node.id AS name,
+                [l in labels(node) WHERE NOT l IN ['{BASE_ENTITY_LABEL}', '{BASE_NODE_LABEL}'] | l][0] AS type,
+                node{{.* , embedding: Null, name: Null, id: Null}} AS properties,
+                score""",
+                param_map={
+                    "embedding": query.query_embedding,
+                    "query_text": query.query_str,
+                    "limit": query.hybrid_top_k or query.similarity_top_k,
+                },
+            )
+        elif not query.filters and self._supports_vector_index:
             data = self.structured_query(
                 f"""CALL db.index.vector.queryNodes('{VECTOR_INDEX_NAME}', $limit, $embedding)
                 YIELD node, score RETURN node.id AS name,
