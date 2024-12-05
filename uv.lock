@@ -838,6 +838,7 @@ dependencies = [
     { name = "llama-index-llms-gemini" },
     { name = "llama-index-vector-stores-neo4jvector" },
     { name = "loguru" },
+    { name = "neo4j-graphrag" },
     { name = "nltk" },
     { name = "pandas" },
     { name = "python-dotenv" },
@@ -858,6 +859,7 @@ requires-dist = [
     { name = "llama-index-llms-gemini", specifier = ">=0.4.0" },
     { name = "llama-index-vector-stores-neo4jvector", specifier = ">=0.3.0" },
     { name = "loguru", specifier = ">=0.7.2" },
+    { name = "neo4j-graphrag", specifier = ">=1.2.1" },
     { name = "nltk", specifier = ">=3.9.1" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
@@ -1991,6 +1993,19 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/c5/62/7a6d0b90da5fb2a68c61996baeade66ff030b3f1036263e649a50e80e9d0/neo4j-5.26.0.tar.gz", hash = "sha256:51b25ba127b7b9fdae1ddf48ae697ddfab331e60f4b6d8488d1fc1f74ec60dcc", size = 224127 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/58/a8/e8bafaaf3a2fa2391c8c86ab4e8dec2aff3f2fd35b773476580ccca26e4c/neo4j-5.26.0-py3-none-any.whl", hash = "sha256:511a6a9468ca89b521bf686f885a2070acc462b1d09821d43710bd477acdf11e", size = 302024 },
+]
+
+[[package]]
+name = "neo4j-graphrag"
+version = "1.2.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "neo4j" },
+    { name = "pydantic" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/e4/8c/b87319de8d468f02efcce96361b7d79cce2531a371efb9c5f350018f4f72/neo4j_graphrag-1.2.1.tar.gz", hash = "sha256:1b8440d85fc0c2900994020b764ac09aef625a20551e94bed7fc929ef659cb90", size = 69876 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ce/ca/71eec4ca938ca03c112bcfcb365df86034c2b81ed218179505d57fb9d7e2/neo4j_graphrag-1.2.1-py3-none-any.whl", hash = "sha256:f490b560bd45960b018822fb6cd297cff0a4e7bdd047c4ad3a96849594dc05b0", size = 122661 },
 ]
 
 [[package]]

@@ -24,6 +24,7 @@ dependencies = [
     "ruff>=0.8.1",
     "loguru>=0.7.2",
     "weave>=0.51.22",
+    "neo4j-graphrag>=1.2.1",
 ]
 
 [build-system]

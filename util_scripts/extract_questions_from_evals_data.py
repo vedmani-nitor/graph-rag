@@ -1,4 +1,5 @@
 import json
+import csv
 
 def extract_questions(json_file_path):
     try:
@@ -26,18 +27,18 @@ def extract_questions(json_file_path):
 def main():
     try:
         # Extract questions
-        questions = extract_questions('evals_data.json')
+        questions = extract_questions(r'D:\projects\graphrag-poc\artifacts\evals_data.json')
         
-        # Print questions with numbers
-        for i, question in enumerate(questions, 1):
-            print(f"{i}. {question}\n")
-        
-        # Save to file with UTF-8 encoding
-        with open('questions.txt', 'w', encoding='utf-8') as f:
-            for i, question in enumerate(questions, 1):
-                f.write(f"{i}. {question}\n\n")
+        # Create CSV file with questions and empty answers
+        with open('questions_and_answers.csv', 'w', encoding='utf-8', newline='') as f:
+            writer = csv.writer(f)
+            # Write header
+            writer.writerow(['Question', 'Answer'])
+            # Write questions with empty answers
+            for question in questions:
+                writer.writerow([question, ''])
                 
-        print("Questions have been successfully extracted and saved to 'questions.txt'")
+        print("Questions and empty answer columns have been saved to 'questions_and_answers.csv'")
         
     except Exception as e:
         print(f"An error occurred: {str(e)}")
