@@ -7,6 +7,7 @@ from llama_index.core.graph_stores.types import (
     VECTOR_SOURCE_KEY,
     PropertyGraphStore,
     Triplet,
+    LabelledNode,
 )
 from llama_index.core.indices.property_graph.base import (
     TRIPLET_SOURCE_KEY,
@@ -29,6 +30,40 @@ from llama_index.core.vector_stores.types import (
     VectorStoreQuery,
 )
 
+from llama_index.core.vector_stores.types import VectorStoreQueryMode
+import fsspec
+from abc import ABC, abstractmethod
+from typing import (
+    Any,
+    Dict,
+    List,
+    Optional,
+    Tuple,
+    Set,
+    Sequence,
+    Protocol,
+    runtime_checkable,
+)
+
+from llama_index.core.bridge.pydantic import BaseModel, Field, SerializeAsAny
+from llama_index.core.graph_stores.prompts import DEFAULT_CYPHER_TEMPALTE
+from llama_index.core.prompts import PromptTemplate
+from llama_index.core.schema import BaseNode, MetadataMode
+from llama_index.core.vector_stores.utils import (
+    metadata_dict_to_node,
+    node_to_metadata_dict,
+)
+from llama_index.core.vector_stores.types import VectorStoreQuery
+
+DEFAULT_PERSIST_DIR = "./storage"
+DEFAULT_PERSIST_FNAME = "graph_store.json"
+DEFUALT_PG_PERSIST_FNAME = "property_graph_store.json"
+
+TRIPLET_SOURCE_KEY = "triplet_source_id"
+VECTOR_SOURCE_KEY = "vector_source_id"
+KG_NODES_KEY = "nodes"
+KG_RELATIONS_KEY = "relations"
+KG_SOURCE_REL = "SOURCE"
 
 class CustomVectorContextRetriever(BasePGRetriever):
     """A retriever that uses a vector store to retrieve nodes based on a query.
@@ -129,6 +164,7 @@ class CustomVectorContextRetriever(BasePGRetriever):
             query_embedding=query_bundle.embedding,
             similarity_top_k=self._similarity_top_k,
             filters=self._filters,
+            query_str=query_bundle.query_str,
             **self._retriever_kwargs,
         )
 
@@ -150,6 +186,7 @@ class CustomVectorContextRetriever(BasePGRetriever):
             query_embedding=query_bundle.embedding,
             similarity_top_k=self._similarity_top_k,
             filters=self._filters,
+            query_str=query_bundle.query_str,
             **self._retriever_kwargs,
         )
 

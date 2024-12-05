@@ -1,0 +1,21 @@
+2024-12-05 15:50:32,898 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-12-05 15:50:32,905 - DEBUG - load_verify_locations cafile='d:\\projects\\graphrag-poc\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-12-05 15:50:33,783 - DEBUG - Request options: {'method': 'post', 'url': '/deployments/text-embedding-ada-002/embeddings', 'headers': {'api-key': '<redacted>'}, 'files': None, 'post_parser': <function Embeddings.create.<locals>.parser at 0x00000244607B2660>, 'json_data': {'input': ['Hello, world!'], 'model': 'text-embedding-ada-002', 'encoding_format': 'base64'}}
+2024-12-05 15:50:33,789 - DEBUG - Sending HTTP Request: POST https://nitoropenai.openai.azure.com//openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-06-01
+2024-12-05 15:50:33,801 - DEBUG - connect_tcp.started host='nitoropenai.openai.azure.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-12-05 15:50:34,073 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002446082B750>
+2024-12-05 15:50:34,076 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000024460717890> server_hostname='nitoropenai.openai.azure.com' timeout=5.0
+2024-12-05 15:50:34,497 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024460673150>
+2024-12-05 15:50:34,503 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-05 15:50:34,509 - DEBUG - send_request_headers.complete
+2024-12-05 15:50:34,513 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-05 15:50:34,517 - DEBUG - send_request_body.complete
+2024-12-05 15:50:34,522 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-05 15:50:34,768 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Length', b'8414'), (b'Content-Type', b'application/json'), (b'access-control-allow-origin', b'*'), (b'apim-request-id', b'6a9c7b3e-7abe-44e9-84f1-fccc3072d934'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'x-content-type-options', b'nosniff'), (b'x-ms-region', b'East US'), (b'x-ratelimit-remaining-requests', b'119'), (b'x-request-id', b'e32aaa82-6874-49a7-a240-b393ba43a7f4'), (b'x-ms-client-request-id', b'6a9c7b3e-7abe-44e9-84f1-fccc3072d934'), (b'x-ratelimit-remaining-tokens', b'119996'), (b'azureml-model-session', b'd023-20240925120719'), (b'Date', b'Thu, 05 Dec 2024 10:21:56 GMT')])
+2024-12-05 15:50:34,773 - INFO - HTTP Request: POST https://nitoropenai.openai.azure.com//openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2024-12-05 15:50:34,780 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-05 15:50:34,787 - DEBUG - receive_response_body.complete
+2024-12-05 15:50:34,792 - DEBUG - response_closed.started
+2024-12-05 15:50:34,797 - DEBUG - response_closed.complete
+2024-12-05 15:50:34,803 - DEBUG - HTTP Response: POST https://nitoropenai.openai.azure.com//openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-06-01 "200 OK" Headers({'content-length': '8414', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'apim-request-id': '6a9c7b3e-7abe-44e9-84f1-fccc3072d934', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-ms-region': 'East US', 'x-ratelimit-remaining-requests': '119', 'x-request-id': 'e32aaa82-6874-49a7-a240-b393ba43a7f4', 'x-ms-client-request-id': '6a9c7b3e-7abe-44e9-84f1-fccc3072d934', 'x-ratelimit-remaining-tokens': '119996', 'azureml-model-session': 'd023-20240925120719', 'date': 'Thu, 05 Dec 2024 10:21:56 GMT'})
+2024-12-05 15:50:34,808 - DEBUG - request_id: e32aaa82-6874-49a7-a240-b393ba43a7f4
