@@ -1,0 +1,538 @@
+{
+  "question": "Explain how standardized agreements and acquisition processes could reshape the startup ecosystem, and what are the potential benefits and drawbacks for both founders and acquirers?",
+  "answer": "This response explains how standardized agreements and acquisition processes, as described in the provided text, could impact the startup ecosystem, focusing solely on the information given.  The text highlights the emergence of standardized procedures in startup acquisitions and investment terms, driven by factors such as the increasing number of web startups and the actions of companies like Google and Y Combinator.\n\n1. **Increased Efficiency and Reduced Costs:** The development of standardized procedures for acquiring startups, as exemplified by Google's actions [1], leads to a more efficient acquisition process.  Similarly, Y Combinator's standardized investment terms aim to reduce legal fees and time spent on fundraising for startups [2]. This streamlining benefits both founders and acquirers by reducing transaction costs and time-to-market.\n\n2. **Impact on Founders:** Standardized agreements could potentially benefit founders by simplifying the fundraising process and reducing legal complexities [2]. However, the text does not explicitly detail potential drawbacks for founders related to standardized agreements or acquisition processes.\n\n3. **Impact on Acquirers:**  For acquirers, standardized procedures offer increased efficiency in acquiring startups [1].  The text indicates that acquirers prioritize strategic value [3] and understand the importance of user love for financial success [3], suggesting that standardized processes might not fully capture the nuances of individual startup valuations and potential.  The text does not explicitly mention drawbacks for acquirers related to standardization.\n\n4. **Predictability and Standardization:** Paul Graham's prediction of increased standardization in startup acquisitions and investment terms [4] suggests a move towards a more predictable and less fragmented ecosystem. This could lead to a more efficient allocation of capital and resources.  However, the long-term effects of this standardization on innovation and the overall diversity of the startup landscape are not discussed in the provided text.\n\nIn summary, the provided text suggests that standardized agreements and acquisition processes are emerging trends in the startup ecosystem, driven by the need for efficiency and scalability. While these trends offer potential benefits in terms of reduced costs and increased speed, the long-term implications for innovation and the potential drawbacks for both founders and acquirers remain largely unaddressed within the given context.\n\n\nCitations:\n1.  File Name: A Student's Guide to Startups (HIVE).txt;  File Path: D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt;  Hiring is Obsolete (HIVE).txt; File Path: D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt\n2.  File Name: A Student's Guide to Startups (HIVE).txt; File Path: D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt\n3. File Name: Hiring is Obsolete (HIVE).txt; File Path: D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt\n4. File Name: A Student's Guide to Startups (HIVE).txt; File Path: D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt\n\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "218e6adda905f6cb3464a6f33e378f4aa149f6465d3b651270eb80dd66ea2d9b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0798ee2a0ace2f0ecb8b7fc8dd41ffd14b528511f9d008bc3ddd1fbdc7bb66c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> PREDICT (Description: Prediction of increased standardization in startup acquisitions and investment terms due to the rising number of web startups.) -> increased standardization in startup acquisitions (Description: Prediction that large companies will develop standardized procedures for acquiring startups, making the process more efficient.)\n\nRecent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage. This is one reason I'd bet on the 25 year old over the 32 year old. The 32 year old probably is a better programmer, but probably also has a much more expensive life. Whereas a 25 year old has some work experience (more on that later) but can live as cheaply as an undergrad. Robert Morris and I were 29 and 30 respectively when we started Viaweb, but fortunately we still lived like 23 year olds. We both had roughly zero assets. I would have loved to have a mortgage, since that would have meant I had a house But in retrospect having nothing turned out to be convenient. I wasn't tied down and I was used to living cheaply. Even more important than living cheaply, though, is thinking cheaply. One reason the Apple II was so popular was that it was cheap. The computer itself was cheap, and it used cheap, off-the-shelf peripherals like a cassette tape recorder for data storage and a TV as a monitor. And you know why? Because Woz designed this computer for himself, and he couldn't afford anything more. We benefitted from the same phenomenon. Our prices were daringly low for the time. The top level of service was $300 a month, which was an order of magnitude below the norm. In retrospect this was a smart move, but we didn't do it because we were smart. $300 a month seemed like a lot of money to us. Like Apple, we created something inexpensive, and therefore popular, simply because we were poor. A lot of startups have that form: someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible. Traditional long distance carriers, for example, didn't even want to think about VoIP. (It was coming, all the same.) Being poor helps in this game, because your own personal bias points in the same direction technology evolves in. The advantages of rootlessness are similar to those of poverty. When you're young you're more mobileâ€”not just because you don't have a house or much stuff, but also because you're less likely to have serious relationships. This turns out to be important, because a lot of startups involve someone moving. The founders of Kiko, for example, are now en route to the Bay Area to start their next startup. It's a better place for what they want to do. And it was easy for them to decide to go, because neither as far as I know has a serious girlfriend, and everything they own will fit in one carâ€”or more precisely, will either fit in one car or is crappy enough that they don't mind leaving it behind. They at least were in Boston. What if they'd been in Nebraska, like Evan Williams was at their age? Someone wrote recently that the drawback of Y Combinator was that you had to move to participate. It couldn't be any other way. The kind of conversations we have with founders, we have to have in person. We fund a dozen startups at a time, and we can't be in a dozen places at once. But even if we could somehow magically save people from moving, we wouldn't. We wouldn't be doing founders a favor by letting them stay in Nebraska. Places that aren't startup hubs are toxic to startups. You can tell that from indirect evidence. You can tell how hard it must be to start a startup in Houston or Chicago or Miami from the microscopically small number, per capita, that succeed there. I don't know exactly what's suppressing all the startups in these townsâ€”probably a hundred subtle little thingsâ€”but something must be. [ 2 ] Maybe this will change. Maybe the increasing cheapness of startups will mean they'll be able to survive anywhere, instead of only in the most hospitable environments. Maybe 37signals is the pattern for the future. But maybe not. Historically there have always been certain towns that were centers for certain industries, and if you weren't in one of them you were at a disadvantage. So my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8228,
+        "end_char_idx": 12436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> LEAD (Description: Leadership role in developing standardized procedures for acquiring startups, setting a precedent for other large companies.) -> standardized startup acquisitions (Description: Standardized procedures developed by Google to streamline the acquisition of startups, making the process more efficient.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9962589387459595,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "12047642-2218-44c2-aa6f-30971780e0de",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "2ac282164d730828f8a05c465d4a4a3e86e12b439150c00c96fe14138380d73f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nY Combinator (Description: Startup accelerator program mentioned in the context of founders relocating for a 3-month program, highlighting the commitment required for startup success.) -> DEVELOP (Description: Development of standardized procedures for dealing with large numbers of startups, including investment terms and paperwork.) -> standardized investment terms (Description: Standardized legal agreements used by Y Combinator for angel rounds, aiming to reduce legal fees and time spent on fundraising for startups.)\n\nI know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word. Get into the habit of thinking of software as having users. What do those users want? What would make them say wow? This is particularly valuable for undergrads, because the concept of users is missing from most college programming classes. The way you get taught programming in college would be like teaching writing as grammar, without mentioning that its purpose is to communicate something to an audience. Fortunately an audience for software is now only an http request away. So in addition to the programming you do for your classes, why not build some kind of website people will find useful? At the very least it will teach you how to write software with users. In the best case, it might not just be preparation for a startup, but the startup itself, like it was for Yahoo and Google. Notes [ 1 ] Even the desire to protect one's children seems weaker, judging from things people have historically done to their kids rather than risk their community's disapproval. (I assume we still do things that will be regarded in the future as barbaric, but historical abuses are easier for us to see.) [ 2 ] Worrying that Y Combinator makes founders move for 3 months also suggests one underestimates how hard it is to start a startup. You're going to have to put up with much greater inconveniences than that. [ 3 ] Most employee agreements say that any idea relating to the company's present or potential future business belongs to them. Often as not the second clause could include any possible startup, and anyone doing due diligence for an investor or acquirer will assume the worst. To be safe either (a) don't use code written while you were still employed in your previous job, or (b) get your employer to renounce, in writing, any claim to the code you write for your side project. Many will consent to (b) rather than lose a prized employee. The downside is that you'll have to tell them exactly what your project does. [ 4 ] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC. Thanks to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak. Comment on this essay.",
+        "mimetype": "text/plain",
+        "start_char_idx": 33421,
+        "end_char_idx": 35791,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9888208783882013,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "69519fc5-c3a1-4441-97c0-9db6a772a2e4",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> HAVE -> conservative risk attitude",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "d2010e15-1dd7-44cc-a0c8-26f11edc0169",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> FOUND -> Startup",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "a07394e8-c83c-4047-94b8-ae910a9a9018",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> CEDE_POWER_TO -> Board of Directors",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "e0ea7099-16dc-4c08-aaeb-bfb07165ea27",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> APPROACH -> VCs",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "c1046087-8df4-4789-a086-7b0062ea46b7",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "VCs -> PRIORITIZE -> Founders",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "2e7bf0e7-f5e6-4a37-bbc9-d3bb1c03a652",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "b3f0c64b-cac3-431a-b201-259831b015aa",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "US admissions departments -> SELECT -> Founders",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "5e188c84-8e12-49b3-9010-512bafb91182",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "376443bd-9dc1-477d-b826-6d13ffc68feb",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Acquirers -> UNDERSTAND -> user love is crucial for financial success",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "a94c6ac6-e6c9-4e5a-b542-6dfeef1cfa6a",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "376443bd-9dc1-477d-b826-6d13ffc68feb",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Acquirers -> PRIORITIZE -> Strategic Value",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "855f68cb-4725-4ed2-997c-8ea4ffabfad3",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "376443bd-9dc1-477d-b826-6d13ffc68feb",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Acquirers -> ATTEMPT_ACQUISITION -> Startup",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "6e8ad979-3212-4840-ac93-a991b558a2cc",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "376443bd-9dc1-477d-b826-6d13ffc68feb",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Acquirers -> acquire -> startups",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "9c3c512b-78d4-43ab-abc2-c04ea4a07378",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Startup -> HAVE -> Valuation",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

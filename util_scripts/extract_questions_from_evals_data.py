@@ -38,7 +38,7 @@ def main():
             for question in questions:
                 writer.writerow([question, ''])
                 
-        print("Questions and empty answer columns have been saved to 'questions_and_answers.csv'")
+        print("Questions and empty answer columns have been saved to 'questions_and_answers_v2.csv'")
         
     except Exception as e:
         print(f"An error occurred: {str(e)}")

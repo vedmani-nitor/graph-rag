@@ -1,0 +1,240 @@
+{
+  "question": "Why is cheapness considered \"power\" for startups, and how does it contribute to their success?",
+  "answer": "Cheap operation is a significant advantage for startups because it provides them with more resilience in the face of challenges [1, 2].  This \"power\" stems from the fact that a low burn rate—meaning low operating costs—increases the opportunity to recover from mistakes and setbacks [1].\n\n1. **Financial Resilience:**  Most startups fail due to running out of money [1].  While other underlying causes often exist, a low burn rate acts as a buffer, providing more time to address problems and adapt strategies before financial resources are exhausted [1].\n\n2. **Flexibility and Adaptation:**  Startups frequently make mistakes and alter their initial plans [1].  Operating cheaply allows for experimentation and iterative development, enabling them to try different approaches without the immediate pressure of high expenses [1].  A rigid plan coupled with high spending is detrimental, whereas cheap operation allows ideas to evolve organically [1].\n\n3. **Competitive Advantage:**  The primary cost in software startups is personnel [1]. Recent graduates, due to their lower living expenses, possess a significant advantage over older founders with families and mortgages [1]. This cost advantage translates directly into a competitive edge in the market.\n\nIn summary, cheap operation empowers startups by providing financial resilience, flexibility to adapt and experiment, and a competitive advantage, particularly for young founders.  This resilience and adaptability are crucial for navigating the inherent uncertainties and challenges of the startup environment.\nCitations:\n1. file_path: D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt\n2. file_path: D:\\projects\\graphrag-poc\\data\\selection 1\\How People Get Rich Now (HIVE).txt\n\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "16c29ab7-ddb1-4bd8-b875-6554ffc07a96",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "f1fe361c05db0c96e795a8fc9b1b6d58a6dce9655f277e788455763717786804",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2a1381d2c558e9e6663480eef603a6103bb22124271aa78a2590e899156c1cc3",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nRecent graduates (Description: Individuals who recently completed their education; their ability to live cheaply gives them an advantage in starting software startups.) -> ADVANTAGE (Description: Advantage of recent graduates in starting startups.) -> low living costs (Description: Financial advantage of recent graduates in the context of software startups.)\n\nIn such a close game, the smallest increase in the forces against you can be enough to flick you over the edge into failure. When we first started Y Combinator we encouraged people to start startups while they were still in college. That's partly because Y Combinator began as a kind of summer program. We've kept the program shapeâ€”all of us having dinner together once a week turns out to be a good ideaâ€”but we've decided now that the party line should be to tell people to wait till they graduate. Does that mean you can't start a startup in college? Not at all. Sam Altman, the co-founder of Loopt , had just finished his sophomore year when we funded them, and Loopt is probably the most promising of all the startups we've funded so far. But Sam Altman is a very unusual guy. Within about three minutes of meeting him, I remember thinking \"Ah, so this is what Bill Gates must have been like when he was 19.\" If it can work to start a startup during college, why do we tell people not to? For the same reason that the probably apocryphal violinist, whenever he was asked to judge someone's playing, would always say they didn't have enough talent to make it as a pro. Succeeding as a musician takes determination as well as talent, so this answer works out to be the right advice for everyone. The ones who are uncertain believe it and give up, and the ones who are sufficiently determined think \"screw that, I'll succeed anyway.\" So our official policy now is only to fund undergrads we can't talk out of it. And frankly, if you're not certain, you should wait. It's not as if all the opportunities to start companies are going to be gone if you don't do it now. Maybe the window will close on some idea you're working on, but that won't be the last idea you'll have. For every idea that times out, new ones become feasible. Historically the opportunities to start startups have only increased with time. In that case, you might ask, why not wait longer? Why not go work for a while, or go to grad school, and then start a startup? And indeed, that might be a good idea. If I had to pick the sweet spot for startup founders, based on who we're most excited to see applications from, I'd say it's probably the mid-twenties. Why? What advantages does someone in their mid-twenties have over someone who's 21? And why isn't it older? What can 25 year olds do that 32 year olds can't? Those turn out to be questions worth examining. Plus If you start a startup soon after college, you'll be a young founder by present standards, so you should know what the relative advantages of young founders are. They're not what you might think. As a young founder your strengths are: stamina, poverty, rootlessness, colleagues, and ignorance. The importance of stamina shouldn't be surprising. If you've heard anything about startups you've probably heard about the long hours. As far as I can tell these are universal. I can't think of any successful startups whose founders worked 9 to 5. And it's particularly necessary for younger founders to work long hours because they're probably not as efficient as they'll be later. Your second advantage, poverty, might not sound like an advantage, but it is a huge one. Poverty implies you can live cheaply, and this is critically important for startups. Nearly every startup that fails, fails by running out of money. It's a little misleading to put it this way, because there's usually some other underlying cause. But regardless of the source of your problems, a low burn rate gives you more opportunity to recover from them. And since most startups make all kinds of mistakes at first, room to recover from mistakes is a valuable thing to have. Most startups end up doing something different than they planned. The way the successful ones find something that works is by trying things that don't. So the worst thing you can do in a startup is to have a rigid, pre-ordained plan and then start spending a lot of money to implement it. Better to operate cheaply and give your ideas time to evolve. Recent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage.",
+        "mimetype": "text/plain",
+        "start_char_idx": 4189,
+        "end_char_idx": 8436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "3e0c1e6b-281f-408c-af19-451a8b3afec9",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How People Get Rich Now (HIVE).txt",
+          "file_name": "How People Get Rich Now (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 14641,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "5e19c9e8-b104-4193-8eb9-470fcc513b78",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How People Get Rich Now (HIVE).txt",
+              "file_name": "How People Get Rich Now (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 14641,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "638a3fc276bd116c3f2338f93ccc6b47968652c31d9796044490018cc67f0735",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "89dccb77-10ac-4be3-a181-264319e95b45",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How People Get Rich Now (HIVE).txt",
+              "file_name": "How People Get Rich Now (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 14641,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "6d4822e74239add8eb3544bc96a6267bdd6ec1caa1a5e3279fed8a01a508b64e",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "ae6a7f90-9f34-4d51-9ea7-2c7f60afd969",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "0702388b3c14a3f02a648203043450dd3a6fc5bf2a8a4d9122bfcc9edb9aa076",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nTechnology (Description: Technological advancements that have not only reduced the cost but also accelerated the speed of product development and distribution, impacting the growth trajectory of startups.) -> DECREASE (Description: Reduction in the cost of building products and acquiring customers, leading to a shift in power dynamics between founders and investors in the startup ecosystem.) -> Cost of starting a startup (Description: The overall expense associated with establishing a new company, significantly influenced by technological progress in product development and customer acquisition.)\nDecreasing cost of starting a startup (Description: The reduced expense of launching a new venture, driven by technological advancements, leading to an increase in the number of startups and improved terms for founders.) -> INCREASE (Description: The positive correlation between the reduced cost of starting a startup and the rise in the number of wealthy individuals, due to increased startup creation and improved funding terms.) -> Number of rich people (Description: The growing population of affluent individuals, partly attributed to the increased accessibility and success rate of startups.)\n\nBut the main reason it's easier to start a startup now is that it's cheaper. Technology has driven down the cost of both building products and acquiring customers. The decreasing cost of starting a startup has in turn changed the balance of power between founders and investors. Back when starting a startup meant building a factory, you needed investors' permission to do it at all. But now investors need founders more than founders need investors, and that, combined with the increasing amount of venture capital available, has driven up valuations. [ 8 ] So the decreasing cost of starting a startup increases the number of rich people in two ways: it means that more people start them, and that those who do can raise money on better terms. But there's also a third factor at work: the companies themselves are more valuable, because newly founded companies grow faster than they used to. Technology hasn't just made it cheaper to build and distribute things, but faster too. This trend has been running for a long time. IBM, founded in 1896, took 45 years to reach a billion 2020 dollars in revenue. Hewlett-Packard, founded in 1939, took 25 years. Microsoft, founded in 1975, took 13 years. Now the norm for fast-growing companies is 7 or 8 years. [ 9 ] Fast growth has a double effect on the value of founders' stock. The value of a company is a function of its revenue and its growth rate. So if a company grows faster, you not only get to a billion dollars in revenue sooner, but the company is more valuable when it reaches that point than it would be if it were growing slower. That's why founders sometimes get so rich so young now. The low initial cost of starting a startup means founders can start young, and the fast growth of companies today means that if they succeed they could be surprisingly rich just a few years later. It's easier now to start and grow a company than it has ever been. That means more people start them, that those who do get better terms from investors, and that the resulting companies become more valuable. Once you understand how these mechanisms work, and that startups were suppressed for most of the 20th century, you don't have to resort to some vague right turn the country took under Reagan to explain why America's Gini coefficient is increasing. Of course the Gini coefficient is increasing. With more people starting more valuable companies, how could it not be? Notes [ 1 ] Investment firms grew rapidly after a regulatory change by the Labor Department in 1978 allowed pension funds to invest in them, but the effects of this growth were not yet visible in the top 100 fortunes in 1982. [ 2 ] George Mitchell deserves mention as an exception. Though really driven and good at making deals, he was also the first to figure out how to use fracking to get natural gas out of shale. [ 3 ] When I say people are starting more companies, I mean the type of company meant to grow very big. There has actually been a decrease in the last couple decades in the overall number of new companies. But the vast majority of companies are small retail and service businesses. So what the statistics about the decreasing number of new businesses mean is that people are starting fewer shoe stores and barber shops. People sometimes get confused when they see a graph labelled \"startups\" that's going down, because there are two senses of the word \"startup\": (1) the founding of a company, and (2) a particular type of company designed to grow big fast. The statistics mean startup in sense (1), not sense (2). [ 4 ] Rockoff, Hugh. \"Great Fortunes of the Gilded Age.\" NBER Working Paper 14555, 2008. [ 5 ] Lind, Michael. Land of Promise. HarperCollins, 2012. It's also likely that the high tax rates in the mid 20th century deterred people from starting their own companies. Starting one's own company is risky, and when risk isn't rewarded, people opt for safety instead. But it wasn't simply cause and effect. The oligopolies and high tax rates of the mid 20th century were all of a piece.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8123,
+        "end_char_idx": 12153,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9967166544650748,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "bac9a182161e44de958aa2c7bf097e8c34bc9e7500526900f59d99186e87b09f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "99560dc8-3676-4d58-ac16-98284b6e61c1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "20fd47e53c71e89dcb2e74ccb564e268c4d110b851878509ca489d7ae61d9bec",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> STRATEGY (Description: Approach used by successful startups.) -> adapting initial plans and operating cheaply (Description: Key strategies employed by successful startups.)\n\nSo my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here. Perhaps the reason more startups per capita happen in the Bay Area than Miami is simply that there are more founder-type people there. Successful startups are almost never started by one person. Usually they begin with a conversation in which someone mentions that something would be a good idea for a company, and his friend says, \"Yeah, that is a good idea, let's try it.\" If you're missing that second person who says \"let's try it,\" the startup never happens. And that is another area where undergrads have an edge. They're surrounded by people willing to say that. At a good college you're concentrated together with a lot of other ambitious and technically minded peopleâ€”probably more concentrated than you'll ever be again. If your nucleus spits out a neutron, there's a good chance it will hit another nucleus. The number one question people ask us at Y Combinator is: Where can I find a co-founder? That's the biggest problem for someone starting a startup at 30. When they were in school they knew a lot of good co-founders, but by 30 they've either lost touch with them or these people are tied down by jobs they don't want to leave. Viaweb was an anomaly in this respect too. Though we were comparatively old, we weren't tied down by impressive jobs. I was trying to be an artist, which is not very constraining, and Robert, though 29, was still in grad school due to a little interruption in his academic career back in 1988. So arguably the Worm made Viaweb possible. Otherwise Robert would have been a junior professor at that age, and he wouldn't have had time to work on crazy speculative projects with me. Most of the questions people ask Y Combinator we have some kind of answer for, but not the co-founder question. There is no good answer. Co-founders really should be people you already know. And by far the best place to meet them is school. You have a large sample of smart people; you get to compare how they all perform on identical tasks; and everyone's life is pretty fluid. A lot of startups grow out of schools for this reason. Google, Yahoo, and Microsoft, among others, were all founded by people who met in school. (In Microsoft's case, it was high school.) Many students feel they should wait and get a little more experience before they start a company. All other things being equal, they should. But all other things are not quite as equal as they look. Most students don't realize how rich they are in the scarcest ingredient in startups, co-founders. If you wait too long, you may find that your friends are now involved in some project they don't want to abandon. The better they are, the more likely this is to happen. One way to mitigate this problem might be to actively plan your startup while you're getting those n years of experience. Sure, go off and get jobs or go to grad school or whatever, but get together regularly to scheme, so the idea of starting a startup stays alive in everyone's brain. I don't know if this works, but it can't hurt to try. It would be helpful just to realize what an advantage you have as students. Some of your classmates are probably going to be successful startup founders; at a great technical university, that is a near certainty. So which ones? If I were you I'd look for the people who are not just smart, but incurable builders Look for the people who keep starting projects, and finish at least some of them. That's what we look for. Above all else, above academic credentials and even the idea you apply with, we look for people who build things. The other place co-founders meet is at work. Fewer do than at school, but there are things you can do to improve the odds. The most important, obviously, is to work somewhere that has a lot of smart, young people. Another is to work for a company located in a startup hub. It will be easier to talk a co-worker into quitting with you in a place where startups are happening all around you. You might also want to look at the employment agreement you sign when you get hired. Most will say that any ideas you think of while you're employed by the company belong to them. In practice it's hard for anyone to prove what ideas you had when, so the line gets drawn at code.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12333,
+        "end_char_idx": 16641,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9932674456276858,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

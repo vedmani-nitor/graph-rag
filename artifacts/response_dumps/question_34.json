@@ -1,0 +1,219 @@
+{
+  "question": "How has Google's approach to hiring and its internal culture contributed to its ability to innovate and compete in the rapidly changing tech landscape?",
+  "answer": "This question cannot be fully answered using only the provided text. While the text mentions Google's founding, early hiring practices from Stanford [1, 3], and its eventual success as a major internet company alongside Yahoo and Microsoft [1], it does not offer details on how Google's hiring approach and internal culture specifically contributed to its innovation and competitive edge in the tech landscape.  The text notes that Google initially hired \"the smartest people they knew out of Stanford\" [3], which was advantageous, but it does not elaborate on the long-term effects of this strategy or other aspects of its internal culture on innovation.  Therefore, a comprehensive answer regarding the contribution of Google's hiring and internal culture to its success is impossible based solely on the provided information.\n\nCitations:\n1. D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt\n3. D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt\n\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "d26e24bf-69ac-449a-83b4-5947a43dbefe",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt",
+          "file_name": "How to Start Google (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 15570,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "c593ff8c-9c9c-4552-b824-0a9f87f217d3",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt",
+              "file_name": "How to Start Google (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 15570,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "a478d936bcf9417085d495f3496c8148d8ac3444b194eb3de1ccf59db6abb13f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "3de3d178-5f92-49e3-acb2-e1820ab27c97",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt",
+              "file_name": "How to Start Google (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 15570,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "9b795af04ea317fc85f68b228c664e51600b88846af446f6213f4f6dc2d195e4",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "b3f0c64b-cac3-431a-b201-259831b015aa",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "0dbe013c86edf842bca0cbbc763304d4329a8e265dd86c6528fc9835906e5d9b",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nLarry Page (Description: Programmer who, along with Sergey Brin, aimed to improve search engine results, demonstrating a focus on problem-solving in technology.) -> CO-FOUNDED (Description: Collaboration with Sergey Brin to create Google, focusing on improving search engine algorithms.) -> Google (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.)\nLarry Page (Description: Programmer who, along with Sergey Brin, aimed to improve search engine results, demonstrating a focus on problem-solving in technology.) -> FOUNDED (Description: Establishment of a company, in this case Google, driven by a need to improve existing technology and capitalize on the growing web.) -> Google (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.)\nSergey Brin (Description: Programmer who, along with Larry Page, aimed to improve search engine results, demonstrating a focus on problem-solving in technology.) -> CO-FOUNDED (Description: Collaboration with Larry Page to create Google, focusing on improving search engine algorithms.) -> Google (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.)\nSergey Brin (Description: Programmer who, along with Larry Page, aimed to improve search engine results, demonstrating a focus on problem-solving in technology.) -> FOUNDED (Description: Establishment of a company, in this case Google, driven by a need to improve existing technology and capitalize on the growing web.) -> Google (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.)\n\nEach individual house has an online facebook, but there isn't one for the whole university. The university administration has been diligently having meetings about this, and will probably have solved the problem in another decade or so. Most of the students don't consciously notice that anything is wrong. But Mark is a programmer. He looks at this situation and thinks \"Well, this is stupid. I could write a program to fix this in one night. Just let people upload their own photos and then combine the data into a new site for the whole university.\" So he does. And almost literally overnight he has thousands of users. Of course Facebook was not a startup yet. It was just a... project. There's that word again. Projects aren't just the best way to learn about technology. They're also the best source of startup ideas. Facebook was not unusual in this respect. Apple and Google also began as projects. Apple wasn't meant to be a company. Steve Wozniak just wanted to build his own computer. It only turned into a company when Steve Jobs said \"Hey, I wonder if we could sell plans for this computer to other people.\" That's how Apple started. They weren't even selling computers, just plans for computers. Can you imagine how lame this company seemed? Ditto for Google. Larry and Sergey weren't trying to start a company at first. They were just trying to make search better. Before Google, most search engines didn't try to sort the results they gave you in order of importance. If you searched for \"rugby\" they just gave you every web page that contained the word \"rugby.\" And the web was so small in 1997 that this actually worked! Kind of. There might only be 20 or 30 pages with the word \"rugby,\" but the web was growing exponentially, which meant this way of doing search was becoming exponentially more broken. Most users just thought, \"Wow, I sure have to look through a lot of search results to find what I want.\" Door sticks. But like Mark, Larry and Sergey were programmers. Like Mark, they looked at this situation and thought \"Well, this is stupid. Some pages about rugby matter more than others. Let's figure out which those are and show them first.\" It's obvious in retrospect that this was a great idea for a startup. It wasn't obvious at the time. It's never obvious. If it was obviously a good idea to start Apple or Google or Facebook, someone else would have already done it. That's why the best startups grow out of projects that aren't meant to be startups. You're not trying to start a company. You're just following your instincts about what's interesting. And if you're young and good at technology, then your unconscious instincts about what's interesting are better than your conscious ideas about what would be a good company. So it's critical, if you're a young founder, to build things for yourself and your friends to use. The biggest mistake young founders make is to build something for some mysterious group of other people. But if you can make something that you and your friends truly want to use â€” something your friends aren't just using out of loyalty to you, but would be really sad to lose if you shut it down â€” then you almost certainly have the germ of a good startup idea. It may not seem like a startup to you. It may not be obvious how to make money from it. But trust me, there's a way. What you need in a startup idea, and all you need, is something your friends actually want. And those ideas aren't hard to see once you're good at technology. There are sticking doors everywhere. [ 2 ] Now for the third and final thing you need: a cofounder, or cofounders. The optimal startup has two or three founders, so you need one or two cofounders. How do you find them? Can you predict what I'm going to say next? It's the same thing: projects. You find cofounders by working on projects with them. What you need in a cofounder is someone who's good at what they do and that you work well with, and the only way to judge this is to work with them on things. At this point I'm going to tell you something you might not want to hear. It really matters to do well in your classes, even the ones that are just memorization or blathering about literature, because you need to do well in your classes to get into a good university.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8277,
+        "end_char_idx": 12552,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> FOUNDED_BY (Description: Founding of the company by individuals with an average age of 24, as mentioned in the essay.) -> Founders (average age 24) (Description: Group of founders with an average age of 24, used as an example to support the argument for younger entrepreneurs.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> PRODUCE (Description: Describes the low number of startups emerging from Google's employees.) -> zero startups (Description: The number of startups founded by Google employees, highlighting a lack of entrepreneurial activity.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> FOUNDED_IN (Description: Year of establishment of the company) -> 1998 (Description: Year Google was founded, highlighting its late entry into a seemingly saturated market.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> COMPETE_WITH (Description: Competition between Google and VCs for acquiring startups, particularly those in early stages.) -> VCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> IS_ONE_OF (Description: Membership in a group of significant internet companies in May 2005.) -> major internet companies (Description: Group consisting of Yahoo, Google, and Microsoft in May 2005, characterized by young founders.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> DEVELOP (Description: Development of a search engine that addressed existing market shortcomings, leading to significant financial success.) -> Improved Search Engine (Description: A search engine that improved upon existing offerings by indexing more of the web, using links for ranking, and providing a clean user interface.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> CONDITION_OF_FUNDING (Description: The investors' condition for funding Google, highlighting the historical influence of investors on startup leadership.) -> Hire Experienced CEO (Description: The investor's requirement for Google to hire a seasoned CEO, illustrating a past power dynamic that is changing.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> is_example_of (Description: Illustrative example of a successful startup that transitioned into a large consumer brand.) -> successful startup (Description: Startups that achieve significant success, often operating in niche markets or within infrastructure.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> UNDERSTOOD (Description: Deep understanding of core business functionality.) -> search (Description: Core technology and functionality of Google's search engine.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> GENERATE_REVENUE_FROM (Description: Google's revenue generation includes advertising on other websites, in addition to its own services.) -> Advertising (Description: A significant source of revenue for Google, including ads placed on other websites.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> founded_by (Description: Larry Page and Sergey Brin founded Google, a company that eventually became worth over a trillion dollars.) -> Larry Page and Sergey Brin (Description: Founders of Google.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> valued_at (Description: Google's valuation exceeding a trillion dollars highlights its immense success.) -> over a trillion dollars (Description: Google's valuation at a point in time.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> IMPROVED (Description: Enhancement of search engine algorithms to prioritize relevant results, addressing a significant problem in the early internet.) -> search engine results (Description: Core technology improved by Google, focusing on relevance and ranking of search results.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> HIRED_FROM (Description: Google's initial hiring strategy focused on recruiting top talent from Stanford University.) -> Stanford (Description: University from which Google initially recruited its top employees.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> LEAD (Description: Leadership role in developing standardized procedures for acquiring startups, setting a precedent for other large companies.) -> standardized startup acquisitions (Description: Standardized procedures developed by Google to streamline the acquisition of startups, making the process more efficient.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> ACQUIRE (Description: Acquisition of valuable startups by large companies like Google.) -> Startups (Description: New businesses that offer potential learning opportunities for college students.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "b3f0c64b-cac3-431a-b201-259831b015aa",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt",
+          "file_name": "How to Start Google (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 15570,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "c593ff8c-9c9c-4552-b824-0a9f87f217d3",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt",
+              "file_name": "How to Start Google (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 15570,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "a478d936bcf9417085d495f3496c8148d8ac3444b194eb3de1ccf59db6abb13f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "d26e24bf-69ac-449a-83b4-5947a43dbefe",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start Google (HIVE).txt",
+              "file_name": "How to Start Google (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 15570,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "df57796bd8bb2f06a0a92f94c3cae32a8dc83568f4de56c5fe58c11f95ea71e7",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nLarry and Sergey (Description: Cofounders of Google who initially hired the smartest people they knew from Stanford.) -> FOUND (Description: Founding of Google after unsuccessful attempts to sell their search engine idea to other companies.) -> Google (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.)\nLarry and Sergey (Description: Cofounders of Google who initially hired the smartest people they knew from Stanford.) -> FOUNDED (Description: Act of establishing a company, in this case Google, by Larry and Sergey.) -> Google (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.)\nLarry and Sergey (Description: Cofounders of Google who initially hired the smartest people they knew from Stanford.) -> FOUNDER_OF (Description: Illustrates successful entrepreneurship by individuals who did not initially seek traditional employment.) -> Google (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.)\n\nIt really matters to do well in your classes, even the ones that are just memorization or blathering about literature, because you need to do well in your classes to get into a good university. And if you want to start a startup you should try to get into the best university you can, because that's where the best cofounders are. It's also where the best employees are. When Larry and Sergey started Google, they began by just hiring all the smartest people they knew out of Stanford, and this was a real advantage for them. The empirical evidence is clear on this. If you look at where the largest numbers of successful startups come from, it's pretty much the same as the list of the most selective universities. I don't think it's the prestigious names of these universities that cause more good startups to come out of them. Nor do I think it's because the quality of the teaching is better. What's driving this is simply the difficulty of getting in. You have to be pretty smart and determined to get into MIT or Cambridge, so if you do manage to get in, you'll find the other students include a lot of smart and determined people. [ 3 ] You don't have to start a startup with someone you meet at university. The founders of Twitch met when they were seven. The founders of Stripe, Patrick and John Collison, met when John was born. But universities are the main source of cofounders. And because they're where the cofounders are, they're also where the ideas are, because the best ideas grow out of projects you do with the people who become your cofounders. So the list of what you need to do to get from here to starting a startup is quite short. You need to get good at technology, and the way to do that is to work on your own projects. And you need to do as well in school as you can, so you can get into a good university, because that's where the cofounders and the ideas are. That's it, just two things, build stuff and do well in school. Notes [ 1 ] The rhetorical trick in this sentence is that the \"Google\"s refer to different things. What I mean is: a company that has as much chance of growing as big as Google ultimately did as Larry and Sergey could have reasonably expected Google itself would at the time they started it. But I think the original version is zippier. [ 2 ] Making something for your friends isn't the only source of startup ideas. It's just the best source for young founders, who have the least knowledge of what other people want, and whose own wants are most predictive of future demand. [ 3 ] Strangely enough this is particularly true in countries like the US where undergraduate admissions are done badly. US admissions departments make applicants jump through a lot of arbitrary hoops that have little to do with their intellectual ability. But the more arbitrary a test, the more it becomes a test of mere determination and resourcefulness. And those are the two most important qualities in startup founders. So US admissions departments are better at selecting founders than they would be if they were better at selecting students. Thanks to Jared Friedman, Carolynn Levy, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12359,
+        "end_char_idx": 15555,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

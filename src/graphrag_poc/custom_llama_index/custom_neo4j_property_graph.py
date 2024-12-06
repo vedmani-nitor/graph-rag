@@ -644,7 +644,7 @@ class Neo4jPropertyGraphStore(PropertyGraphStore):
             print("--------------------------------")
             print("Performing hybrid query")
             data = self.structured_query(
-                f"""CALL {{
+                f"""CALL () {{
                     CALL db.index.vector.queryNodes('{VECTOR_INDEX_NAME}', $limit, $embedding)
                     YIELD node, score
                     WITH collect({{node: node, score: score}}) AS nodes, max(score) AS vector_index_max_score

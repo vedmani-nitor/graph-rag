@@ -1,0 +1,318 @@
+{
+  "question": "What is the significance of growth for startups, and how does focusing on growth help founders make better decisions?",
+  "answer": "Growth is paramount for startups, significantly impacting their valuation, acquisition potential, and overall success [1, 2].  Focusing on growth allows founders to make more effective decisions by providing a clear metric for evaluating progress and guiding strategic choices.\n\n1. **Valuation and Acquisition:** Rapid growth significantly increases a startup's value, making it attractive to acquirers [1].  Instagram's acquisition by Facebook exemplifies this, with its rapid growth being a key driver of its value [1].  This is because fast-growing companies are seen as both valuable and potentially dangerous to competitors [1].\n\n2. **Decision-Making Framework:**  Focusing on a specific growth rate (e.g., 5-7% weekly) transforms the complex process of running a startup into a more manageable optimization problem [1].  This allows founders to make decisions based on what directly contributes to achieving that growth rate, simplifying choices about resource allocation (e.g., attending conferences, hiring, marketing, feature development) [1].  The weekly growth target acts as a filter, prioritizing actions that directly impact the desired growth trajectory [1].\n\n3. **Understanding the Business:**  The author emphasizes that understanding the business is crucial for success [1].  This understanding is often gained through close interaction with users during periods of slow, organic growth, allowing for iterative product improvement based on direct feedback [1].  This contrasts with companies that prioritize branding over product improvement, a mistake highlighted by the author's comparison of Google's success with its competitors [1].\n\n4. **Measuring Growth:**  The most preferred metric for measuring growth is revenue, with active users serving as a reasonable proxy for startups not yet generating revenue [1].  Tracking growth rate (the ratio of new customers to existing ones, not the absolute number of new customers) is essential for understanding a startup's performance and identifying areas needing improvement [1].  A decreasing growth rate signals potential problems [1].\n\nIn summary, growth is a critical factor for startup success, influencing valuation, acquisition opportunities, and overall performance.  Focusing on a specific growth rate provides a framework for decision-making, allowing founders to prioritize actions that directly contribute to achieving their growth targets and ultimately leading to a better understanding of their business and user needs.  This approach, while seemingly narrow, allows for a more efficient allocation of resources and a clearer path to success.\nCitations:\n1.  D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt; D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt; D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt\n\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "ef071c9d-1b2c-4162-b733-bf29f84f8ffa",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "4ca98ca7-5a7c-4586-8e19-c8806a8c2a26",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "6313e0d55f2d1d486e12736ffe95742c64e6913a68928f5b31b3727eb6905ca8",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "aff1f0e1-2d20-45f6-94fd-7115634d9aed",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "0715cd33fc40025d6929f2afd54ca11a30798253014ab5fb83e9440383cc30b9",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on customer satisfaction and user feedback.) -> customer support (Description: Key business function emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on understanding the core business.) -> understanding its business (Description: Key business strategy emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> LAUNCHED_IN (Description: Date of company launch.) -> early 1996 (Description: Launch date of the author's company, highlighting the slow growth strategy.)\n\nThe idea is to get there first and get all the users, leaving none for competitors. But I think in most businesses the advantages of being first to market are not so overwhelmingly great. Google is again a case in point. When they appeared it seemed as if search was a mature market, dominated by big players who'd spent millions to build their brands: Yahoo, Lycos, Excite, Infoseek, Altavista, Inktomi. Surely 1998 was a little late to arrive at the party. But as the founders of Google knew, brand is worth next to nothing in the search business. You can come along at any point and make something better, and users will gradually seep over to you. As if to emphasize the point, Google never did any advertising. They're like dealers; they sell the stuff, but they know better than to use it themselves. The competitors Google buried would have done better to spend those millions improving their software. Future startups should learn from that mistake. Unless you're in a market where products are as undifferentiated as cigarettes or vodka or laundry detergent, spending a lot on brand advertising is a sign of breakage. And few if any Web businesses are so undifferentiated. The dating sites are running big ad campaigns right now, which is all the more evidence they're ripe for the picking. (Fee, fie, fo, fum, I smell a company run by marketing guys.) We were compelled by circumstances to grow slowly, and in retrospect it was a good thing. The founders all learned to do every job in the company. As well as writing software, I had to do sales and customer support. At sales I was not very good. I was persistent, but I didn't have the smoothness of a good salesman. My message to potential customers was: you'd be stupid not to sell online, and if you sell online you'd be stupid to use anyone else's software. Both statements were true, but that's not the way to convince people. I was great at customer support though. Imagine talking to a customer support person who not only knew everything about the product, but would apologize abjectly if there was a bug, and then fix it immediately, while you were on the phone with them. Customers loved us. And we loved them, because when you're growing slow by word of mouth, your first batch of users are the ones who were smart enough to find you by themselves. There is nothing more valuable, in the early stages of a startup, than smart users. If you listen to them, they'll tell you exactly how to make a winning product. And not only will they give you this advice for free, they'll pay you. We officially launched in early 1996. By the end of that year we had about 70 users. Since this was the era of \"get big fast,\" I worried about how small and obscure we were. But in fact we were doing exactly the right thing. Once you get big (in users or employees) it gets hard to change your product. That year was effectively a laboratory for improving our software. By the end of it, we were so far ahead of our competitors that they never had a hope of catching up. And since all the hackers had spent many hours talking to users, we understood online commerce way better than anyone else. That's the key to success as a startup. There is nothing more important than understanding your business. You might think that anyone in a business must, ex officio, understand it. Far from it. Google's secret weapon was simply that they understood search. I was working for Yahoo when Google appeared, and Yahoo didn't understand search. I know because I once tried to convince the powers that be that we had to make search better, and I got in reply what was then the party line about it: that Yahoo was no longer a mere \"search engine.\" Search was now only a small percentage of our page views, less than one month's growth, and now that we were established as a \"media company,\" or \"portal,\" or whatever we were, search could safely be allowed to wither and drop off, like an umbilical cord. Well, a small fraction of page views they may be, but they are an important fraction, because they are the page views that Web sessions start with. I think Yahoo gets that now. Google understands a few other things most Web companies still don't. The most important is that you should put users before advertisers, even though the advertisers are paying and users aren't. One of my favorite bumper stickers reads \"if the people lead, the leaders will follow.\"",
+        "mimetype": "text/plain",
+        "start_char_idx": 33356,
+        "end_char_idx": 37762,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "6c7b1ce5-23b1-4c73-bed5-d9635b687631",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+          "file_name": "Startup Growth (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 30874,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "7c8a1499-c545-4586-9180-90ddddf22b69",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "27678b1139a6417f4d67dc7dc1f91ff5598ceff8307e118f57eddfe7442bd941",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7dcf7050-9ed8-4aef-b9fe-38c89a1d6f8d",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "d9aac7a7988fbb5936e1e8b1789f504c22219752a68b30da89c1eb82e2f39528",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "f35cf276-127d-433a-aa80-e2598332bff8",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "f21afcebc5a9fa8836c972de9bf43e6cdfe75b79dfee6dd20abdd3e7e840dd0b",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nInstagram (Description: A rapidly growing startup acquired by Facebook, highlighting the importance of growth in startup success.) -> DRIVE (Description: Rapid growth as a key factor in Instagram's acquisition by Facebook, illustrating the importance of growth in startup valuation.) -> Growth (Description: A critical factor driving startup success, valuation, and acquisition offers, as exemplified by Instagram's acquisition.)\nGrowth (Description: A critical factor driving startup success, valuation, and acquisition offers, as exemplified by Instagram's acquisition.) -> SIMILAR_TO (Description: Analogy highlighting the guiding and revealing nature of growth in startups, mirroring scientific discovery.) -> truth (Description: A guiding principle in scientific inquiry, analogous to growth's role in shaping startups.)\n\nMost product acquisitions have some component of fear. Even if an acquirer isn't threatened by the startup itself, they might be alarmed at the thought of what a competitor could do with it. And because startups are in this sense doubly valuable to acquirers, acquirers will often pay more than an ordinary investor would. [ 14 ] Understand The combination of founders, investors, and acquirers forms a natural ecosystem. It works so well that those who don't understand it are driven to invent conspiracy theories to explain how neatly things sometimes turn out. Just as our ancestors did to explain the apparently too neat workings of the natural world. But there is no secret cabal making it all work. If you start from the mistaken assumption that Instagram was worthless, you have to invent a secret boss to force Mark Zuckerberg to buy it. To anyone who knows Mark Zuckerberg, that is the reductio ad absurdum of the initial assumption. The reason he bought Instagram was that it was valuable and dangerous, and what made it so was growth. If you want to understand startups, understand growth. Growth drives everything in this world. Growth is why startups usually work on technology â€” because ideas for fast growing companies are so rare that the best way to find new ones is to discover those recently made viable by change, and technology is the best source of rapid change. Growth is why it's a rational choice economically for so many founders to try starting a startup: growth makes the successful companies so valuable that the expected value is high even though the risk is too. Growth is why VCs want to invest in startups: not just because the returns are high but also because generating returns from capital gains is easier to manage than generating returns from dividends. Growth explains why the most successful startups take VC money even if they don't need to: it lets them choose their growth rate. And growth explains why successful startups almost invariably get acquisition offers. To acquirers a fast-growing company is not merely valuable but dangerous too. It's not just that if you want to succeed in some domain, you have to understand the forces driving it. Understanding growth is what starting a startup consists of. What you're really doing (and to the dismay of some observers, all you're really doing) when you start a startup is committing to solve a harder type of problem than ordinary businesses do. You're committing to search for one of the rare ideas that generates rapid growth. Because these ideas are so valuable, finding one is hard. The startup is the embodiment of your discoveries so far. Starting a startup is thus very much like deciding to be a research scientist: you're not committing to solve any specific problem; you don't know for sure which problems are soluble; but you're committing to try to discover something no one knew before. A startup founder is in effect an economic research scientist. Most don't discover anything that remarkable, but some discover relativity. Notes [ 1 ] Strictly speaking it's not lots of customers you need but a big market, meaning a high product of number of customers times how much they'll pay. But it's dangerous to have too few customers even if they pay a lot, or the power that individual customers have over you could turn you into a de facto consulting firm. So whatever market you're in, you'll usually do best to err on the side of making the broadest type of product for it. [ 2 ] One year at Startup School David Heinemeier Hansson encouraged programmers who wanted to start businesses to use a restaurant as a model. What he meant, I believe, is that it's fine to start software companies constrained in (a) in the same way a restaurant is constrained in (b). I agree. Most people should not try to start startups. [ 3 ] That sort of stepping back is one of the things we focus on at Y Combinator. It's common for founders to have discovered something intuitively without understanding all its implications. That's probably true of the biggest discoveries in any field. [ 4 ] I got it wrong in \"How to Make Wealth\" when I said that a startup was a small company that takes on a hard technical problem. That is the most common recipe but not the only one. [ 5 ] In principle companies aren't limited by the size of the markets they serve, because they could just expand into new markets. But there seem to be limits on the ability of big companies to do that. Which means the slowdown that comes from bumping up against the limits of one's markets is ultimately just another way in which internal limits are expressed.",
+        "mimetype": "text/plain",
+        "start_char_idx": 21611,
+        "end_char_idx": 26239,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9977444086123851,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "949448f9-ec78-4a93-8ffe-e581e526ed57",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+          "file_name": "Startup Growth (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 30874,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "7c8a1499-c545-4586-9180-90ddddf22b69",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "27678b1139a6417f4d67dc7dc1f91ff5598ceff8307e118f57eddfe7442bd941",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "2d33b5a7-4ded-4ca3-97e1-f12f86bceb30",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "a70b89fc166fe612d887b3bf8de4dba152e0b79775b27f81bd4c464a11106619",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "a7599598-3b01-4c6b-8ca2-4034be43ca7e",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2db0c6f8c4007f796ea6a306c1089ef5963f03a9854fd04acee3696ac3bf8786",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Growth (Description: The rate at which a startup expands, typically measured by revenue or active users, crucial for evaluating success and guiding strategic decisions.) -> MEASURED_BY (Description: The key metrics used to assess startup growth, including revenue and active users.) -> Revenue or Active Users (Description: Key indicators of startup growth, with revenue being the most preferred and active users serving as a reasonable proxy for startups not yet generating revenue.)\n\nThe growth of a successful startup usually has three phases: There's an initial period of slow or no growth while the startup tries to figure out what it's doing. As the startup figures out how to make something lots of people want and how to reach those people, there's a period of rapid growth. Eventually a successful startup will grow into a big company. Growth will slow, partly due to internal limits and partly because the company is starting to bump up against the limits of the markets it serves. [ 5 ] Together these three phases produce an S-curve. The phase whose growth defines the startup is the second one, the ascent. Its length and slope determine how big the company will be. The slope is the company's growth rate. If there's one number every founder should always know, it's the company's growth rate. That's the measure of a startup. If you don't know that number, you don't even know if you're doing well or badly. When I first meet founders and ask what their growth rate is, sometimes they tell me \"we get about a hundred new customers a month.\" That's not a rate. What matters is not the absolute number of new customers, but the ratio of new customers to existing ones. If you're really getting a constant number of new customers every month, you're in trouble, because that means your growth rate is decreasing. During Y Combinator we measure growth rate per week, partly because there is so little time before Demo Day, and partly because startups early on need frequent feedback from their users to tweak what they're doing. [ 6 ] A good growth rate during YC is 5-7% a week. If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing. The best thing to measure the growth rate of is revenue. The next best, for startups that aren't charging initially, is active users. That's a reasonable proxy for revenue growth because whenever the startup does start trying to make money, their revenues will probably be a constant multiple of active users. [ 7 ] Compass We usually advise startups to pick a growth rate they think they can hit, and then just try to hit it every week. The key word here is \"just.\" If they decide to grow at 7% a week and they hit that number, they're successful for that week. There's nothing more they need to do. But if they don't hit it, they've failed in the only thing that mattered, and should be correspondingly alarmed. Programmers will recognize what we're doing here. We're turning starting a startup into an optimization problem. And anyone who has tried optimizing code knows how wonderfully effective that sort of narrow focus can be. Optimizing code means taking an existing program and changing it to use less of something, usually time or memory. You don't have to think about what the program should do, just make it faster. For most programmers this is very satisfying work. The narrow focus makes it a sort of puzzle, and you're generally surprised how fast you can solve it. Focusing on hitting a growth rate reduces the otherwise bewilderingly multifarious problem of starting a startup to a single problem. You can use that target growth rate to make all your decisions for you; anything that gets you the growth you need is ipso facto right. Should you spend two days at a conference? Should you hire another programmer? Should you focus more on marketing? Should you spend time courting some big customer? Should you add x feature? Whatever gets you your target growth rate. [ 8 ] Judging yourself by weekly growth doesn't mean you can look no more than a week ahead. Once you experience the pain of missing your target one week (it was the only thing that mattered, and you failed at it), you become interested in anything that could spare you such pain in the future. So you'll be willing for example to hire another programmer, who won't contribute to this week's growth but perhaps in a month will have implemented some new feature that will get you more users. But only if (a) the distraction of hiring someone won't make you miss your numbers in the short term, and (b) you're sufficiently worried about whether you can keep hitting your numbers without hiring someone new. It's not that you don't think about the future, just that you think about it no more than necessary. In theory this sort of hill-climbing could get a startup into trouble. They could end up on a local maximum.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8528,
+        "end_char_idx": 12977,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9971773514856144,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "207f4a5e-80fe-4a04-b4f6-aef44846a004",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "9d271102cc584b28ed40c9a17e012a30622305db089adeee5876aaddc3d15074",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "12047642-2218-44c2-aa6f-30971780e0de",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1ce2d1f54262fe39b9ecf796d53dce004021d534239f72c9ed30899c8f26f826",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Founders (Description: Individuals who start new businesses; their choice of programming language is based on efficiency.) -> SHOULD_KNOW (Description: The importance of understanding and tracking the company's growth rate for effective decision-making.) -> Company's Growth Rate (Description: A critical metric for startup founders to monitor, providing insights into the company's performance and guiding strategic choices.)\n\nAnd that cures the other half of the class-project syndrome. After you've been working for a while, you yourself tend to measure what you've done the same way the market does. Of course, you don't have to spend years working to learn this stuff. If you're sufficiently perceptive you can grasp these things while you're still in school. Sam Altman did. He must have, because Loopt is no class project. And as his example suggests, this can be valuable knowledge. At a minimum, if you get this stuff, you already have most of what you gain from the \"work experience\" employers consider so desirable. But of course if you really get it, you can use this information in a way that's more valuable to you than that. Now So suppose you think you might start a startup at some point, either when you graduate or a few years after. What should you do now? For both jobs and grad school, there are ways to prepare while you're in college. If you want to get a job when you graduate, you should get summer jobs at places you'd like to work. If you want to go to grad school, it will help to work on research projects as an undergrad. What's the equivalent for startups? How do you keep your options maximally open? One thing you can do while you're still in school is to learn how startups work. Unfortunately that's not easy. Few if any colleges have classes about startups. There may be business school classes on entrepreneurship, as they call it over there, but these are likely to be a waste of time. Business schools like to talk about startups, but philosophically they're at the opposite end of the spectrum. Most books on startups also seem to be useless. I've looked at a few and none get it right. Books in most fields are written by people who know the subject from experience, but for startups there's a unique problem: by definition the founders of successful startups don't need to write books to make money. As a result most books on the subject end up being written by people who don't understand it. So I'd be skeptical of classes and books. The way to learn about startups is by watching them in action, preferably by working at one. How do you do that as an undergrad? Probably by sneaking in through the back door. Just hang around a lot and gradually start doing things for them. Most startups are (or should be) very cautious about hiring. Every hire increases the burn rate, and bad hires early on are hard to recover from. However, startups usually have a fairly informal atmosphere, and there's always a lot that needs to be done. If you just start doing stuff for them, many will be too busy to shoo you away. You can thus gradually work your way into their confidence, and maybe turn it into an official job later, or not, whichever you prefer. This won't work for all startups, but it would work for most I've known. Number two, make the most of the great advantage of school: the wealth of co-founders. Look at the people around you and ask yourself which you'd like to work with. When you apply that test, you may find you get surprising results. You may find you'd prefer the quiet guy you've mostly ignored to someone who seems impressive but has an attitude to match. I'm not suggesting you suck up to people you don't really like because you think one day they'll be successful. Exactly the opposite, in fact: you should only start a startup with someone you like, because a startup will put your friendship through a stress test. I'm just saying you should think about who you really admire and hang out with them, instead of whoever circumstances throw you together with. Another thing you can do is learn skills that will be useful to you in a startup. These may be different from the skills you'd learn to get a job. For example, thinking about getting a job will make you want to learn programming languages you think employers want, like Java and C++. Whereas if you start a startup, you get to pick the language, so you have to think about which will actually let you get the most done. If you use that test you might end up learning Ruby or Python instead. But the most important skill for a startup founder isn't a programming technique. It's a knack for understanding users and figuring out how to give them what they want. I know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word.",
+        "mimetype": "text/plain",
+        "start_char_idx": 29161,
+        "end_char_idx": 33557,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9968415267576216,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

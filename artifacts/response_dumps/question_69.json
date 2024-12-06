@@ -1,0 +1,538 @@
+{
+  "question": "I'm considering working for a big tech company vs. a startup.  What are the pros and cons of each?",
+  "answer": "This response compares working for a large technology company versus a startup based solely on the provided text.\n\nThe provided text highlights several advantages and disadvantages associated with each career path.\n\n**Big Companies:**\n\n1. **Pros:**  Big companies offer **stability** and a less risky career path [1, 2, 3, 4].  They represent a perceived secure and predictable employment option [3].\n\n2. **Cons:** Big companies often attract individuals who might otherwise start successful startups [1, 2, 3, 4]. This suggests a potential for **lower rewards** compared to the higher potential, albeit riskier, rewards of a startup [3].  Large companies also struggle with **product development** due to internal factors like turf protection and a lack of power for innovative individuals [2]. They are characterized by **slow processes** and bureaucratic structures that hinder product development [3].  Their **productivity** and innovation rate are lower compared to startups [4].  Acquisitions of startups by large companies can be delayed due to pride and reluctance to admit the need for external solutions, making acquisitions more expensive [2].\n\n\n**Startups:**\n\n1. **Pros:** Startups offer potential **learning opportunities** for college students [1].  They provide a path to building something valuable, often better than working for an existing company [2].  Startups that succeed can pay founders significantly more than they would have made in an ordinary job, even though most startups fail [2].  Even a failed startup attempt can enhance a candidate's appeal to employers [2].  Startups value the **people** behind the technology, often leading to acquisitions where the acquiring company seeks both the technology and the team [4].  The cost of starting a web-based startup is low, primarily food and rent [4].  Startups can originate from **personal projects**, allowing founders to address their own needs and interests [4].  Less competitive, \"**unsexy fields**\" may be more suitable for starting a startup [4].\n\n2. **Cons:**  Startups are inherently **risky**, with a high failure rate (approximately 90%) [2].  They require a significant **time commitment** (at least three or four years if successful) [3].  Startups often operate close to the margin of failure, and distractions can easily lead to failure [4].  They may require founders to move to startup hubs, potentially disrupting personal relationships and requiring relocation [1].  The success of technology startups hinges on **understanding customers**, a crucial factor for success [5].  Founders need to be willing to endure significant amounts of work (\"**infinite schleps**\") [3].\n\n\nIn summary, the choice between working for a large technology company and a startup involves a trade-off between stability and risk versus potential reward and learning opportunities.  Large companies offer security and a predictable career path, but may limit potential rewards and offer slower innovation. Startups offer higher potential rewards and valuable learning experiences, but are significantly riskier and demand a substantial time commitment.\n\n\nCitations:\n1.  A Student's Guide to Startups (HIVE).txt\n2.  How to Fund a Startup (HIVE).txt\n3.  Why to Not Not Start a Startup (HIVE).txt\n4.  Hiring is Obsolete (HIVE).txt\n5.  How to Start a Startup (HIVE).txt\n\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "207f4a5e-80fe-4a04-b4f6-aef44846a004",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "9d271102cc584b28ed40c9a17e012a30622305db089adeee5876aaddc3d15074",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "12047642-2218-44c2-aa6f-30971780e0de",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1ce2d1f54262fe39b9ecf796d53dce004021d534239f72c9ed30899c8f26f826",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartups (Description: New businesses that offer potential learning opportunities for college students.) -> ACQUIRED_BY (Description: Acquisition of startups by larger companies, often before profitability, primarily for their talent and technology.) -> Big Companies (Description: Established corporations that often attract individuals who might otherwise start successful startups, representing a less risky but potentially less rewarding career path.)\n\nAnd that cures the other half of the class-project syndrome. After you've been working for a while, you yourself tend to measure what you've done the same way the market does. Of course, you don't have to spend years working to learn this stuff. If you're sufficiently perceptive you can grasp these things while you're still in school. Sam Altman did. He must have, because Loopt is no class project. And as his example suggests, this can be valuable knowledge. At a minimum, if you get this stuff, you already have most of what you gain from the \"work experience\" employers consider so desirable. But of course if you really get it, you can use this information in a way that's more valuable to you than that. Now So suppose you think you might start a startup at some point, either when you graduate or a few years after. What should you do now? For both jobs and grad school, there are ways to prepare while you're in college. If you want to get a job when you graduate, you should get summer jobs at places you'd like to work. If you want to go to grad school, it will help to work on research projects as an undergrad. What's the equivalent for startups? How do you keep your options maximally open? One thing you can do while you're still in school is to learn how startups work. Unfortunately that's not easy. Few if any colleges have classes about startups. There may be business school classes on entrepreneurship, as they call it over there, but these are likely to be a waste of time. Business schools like to talk about startups, but philosophically they're at the opposite end of the spectrum. Most books on startups also seem to be useless. I've looked at a few and none get it right. Books in most fields are written by people who know the subject from experience, but for startups there's a unique problem: by definition the founders of successful startups don't need to write books to make money. As a result most books on the subject end up being written by people who don't understand it. So I'd be skeptical of classes and books. The way to learn about startups is by watching them in action, preferably by working at one. How do you do that as an undergrad? Probably by sneaking in through the back door. Just hang around a lot and gradually start doing things for them. Most startups are (or should be) very cautious about hiring. Every hire increases the burn rate, and bad hires early on are hard to recover from. However, startups usually have a fairly informal atmosphere, and there's always a lot that needs to be done. If you just start doing stuff for them, many will be too busy to shoo you away. You can thus gradually work your way into their confidence, and maybe turn it into an official job later, or not, whichever you prefer. This won't work for all startups, but it would work for most I've known. Number two, make the most of the great advantage of school: the wealth of co-founders. Look at the people around you and ask yourself which you'd like to work with. When you apply that test, you may find you get surprising results. You may find you'd prefer the quiet guy you've mostly ignored to someone who seems impressive but has an attitude to match. I'm not suggesting you suck up to people you don't really like because you think one day they'll be successful. Exactly the opposite, in fact: you should only start a startup with someone you like, because a startup will put your friendship through a stress test. I'm just saying you should think about who you really admire and hang out with them, instead of whoever circumstances throw you together with. Another thing you can do is learn skills that will be useful to you in a startup. These may be different from the skills you'd learn to get a job. For example, thinking about getting a job will make you want to learn programming languages you think employers want, like Java and C++. Whereas if you start a startup, you get to pick the language, so you have to think about which will actually let you get the most done. If you use that test you might end up learning Ruby or Python instead. But the most important skill for a startup founder isn't a programming technique. It's a knack for understanding users and figuring out how to give them what they want. I know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word.",
+        "mimetype": "text/plain",
+        "start_char_idx": 29161,
+        "end_char_idx": 33557,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "3a223e80-4f4c-410d-80bd-60b4e8aec076",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "ff23734588468464bfb359282b6f5f6154aab99d2b060bdd74087482d1ca388c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "d5dfb8ad-ef14-4a0d-9314-e21cfd38b4bb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "bd57ed75fea9e4641cd17a7fb2a7de570982f45b5be92d13536acc80dd18b2a5",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nBig Companies (Description: Established corporations that often attract individuals who might otherwise start successful startups, representing a less risky but potentially less rewarding career path.) -> STRUGGLE_WITH (Description: Difficulties faced by large companies in evaluating individual employee performance and innovating new products, leading them to acquire startups.) -> Product Development (Description: The process of creating new products, a weakness for large companies due to internal factors like turf protection and lack of power for innovative individuals.)\nBig Companies (Description: Established corporations that often attract individuals who might otherwise start successful startups, representing a less risky but potentially less rewarding career path.) -> DELAY (Description: Delay in acquisitions by large companies due to pride and reluctance to admit the need for external solutions.) -> Acquisitions (Description: Acquisitions of startups by larger companies, becoming more expensive when delayed due to internal factors.)\nBig Companies (Description: Established corporations that often attract individuals who might otherwise start successful startups, representing a less risky but potentially less rewarding career path.) -> OFFER (Description: The appeal of big companies as a less risky career option, potentially at the cost of lower rewards compared to starting a startup.) -> Stability (Description: The perceived security and predictability of employment in large corporations, often at the expense of higher potential rewards.)\nBig Companies (Description: Established corporations that often attract individuals who might otherwise start successful startups, representing a less risky but potentially less rewarding career path.) -> CHARACTERIZED_BY (Description: Characteristics of large companies, including slow processes and bureaucratic structures that hinder product development.) -> Slow Processes (Description: Slow operational speed in large companies, contrasting with the fast-paced nature of startups.)\nBig Companies (Description: Established corporations that often attract individuals who might otherwise start successful startups, representing a less risky but potentially less rewarding career path.) -> SHOULD_ACQUIRE (Description: Recommended strategy for large companies to acquire promising startups early to minimize acquisition costs.) -> Early-Stage Startups (Description: Startups acquired by larger companies, often at an earlier stage of development than previously common.)\nBig Companies (Description: Established corporations that often attract individuals who might otherwise start successful startups, representing a less risky but potentially less rewarding career path.) -> LOWER (Description: Comparison highlighting the lower productivity and slower innovation rate of large companies compared to startups.) -> Productivity (Description: A measure of efficiency, significantly lower in big companies compared to startups, as evidenced by the example of reduced lines of code produced after acquisition.)\n\nBut I suspect the filter is set a little too high. I think there are people who could, if they tried, start successful startups, and who instead let themselves be swept into the intake ducts of big companies. Have you ever noticed that when animals are let out of cages, they don't always realize at first that the door's open? Often they have to be poked with a stick to get them out. Something similar happened with blogs. People could have been publishing online in 1995, and yet blogging has only really taken off in the last couple years. In 1995 we thought only professional writers were entitled to publish their ideas, and that anyone else who did was a crank. Now publishing online is becoming so popular that everyone wants to do it, even print journalists. But blogging has not taken off recently because of any technical innovation; it just took eight years for everyone to realize the cage was open. I think most undergrads don't realize yet that the economic cage is open. A lot have been told by their parents that the route to success is to get a good job. This was true when their parents were in college, but it's less true now. The route to success is to build something valuable, and you don't have to be working for an existing company to do that. Indeed, you can often do it better if you're not. When I talk to undergrads, what surprises me most about them is how conservative they are. Not politically, of course. I mean they don't seem to want to take risks. This is a mistake, because the younger you are, the more risk you can take. Risk Risk and reward are always proportionate. For example, stocks are riskier than bonds, and over time always have greater returns. So why does anyone invest in bonds? The catch is that phrase \"over time.\" Stocks will generate greater returns over thirty years, but they might lose value from year to year. So what you should invest in depends on how soon you need the money. If you're young, you should take the riskiest investments you can find. All this talk about investing may seem very theoretical. Most undergrads probably have more debts than assets. They may feel they have nothing to invest. But that's not true: they have their time to invest, and the same rule about risk applies there. Your early twenties are exactly the time to take insane career risks. The reason risk is always proportionate to reward is that market forces make it so. People will pay extra for stability. So if you choose stability-- by buying bonds, or by going to work for a big company-- it's going to cost you. Riskier career moves pay better on average, because there is less demand for them. Extreme choices like starting a startup are so frightening that most people won't even try. So you don't end up having as much competition as you might expect, considering the prizes at stake. The math is brutal. While perhaps 9 out of 10 startups fail, the one that succeeds will pay the founders more than 10 times what they would have made in an ordinary job. [ 3 ] That's the sense in which startups pay better \"on average.\" Remember that. If you start a startup, you'll probably fail. Most startups fail. It's the nature of the business. But it's not necessarily a mistake to try something that has a 90% chance of failing, if you can afford the risk. Failing at 40, when you have a family to support, could be serious. But if you fail at 22, so what? If you try to start a startup right out of college and it tanks, you'll end up at 23 broke and a lot smarter. Which, if you think about it, is roughly what you hope to get from a graduate program. Even if your startup does tank, you won't harm your prospects with employers. To make sure I asked some friends who work for big companies. I asked managers at Yahoo, Google, Amazon, Cisco and Microsoft how they'd feel about two candidates, both 24, with equal ability, one who'd tried to start a startup that tanked, and another who'd spent the two years since college working as a developer at a big company. Every one responded that they'd prefer the guy who'd tried to start his own company. Zod Nazem, who's in charge of engineering at Yahoo, said: I actually put more value on the guy with the failed startup. And you can quote me! So there you have it. Want to get hired by Yahoo?",
+        "mimetype": "text/plain",
+        "start_char_idx": 13144,
+        "end_char_idx": 17430,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "86b8a208-50de-433d-a5a7-a9845bb7a71f",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "f3dae4c2-3c47-47cd-acda-63b2c16adc69",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "f784e17741e85309b418824e3192e3d284f90500f1769d55e0a3b112e17e6f75",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "dddd4656-ac29-468e-ae45-cd33d12efddb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "775627bfabf87a88512581d1794f8ed67474ea7efeaf4cac5e8b7c85ec4267be",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nTechnology startup (Description: A type of startup focused on technology development and innovation, typically requiring technical expertise among founders.) -> REQUIRE (Description: Essential requirement for successful operation and growth.) -> Technical people (Description: Individuals possessing expertise in technology, crucial for the development and implementation of technology products within a startup.)\nTechnology startups (Description: Startups focused on technology, whose success hinges on understanding and meeting customer needs.) -> CRUCIAL_FOR (Description: Essential factor for success, highlighting the importance of customer understanding in technology startups.) -> Understanding customers (Description: Ability to understand customer needs and preferences, crucial for the success of technology startups.)\n\nIf there are seven or eight, disagreements can linger and harden into factions. You don't want mere voting; you need unanimity. In a technology startup, which most startups are, the founders should include technical people. During the Internet Bubble there were a number of startups founded by business people who then went looking for hackers to create their product for them. This doesn't work well. Business people are bad at deciding what to do with technology, because they don't know what the options are, or which kinds of problems are hard and which are easy. And when business people try to hire hackers, they can't tell which ones are good Even other hackers have a hard time doing that. For business people it's roulette. Do the founders of a startup have to include business people? That depends. We thought so when we started ours, and we asked several people who were said to know about this mysterious thing called \"business\" if they would be the president. But they all said no, so I had to do it myself. And what I discovered was that business was no great mystery. It's not something like physics or medicine that requires extensive study. You just try to get people to pay you for stuff. I think the reason I made such a mystery of business was that I was disgusted by the idea of doing it. I wanted to work in the pure, intellectual world of software, not deal with customers' mundane problems. People who don't want to get dragged into some kind of work often develop a protective incompetence at it. Paul Erdos was particularly good at this. By seeming unable even to cut a grapefruit in half (let alone go to the store and buy one), he forced other people to do such things for him, leaving all his time free for math. Erdos was an extreme case, but most husbands use the same trick to some degree. Once I was forced to discard my protective incompetence, I found that business was neither so hard nor so boring as I feared. There are esoteric areas of business that are quite hard, like tax law or the pricing of derivatives, but you don't need to know about those in a startup. All you need to know about business to run a startup are commonsense things people knew before there were business schools, or even universities. If you work your way down the Forbes 400 making an x next to the name of each person with an MBA, you'll learn something important about business school. After Warren Buffett, you don't hit another MBA till number 22, Phil Knight, the CEO of Nike. There are only 5 MBAs in the top 50. What you notice in the Forbes 400 are a lot of people with technical backgrounds. Bill Gates, Steve Jobs, Larry Ellison, Michael Dell, Jeff Bezos, Gordon Moore. The rulers of the technology business tend to come from technology, not business. So if you want to invest two years in something that will help you succeed in business, the evidence suggests you'd do better to learn how to hack than get an MBA. [3] There is one reason you might want to include business people in a startup, though: because you have to have at least one person willing and able to focus on what customers want. Some believe only business people can do this-- that hackers can implement software, but not design it. That's nonsense. There's nothing about knowing how to program that prevents hackers from understanding users, or about not knowing how to program that magically enables business people to understand them. If you can't understand users, however, you should either learn how or find a co-founder who can. That is the single most important issue for technology startups, and the rock that sinks more of them than anything else. What Customers Want It's not just startups that have to worry about this. I think most businesses that fail do it because they don't give customers what they want. Look at restaurants. A large percentage fail, about a quarter in the first year. But can you think of one restaurant that had really good food and went out of business? Restaurants with great food seem to prosper no matter what. A restaurant with great food can be expensive, crowded, noisy, dingy, out of the way, and even have bad service, and people will keep coming. It's true that a restaurant with mediocre food can sometimes attract customers through gimmicks. But that approach is very risky. It's more straightforward just to make the food good. It's the same with technology. You hear all kinds of reasons why startups fail. But can you think of one that had a massively popular product and still failed?",
+        "mimetype": "text/plain",
+        "start_char_idx": 8335,
+        "end_char_idx": 12866,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9995288303419425,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "4c06f891-dd1c-474e-ad97-dfca885b71ad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+          "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 34381,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "aafca569-fd5e-42a9-a64f-bc9bf20266dd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+              "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 34381,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c653167dc4d2714b85465481c743672fb5fc444455fb2383cc06821e44375f7d",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "95e19bb8-e745-4efd-8f5d-9c92f3d29c83",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+              "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 34381,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7dfd708c416f2a747ee217d296d8992fa73eef04d672311335aeb9d77325c2eb",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "d0964983-2d3f-4861-806d-9d7e55f12241",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "76cc7a112c062b4318a7096d151e41f93bacec4cbc6a82936434860b8512ac2a",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nRegular Job (Description: Traditional employment often requiring a similar time commitment to a startup, but with less flexibility and potentially less free time.) -> COMPARE_TO (Description: A comparison between the time commitment and flexibility of a regular job versus a startup.) -> Startup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.)\n\nAs with the question of cofounders, the real lesson here is to start startups when you're young. 10. Independently wealthy This is my excuse for not starting a startup. Startups are stressful. Why do it if you don't need the money? For every \"serial entrepreneur,\" there are probably twenty sane ones who think \"Start another company? Are you crazy?\" I've come close to starting new startups a couple times, but I always pull back because I don't want four years of my life to be consumed by random schleps. I know this business well enough to know you can't do it half-heartedly. What makes a good startup founder so dangerous is his willingness to endure infinite schleps. There is a bit of a problem with retirement, though. Like a lot of people, I like to work. And one of the many weird little problems you discover when you get rich is that a lot of the interesting people you'd like to work with are not rich. They need to work at something that pays the bills. Which means if you want to have them as colleagues, you have to work at something that pays the bills too, even though you don't need to. I think this is what drives a lot of serial entrepreneurs, actually. That's why I love working on Y Combinator so much. It's an excuse to work on something interesting with people I like. 11. Not ready for commitment This was my reason for not starting a startup for most of my twenties. Like a lot of people that age, I valued freedom most of all. I was reluctant to do anything that required a commitment of more than a few months. Nor would I have wanted to do anything that completely took over my life the way a startup does. And that's fine. If you want to spend your time travelling around, or playing in a band, or whatever, that's a perfectly legitimate reason not to start a company. If you start a startup that succeeds, it's going to consume at least three or four years. (If it fails, you'll be done a lot quicker.) So you shouldn't do it if you're not ready for commitments on that scale. Be aware, though, that if you get a regular job, you'll probably end up working there for as long as a startup would take, and you'll find you have much less spare time than you might expect. So if you're ready to clip on that ID badge and go to that orientation session, you may also be ready to start that startup. 12. Need for structure I'm told there are people who need structure in their lives. This seems to be a nice way of saying they need someone to tell them what to do. I believe such people exist. There's plenty of empirical evidence: armies, religious cults, and so on. They may even be the majority. If you're one of these people, you probably shouldn't start a startup. In fact, you probably shouldn't even go to work for one. In a good startup, you don't get told what to do very much. There may be one person whose job title is CEO, but till the company has about twelve people no one should be telling anyone what to do. That's too inefficient. Each person should just do what they need to without anyone telling them. If that sounds like a recipe for chaos, think about a soccer team. Eleven people manage to work together in quite complicated ways, and yet only in occasional emergencies does anyone tell anyone else what to do. A reporter once asked David Beckham if there were any language problems at Real Madrid, since the players were from about eight different countries. He said it was never an issue, because everyone was so good they never had to talk. They all just did the right thing. How do you tell if you're independent-minded enough to start a startup? If you'd bristle at the suggestion that you aren't, then you probably are. 13. Fear of uncertainty Perhaps some people are deterred from starting startups because they don't like the uncertainty. If you go to work for Microsoft, you can predict fairly accurately what the next few years will be likeâ€”all too accurately, in fact. If you start a startup, anything might happen. Well, if you're troubled by uncertainty, I can solve that problem for you: if you start a startup, it will probably fail. Seriously, though, this is not a bad way to think about the whole experience. Hope for the best, but expect the worst. In the worst case, it will at least be interesting.",
+        "mimetype": "text/plain",
+        "start_char_idx": 20555,
+        "end_char_idx": 24826,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9913138237346594,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> FUNDED_BY (Description: Funding source for the startup, chosen to avoid potential conflicts with a VC-appointed newscaster.) -> Angel Investors (Description: Investors who provided funding to the startup after the seed round, based on the demonstration of the software prototype.)\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> RECEIVE_FUNDING (Description: Successful securing of funding through angel investors and later through a subsequent funding round.) -> Angel Investors (Description: Investors who provided funding to the startup after the seed round, based on the demonstration of the software prototype.)\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> SEEK (Description: The act of searching for angel investors to secure further funding.) -> Angel Investors (Description: Investors who provided funding to the startup after the seed round, based on the demonstration of the software prototype.)\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> BEST_WORK_PLACE_FOR (Description: Indicates the ideal work environment for aspiring startup founders, providing relevant experience and a potentially quick exit strategy.) -> aspiring startup founders (Description: Individuals aiming to establish their own startups.)\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> ORIGINATE_FROM (Description: The process by which successful startups often begin as personal projects addressing the founders' needs and interests.) -> Personal Projects (Description: Independent projects undertaken by hackers to enhance their programming skills and potentially lead to startup opportunities.)\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> SUITABLE_FOR (Description: Suggests that less competitive fields are more suitable for starting a startup.) -> unsexy fields (Description: Market segments with less competition, making them potentially easier to succeed in.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9913138237346594,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "0ecbc637-bd8b-424d-b690-5f73a59b7862",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "5685800d-0c27-43f3-9571-1092e0629bff",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "0876e9bbf062575b1cbb37bb7ecabb62c31232269bf12e86e6080eab1d5a7ecc",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "c094ca8b-0b5b-48a6-afea-3b9f9af4f0ed",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "33f8d635be56642481da08998eb9483d72fb4e6156b16f1365b922a5985b5dec",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nConsulting Company (Description: A business that provides custom services to individual clients, often contrasting with the scalability of a product-based startup.) -> DIFFERS_FROM (Description: Contrasting characteristics between a consulting company and a startup, highlighting the differences in business model and scalability.) -> Startup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.)\n\nThere never has to be a time when you have no revenues. Risk and reward are usually proportionate, however: you should expect a plan that cuts the risk of starting a startup also to cut the average return. In this case, you trade decreased financial risk for increased risk that your company won't succeed as a startup. But isn't the consulting company itself a startup? No, not generally. A company has to be more than small and newly founded to be a startup. There are millions of small businesses in America, but only a few thousand are startups. To be a startup, a company has to be a product business, not a service business. By which I mean not that it has to make something physical, but that it has to have one thing it sells to many people, rather than doing custom work for individual clients. Custom work doesn't scale. To be a startup you need to be the band that sells a million copies of a song, not the band that makes money by playing at individual weddings and bar mitzvahs. The trouble with consulting is that clients have an awkward habit of calling you on the phone. Most startups operate close to the margin of failure, and the distraction of having to deal with clients could be enough to put you over the edge. Especially if you have competitors who get to work full time on just being a startup. So you have to be very disciplined if you take the consulting route. You have to work actively to prevent your company growing into a \"weed tree,\" dependent on this source of easy but low-margin money. [ 2 ] Indeed, the biggest danger of consulting may be that it gives you an excuse for failure. In a startup, as in grad school, a lot of what ends up driving you are the expectations of your family and friends. Once you start a startup and tell everyone that's what you're doing, you're now on a path labelled \"get rich or bust.\" You now have to get rich, or you've failed. Fear of failure is an extraordinarily powerful force. Usually it prevents people from starting things, but once you publish some definite ambition, it switches directions and starts working in your favor. I think it's a pretty clever piece of jiujitsu to set this irresistible force against the slightly less immovable object of becoming rich. You won't have it driving you if your stated ambition is merely to start a consulting company that you will one day morph into a startup. An advantage of consulting, as a way to develop a product, is that you know you're making something at least one customer wants. But if you have what it takes to start a startup you should have sufficient vision not to need this crutch. Angel Investors Angels are individual rich people. The word was first used for backers of Broadway plays, but now applies to individual investors generally. Angels who've made money in technology are preferable, for two reasons: they understand your situation, and they're a source of contacts and advice. The contacts and advice can be more important than the money. When del.icio.us took money from investors, they took money from, among others, Tim O'Reilly. The amount he put in was small compared to the VCs who led the round, but Tim is a smart and influential guy and it's good to have him on your side. You can do whatever you want with money from consulting or friends and family. With angels we're now talking about venture funding proper, so it's time to introduce the concept of exit strategy Younger would-be founders are often surprised that investors expect them either to sell the company or go public. The reason is that investors need to get their capital back. They'll only consider companies that have an exit strategyâ€”meaning companies that could get bought or go public. This is not as selfish as it sounds. There are few large, private technology companies. Those that don't fail all seem to get bought or go public. The reason is that employees are investors tooâ€”of their timeâ€”and they want just as much to be able to cash out. If your competitors offer employees stock options that might make them rich, while you make it clear you plan to stay private, your competitors will get the best people. So the principle of an \"exit\" is not just something forced on startups by investors, but part of what it means to be a startup. Another concept we need to introduce now is valuation. When someone buys shares in a company, that implicitly establishes a value for it. If someone pays $20,000 for 10% of a company, the company is in theory worth $200,000.",
+        "mimetype": "text/plain",
+        "start_char_idx": 4306,
+        "end_char_idx": 8801,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9913138237346594,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "218e6adda905f6cb3464a6f33e378f4aa149f6465d3b651270eb80dd66ea2d9b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0798ee2a0ace2f0ecb8b7fc8dd41ffd14b528511f9d008bc3ddd1fbdc7bb66c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> FOUNDER_OF (Description: Founding a startup, emphasizing the time-compressed nature of the experience.) -> Startup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> DEFINE (Description: Initial definition of a startup as a small company tackling hard technical problems, later revised to encompass a broader range of characteristics.) -> Startup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.)\n\nRecent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage. This is one reason I'd bet on the 25 year old over the 32 year old. The 32 year old probably is a better programmer, but probably also has a much more expensive life. Whereas a 25 year old has some work experience (more on that later) but can live as cheaply as an undergrad. Robert Morris and I were 29 and 30 respectively when we started Viaweb, but fortunately we still lived like 23 year olds. We both had roughly zero assets. I would have loved to have a mortgage, since that would have meant I had a house But in retrospect having nothing turned out to be convenient. I wasn't tied down and I was used to living cheaply. Even more important than living cheaply, though, is thinking cheaply. One reason the Apple II was so popular was that it was cheap. The computer itself was cheap, and it used cheap, off-the-shelf peripherals like a cassette tape recorder for data storage and a TV as a monitor. And you know why? Because Woz designed this computer for himself, and he couldn't afford anything more. We benefitted from the same phenomenon. Our prices were daringly low for the time. The top level of service was $300 a month, which was an order of magnitude below the norm. In retrospect this was a smart move, but we didn't do it because we were smart. $300 a month seemed like a lot of money to us. Like Apple, we created something inexpensive, and therefore popular, simply because we were poor. A lot of startups have that form: someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible. Traditional long distance carriers, for example, didn't even want to think about VoIP. (It was coming, all the same.) Being poor helps in this game, because your own personal bias points in the same direction technology evolves in. The advantages of rootlessness are similar to those of poverty. When you're young you're more mobileâ€”not just because you don't have a house or much stuff, but also because you're less likely to have serious relationships. This turns out to be important, because a lot of startups involve someone moving. The founders of Kiko, for example, are now en route to the Bay Area to start their next startup. It's a better place for what they want to do. And it was easy for them to decide to go, because neither as far as I know has a serious girlfriend, and everything they own will fit in one carâ€”or more precisely, will either fit in one car or is crappy enough that they don't mind leaving it behind. They at least were in Boston. What if they'd been in Nebraska, like Evan Williams was at their age? Someone wrote recently that the drawback of Y Combinator was that you had to move to participate. It couldn't be any other way. The kind of conversations we have with founders, we have to have in person. We fund a dozen startups at a time, and we can't be in a dozen places at once. But even if we could somehow magically save people from moving, we wouldn't. We wouldn't be doing founders a favor by letting them stay in Nebraska. Places that aren't startup hubs are toxic to startups. You can tell that from indirect evidence. You can tell how hard it must be to start a startup in Houston or Chicago or Miami from the microscopically small number, per capita, that succeed there. I don't know exactly what's suppressing all the startups in these townsâ€”probably a hundred subtle little thingsâ€”but something must be. [ 2 ] Maybe this will change. Maybe the increasing cheapness of startups will mean they'll be able to survive anywhere, instead of only in the most hospitable environments. Maybe 37signals is the pattern for the future. But maybe not. Historically there have always been certain towns that were centers for certain industries, and if you weren't in one of them you were at a disadvantage. So my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8228,
+        "end_char_idx": 12436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9913138237346594,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

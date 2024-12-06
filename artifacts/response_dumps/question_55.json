@@ -1,0 +1,155 @@
+{
+  "question": "Provide all the information available related to Sam Altman.",
+  "answer": "This response details all information provided in the context regarding Sam Altman.\n\nSam Altman is described as a startup founder who demonstrated an early understanding of market dynamics while still in school [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].  This understanding is exemplified by the success of his startup, Loopt [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].  He founded and co-founded Loopt [1, 2, 5, 6, 7, 8, 9, 10], showcasing entrepreneurial acumen beyond a typical class project [1, 2, 5, 6, 7, 8, 9, 10].  Loopt was part of Y Combinator's first batch [11, 12].  Furthermore, Altman reviewed drafts of the text from which this information is extracted [3, 7, 9], and read and provided feedback on a draft of Paul Graham's writing concerning startup growth and the competitive landscape [4, 8, 10].  At the age of 19, he received funding from Y Combinator [5, 10].  Y Combinator also funded Loopt [13, 14].\n\n\nIn summary, the provided text highlights Sam Altman's early success as a startup founder, his involvement with Loopt and Y Combinator, and his contributions to the review and feedback process for this text and Paul Graham's writing.  His young age at the time of receiving funding is also noted.\n\n\nCitations:\n1.  File Name: A Student's Guide to Startups (HIVE).txt\n    File Path: D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt\n\n\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "207f4a5e-80fe-4a04-b4f6-aef44846a004",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "9d271102cc584b28ed40c9a17e012a30622305db089adeee5876aaddc3d15074",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "12047642-2218-44c2-aa6f-30971780e0de",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1ce2d1f54262fe39b9ecf796d53dce004021d534239f72c9ed30899c8f26f826",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> FOUNDED (Description: Founding of a successful startup, Loopt, indicating early entrepreneurial acumen.) -> Loopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> CO-FOUNDER_OF (Description: Sam Altman's role in establishing Loopt.) -> Loopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> REVIEWED (Description: Action of reviewing drafts of a text.) -> Drafts of this text (Description: The text being discussed, with specific mention of drafts reviewed by several individuals.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> READ_DRAFT_OF (Description: Reviewed and offered feedback on a draft document concerning startup growth and the competitive landscape.) -> Paul Graham's writing (Description: Document focusing on startup growth and the role of the rule of law in fostering competition.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> age_at_funding (Description: Age of Sam Altman when he received funding from Y Combinator.) -> 19 (Description: Sam Altman's age at the time of receiving funding from Y Combinator.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> FOUNDED (Description: Founding of a successful startup, Loopt, indicating early entrepreneurial acumen.) -> Loopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> CO-FOUNDER_OF (Description: Sam Altman's role in establishing Loopt.) -> Loopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> REVIEWED (Description: Action of reviewing drafts of a text.) -> Drafts of this text (Description: The text being discussed, with specific mention of drafts reviewed by several individuals.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> READ_DRAFT_OF (Description: Reviewed and offered feedback on a draft document concerning startup growth and the competitive landscape.) -> Paul Graham's writing (Description: Document focusing on startup growth and the role of the rule of law in fostering competition.)\nSam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.) -> age_at_funding (Description: Age of Sam Altman when he received funding from Y Combinator.) -> 19 (Description: Sam Altman's age at the time of receiving funding from Y Combinator.)\nLoopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.) -> PART_OF (Description: Membership of a startup within Y Combinator's first batch, highlighting its success and potential.) -> Y Combinator's first batch (Description: Initial cohort of startups in the Y Combinator program, used as a case study for evaluating success rates.)\nLoopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.) -> PART_OF (Description: Membership of a startup within Y Combinator's first batch, highlighting its success and potential.) -> Y Combinator's first batch (Description: Initial cohort of startups in the Y Combinator program, used as a case study for evaluating success rates.)\n\nAnd that cures the other half of the class-project syndrome. After you've been working for a while, you yourself tend to measure what you've done the same way the market does. Of course, you don't have to spend years working to learn this stuff. If you're sufficiently perceptive you can grasp these things while you're still in school. Sam Altman did. He must have, because Loopt is no class project. And as his example suggests, this can be valuable knowledge. At a minimum, if you get this stuff, you already have most of what you gain from the \"work experience\" employers consider so desirable. But of course if you really get it, you can use this information in a way that's more valuable to you than that. Now So suppose you think you might start a startup at some point, either when you graduate or a few years after. What should you do now? For both jobs and grad school, there are ways to prepare while you're in college. If you want to get a job when you graduate, you should get summer jobs at places you'd like to work. If you want to go to grad school, it will help to work on research projects as an undergrad. What's the equivalent for startups? How do you keep your options maximally open? One thing you can do while you're still in school is to learn how startups work. Unfortunately that's not easy. Few if any colleges have classes about startups. There may be business school classes on entrepreneurship, as they call it over there, but these are likely to be a waste of time. Business schools like to talk about startups, but philosophically they're at the opposite end of the spectrum. Most books on startups also seem to be useless. I've looked at a few and none get it right. Books in most fields are written by people who know the subject from experience, but for startups there's a unique problem: by definition the founders of successful startups don't need to write books to make money. As a result most books on the subject end up being written by people who don't understand it. So I'd be skeptical of classes and books. The way to learn about startups is by watching them in action, preferably by working at one. How do you do that as an undergrad? Probably by sneaking in through the back door. Just hang around a lot and gradually start doing things for them. Most startups are (or should be) very cautious about hiring. Every hire increases the burn rate, and bad hires early on are hard to recover from. However, startups usually have a fairly informal atmosphere, and there's always a lot that needs to be done. If you just start doing stuff for them, many will be too busy to shoo you away. You can thus gradually work your way into their confidence, and maybe turn it into an official job later, or not, whichever you prefer. This won't work for all startups, but it would work for most I've known. Number two, make the most of the great advantage of school: the wealth of co-founders. Look at the people around you and ask yourself which you'd like to work with. When you apply that test, you may find you get surprising results. You may find you'd prefer the quiet guy you've mostly ignored to someone who seems impressive but has an attitude to match. I'm not suggesting you suck up to people you don't really like because you think one day they'll be successful. Exactly the opposite, in fact: you should only start a startup with someone you like, because a startup will put your friendship through a stress test. I'm just saying you should think about who you really admire and hang out with them, instead of whoever circumstances throw you together with. Another thing you can do is learn skills that will be useful to you in a startup. These may be different from the skills you'd learn to get a job. For example, thinking about getting a job will make you want to learn programming languages you think employers want, like Java and C++. Whereas if you start a startup, you get to pick the language, so you have to think about which will actually let you get the most done. If you use that test you might end up learning Ruby or Python instead. But the most important skill for a startup founder isn't a programming technique. It's a knack for understanding users and figuring out how to give them what they want. I know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word.",
+        "mimetype": "text/plain",
+        "start_char_idx": 29161,
+        "end_char_idx": 33557,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "12047642-2218-44c2-aa6f-30971780e0de",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "2ac282164d730828f8a05c465d4a4a3e86e12b439150c00c96fe14138380d73f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nY Combinator (Description: Startup accelerator program mentioned in the context of founders relocating for a 3-month program, highlighting the commitment required for startup success.) -> fund (Description: Funding and mentorship provided to startups, pushing the boundaries of founder age.) -> Sam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.)\nY Combinator (Description: Startup accelerator program mentioned in the context of founders relocating for a 3-month program, highlighting the commitment required for startup success.) -> fund (Description: Funding and mentorship provided to startups, pushing the boundaries of founder age.) -> Sam Altman (Description: Startup founder who demonstrated early understanding of market dynamics while still in school, exemplified by the success of Loopt.)\nY Combinator (Description: Startup accelerator program mentioned in the context of founders relocating for a 3-month program, highlighting the commitment required for startup success.) -> FUND (Description: Y Combinator's investment in Loopt.) -> Loopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.)\nY Combinator (Description: Startup accelerator program mentioned in the context of founders relocating for a 3-month program, highlighting the commitment required for startup success.) -> FUND (Description: Y Combinator's investment in Loopt.) -> Loopt (Description: Startup founded by Sam Altman, demonstrating success beyond a typical class project.)\n\nI know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word. Get into the habit of thinking of software as having users. What do those users want? What would make them say wow? This is particularly valuable for undergrads, because the concept of users is missing from most college programming classes. The way you get taught programming in college would be like teaching writing as grammar, without mentioning that its purpose is to communicate something to an audience. Fortunately an audience for software is now only an http request away. So in addition to the programming you do for your classes, why not build some kind of website people will find useful? At the very least it will teach you how to write software with users. In the best case, it might not just be preparation for a startup, but the startup itself, like it was for Yahoo and Google. Notes [ 1 ] Even the desire to protect one's children seems weaker, judging from things people have historically done to their kids rather than risk their community's disapproval. (I assume we still do things that will be regarded in the future as barbaric, but historical abuses are easier for us to see.) [ 2 ] Worrying that Y Combinator makes founders move for 3 months also suggests one underestimates how hard it is to start a startup. You're going to have to put up with much greater inconveniences than that. [ 3 ] Most employee agreements say that any idea relating to the company's present or potential future business belongs to them. Often as not the second clause could include any possible startup, and anyone doing due diligence for an investor or acquirer will assume the worst. To be safe either (a) don't use code written while you were still employed in your previous job, or (b) get your employer to renounce, in writing, any claim to the code you write for your side project. Many will consent to (b) rather than lose a prized employee. The downside is that you'll have to tell them exactly what your project does. [ 4 ] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC. Thanks to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak. Comment on this essay.",
+        "mimetype": "text/plain",
+        "start_char_idx": 33421,
+        "end_char_idx": 35791,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}
