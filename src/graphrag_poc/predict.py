@@ -294,6 +294,15 @@ def predict(query: str) -> Tuple[MyResponse, str]:
     )
     return my_response, response.response
 
+async def apredict(query: str) -> Tuple[MyResponse, str]:
+    response: RESPONSE_TYPE = await query_engine.aquery(query)
+    my_response = MyResponse(
+        question=query,
+        answer=response.response,
+        sources=response.source_nodes,
+    )
+    return my_response, response.response
+
 def process_questions_csv():
     # Create artifacts directory if it doesn't exist
     artifacts_dir = Path("artifacts")
