@@ -640,9 +640,6 @@ class Neo4jPropertyGraphStore(PropertyGraphStore):
             else "1 = 1"
         )
         if query.mode == VectorStoreQueryMode.HYBRID and not query.filters and self._supports_vector_index:
-            print(len(query.query_embedding), "query_str:", query.query_str, "similarity_top_k:", query.similarity_top_k, "hybrid_top_k:", query.hybrid_top_k)
-            print("--------------------------------")
-            print("Performing hybrid query")
             data = self.structured_query(
                 f"""CALL () {{
                     CALL db.index.vector.queryNodes('{VECTOR_INDEX_NAME}', $limit, $embedding)
