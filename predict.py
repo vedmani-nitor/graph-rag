@@ -297,11 +297,11 @@ def predict(query: str) -> Tuple[MyResponse, str]:
 def process_questions_csv():
     # Create artifacts directory if it doesn't exist
     artifacts_dir = Path("artifacts")
-    json_dumps_dir = artifacts_dir / "response_dumps"
+    json_dumps_dir = artifacts_dir / "response_dumps_v2"
     json_dumps_dir.mkdir(parents=True, exist_ok=True)
     
     # Read the CSV file
-    csv_path = artifacts_dir / "questions_and_answers.csv"
+    csv_path = artifacts_dir / "questions_and_answers_v2.csv"
     df = pd.read_csv(csv_path)
     
     # Process each question that doesn't have an answer
@@ -324,7 +324,7 @@ def process_questions_csv():
                 print(f"Saved answer and JSON dump for question {index + 1}")
                 
                 # Add a small delay to prevent overwhelming the system
-                time.sleep(1)
+                time.sleep(2)
                 
             except Exception as e:
                 print(f"Error processing question {index + 1}: {str(e)}")

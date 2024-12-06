@@ -30,7 +30,7 @@ def main():
         questions = extract_questions(r'D:\projects\graphrag-poc\artifacts\evals_data.json')
         
         # Create CSV file with questions and empty answers
-        with open('questions_and_answers.csv', 'w', encoding='utf-8', newline='') as f:
+        with open('questions_and_answers_v2.csv', 'w', encoding='utf-8', newline='') as f:
             writer = csv.writer(f)
             # Write header
             writer.writerow(['Question', 'Answer'])

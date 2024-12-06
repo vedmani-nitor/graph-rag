@@ -1,0 +1,975 @@
+{
+  "question": "Provide all the information available related to Viaweb.",
+  "answer": "Viaweb is described in the provided text as a company that served as an **anomaly** in its founding, with relatively older founders not constrained by demanding jobs.  Here's a breakdown of the information available:\n\n1. **Founders:** Viaweb was co-founded by Paul Graham and Robert Morris, who were in their late twenties at the time.  Their relatively older age and lack of demanding jobs were unusual for startup founders.\n\n2. **Funding:**\n    * Viaweb received initial **seed funding** of $10,000 from a friend, Julian, who was also a lawyer and provided valuable legal advice.  This blurred the lines between friend and angel investor.\n    *  Subsequently, Viaweb raised $2.5 million from **angel investors**.  This funding round followed a demonstration of their software prototype.\n\n3. **Company Structure and Legal:** Establishing Viaweb's company structure, including stock allocation and intellectual property agreements, was a significant undertaking.  The founders initially skipped some aspects of formal company setup (insurance, business licenses, etc.), addressing these retroactively after securing funding near the end of 1996 by hiring a **CFO**.  The importance of having a formal company structure is emphasized to prevent founders from splitting off and starting competing companies.  Furthermore, founders should sign agreements ensuring that all ideas belong to the company and that the company is everyone's sole job.\n\n4. **Pricing:** Viaweb set a monthly service price of $300, which was considered daringly low for the time.  This low price was attributed to the founders' own financial constraints, which inadvertently led to a competitive advantage.\n\n5. **Intellectual Property Issues:** Viaweb experienced significant intellectual property problems that nearly halted its acquisition.  One founder had a prior agreement that granted his ideas to another company, creating a potential ownership conflict over Viaweb's software.\n\n6. **Acquisition:** Viaweb was acquired (the acquirer is not specified).  The acquisition process was significantly impacted by the intellectual property issue.\n\nIn summary, Viaweb's story highlights the importance of various aspects of startup founding, including securing funding from diverse sources (friends, angels), establishing a clear company structure and intellectual property agreements, and the unexpected advantages of financial constraints in setting competitive pricing.  The company's experience also serves as a cautionary tale regarding the potential pitfalls of intellectual property issues.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "e7afca10-0621-4a0c-9f94-cc4ba030ce5d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "bf413e91-59a0-4605-a2d3-2ba24ccbfe60",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "e504ecb7c8fef51a023ea7f2683520f50ec16127df1cc3807f486b4b164ffe56",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "376443bd-9dc1-477d-b826-6d13ffc68feb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8de40891104a0242a7aabe47875c0915a1ba5bc7e0c17140f73e9c87658a8d78",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nViaweb Founders (Description: Founders of Viaweb who needed to determine stock ownership proportions and sign agreements regarding intellectual property.) -> ESTABLISHED (Description: Process of establishing the company structure, including stock allocation and intellectual property agreements.) -> Company Structure (Description: Formal structure of Viaweb, including stock ownership and intellectual property agreements.)\n\nIt's not unusual to get a check within a week based on a half-page agreement. We started Viaweb with $10,000 of seed money from our friend Julian. But he gave us a lot more than money. He's a former CEO and also a corporate lawyer, so he gave us a lot of valuable advice about business, and also did all the legal work of getting us set up as a company. Plus he introduced us to one of the two angel investors who supplied our next round of funding. Some angels, especially those with technology backgrounds, may be satisfied with a demo and a verbal description of what you plan to do. But many will want a copy of your business plan, if only to remind themselves what they invested in. Our angels asked for one, and looking back, I'm amazed how much worry it caused me. \"Business plan\" has that word \"business\" in it, so I figured it had to be something I'd have to read a book about business plans to write. Well, it doesn't. At this stage, all most investors expect is a brief description of what you plan to do and how you're going to make money from it, and the resumes of the founders. If you just sit down and write out what you've been saying to one another, that should be fine. It shouldn't take more than a couple hours, and you'll probably find that writing it all down gives you more ideas about what to do. For the angel to have someone to make the check out to, you're going to have to have some kind of company. Merely incorporating yourselves isn't hard. The problem is, for the company to exist, you have to decide who the founders are, and how much stock they each have. If there are two founders with the same qualifications who are both equally committed to the business, that's easy. But if you have a number of people who are expected to contribute in varying degrees, arranging the proportions of stock can be hard. And once you've done it, it tends to be set in stone. I have no tricks for dealing with this problem. All I can say is, try hard to do it right. I do have a rule of thumb for recognizing when you have, though. When everyone feels they're getting a slightly bad deal, that they're doing more than they should for the amount of stock they have, the stock is optimally apportioned. There is more to setting up a company than incorporating it, of course: insurance, business license, unemployment compensation, various things with the IRS. I'm not even sure what the list is, because we, ah, skipped all that. When we got real funding near the end of 1996, we hired a great CFO, who fixed everything retroactively. It turns out that no one comes and arrests you if you don't do everything you're supposed to when starting a company. And a good thing too, or a lot of startups would never get started. [5] It can be dangerous to delay turning yourself into a company, because one or more of the founders might decide to split off and start another company doing the same thing. This does happen. So when you set up the company, as well as as apportioning the stock, you should get all the founders to sign something agreeing that everyone's ideas belong to this company, and that this company is going to be everyone's only job. [If this were a movie, ominous music would begin here.] While you're at it, you should ask what else they've signed. One of the worst things that can happen to a startup is to run into intellectual property problems. We did, and it came closer to killing us than any competitor ever did. As we were in the middle of getting bought, we discovered that one of our people had, early on, been bound by an agreement that said all his ideas belonged to the giant company that was paying for him to go to grad school. In theory, that could have meant someone else owned big chunks of our software. So the acquisition came to a screeching halt while we tried to sort this out. The problem was, since we'd been about to be acquired, we'd allowed ourselves to run low on cash. Now we needed to raise more to keep going. But it's hard to raise money with an IP cloud over your head, because investors can't judge how serious it is. Our existing investors, knowing that we needed money and had nowhere else to get it, at this point attempted certain gambits which I will not describe in detail, except to remind readers that the word \"angel\" is a metaphor.",
+        "mimetype": "text/plain",
+        "start_char_idx": 21185,
+        "end_char_idx": 25494,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "218e6adda905f6cb3464a6f33e378f4aa149f6465d3b651270eb80dd66ea2d9b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0798ee2a0ace2f0ecb8b7fc8dd41ffd14b528511f9d008bc3ddd1fbdc7bb66c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> CO-FOUNDED (Description: Founded Viaweb with Robert Morris in their late twenties.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> FOUND (Description: Founded Viaweb, a startup that received seed funding and benefited from the legal expertise of its investor.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> CO-FOUNDED (Description: Founded Viaweb with Robert Morris in their late twenties.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> FOUND (Description: Founded Viaweb, a startup that received seed funding and benefited from the legal expertise of its investor.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\n\nRecent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage. This is one reason I'd bet on the 25 year old over the 32 year old. The 32 year old probably is a better programmer, but probably also has a much more expensive life. Whereas a 25 year old has some work experience (more on that later) but can live as cheaply as an undergrad. Robert Morris and I were 29 and 30 respectively when we started Viaweb, but fortunately we still lived like 23 year olds. We both had roughly zero assets. I would have loved to have a mortgage, since that would have meant I had a house But in retrospect having nothing turned out to be convenient. I wasn't tied down and I was used to living cheaply. Even more important than living cheaply, though, is thinking cheaply. One reason the Apple II was so popular was that it was cheap. The computer itself was cheap, and it used cheap, off-the-shelf peripherals like a cassette tape recorder for data storage and a TV as a monitor. And you know why? Because Woz designed this computer for himself, and he couldn't afford anything more. We benefitted from the same phenomenon. Our prices were daringly low for the time. The top level of service was $300 a month, which was an order of magnitude below the norm. In retrospect this was a smart move, but we didn't do it because we were smart. $300 a month seemed like a lot of money to us. Like Apple, we created something inexpensive, and therefore popular, simply because we were poor. A lot of startups have that form: someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible. Traditional long distance carriers, for example, didn't even want to think about VoIP. (It was coming, all the same.) Being poor helps in this game, because your own personal bias points in the same direction technology evolves in. The advantages of rootlessness are similar to those of poverty. When you're young you're more mobileâ€”not just because you don't have a house or much stuff, but also because you're less likely to have serious relationships. This turns out to be important, because a lot of startups involve someone moving. The founders of Kiko, for example, are now en route to the Bay Area to start their next startup. It's a better place for what they want to do. And it was easy for them to decide to go, because neither as far as I know has a serious girlfriend, and everything they own will fit in one carâ€”or more precisely, will either fit in one car or is crappy enough that they don't mind leaving it behind. They at least were in Boston. What if they'd been in Nebraska, like Evan Williams was at their age? Someone wrote recently that the drawback of Y Combinator was that you had to move to participate. It couldn't be any other way. The kind of conversations we have with founders, we have to have in person. We fund a dozen startups at a time, and we can't be in a dozen places at once. But even if we could somehow magically save people from moving, we wouldn't. We wouldn't be doing founders a favor by letting them stay in Nebraska. Places that aren't startup hubs are toxic to startups. You can tell that from indirect evidence. You can tell how hard it must be to start a startup in Houston or Chicago or Miami from the microscopically small number, per capita, that succeed there. I don't know exactly what's suppressing all the startups in these townsâ€”probably a hundred subtle little thingsâ€”but something must be. [ 2 ] Maybe this will change. Maybe the increasing cheapness of startups will mean they'll be able to survive anywhere, instead of only in the most hospitable environments. Maybe 37signals is the pattern for the future. But maybe not. Historically there have always been certain towns that were centers for certain industries, and if you weren't in one of them you were at a disadvantage. So my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8228,
+        "end_char_idx": 12436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9996435111917875,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "12047642-2218-44c2-aa6f-30971780e0de",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "2ac282164d730828f8a05c465d4a4a3e86e12b439150c00c96fe14138380d73f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nRobert Morris (Description: Individual acknowledged for reviewing drafts of the text, suggesting a collaborative effort in the writing process.) -> CO-FOUNDED (Description: Founded Viaweb with Paul Graham in their late twenties.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nRobert Morris (Description: Individual acknowledged for reviewing drafts of the text, suggesting a collaborative effort in the writing process.) -> CO-FOUNDED (Description: Founded Viaweb with Paul Graham in their late twenties.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\n\nI know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word. Get into the habit of thinking of software as having users. What do those users want? What would make them say wow? This is particularly valuable for undergrads, because the concept of users is missing from most college programming classes. The way you get taught programming in college would be like teaching writing as grammar, without mentioning that its purpose is to communicate something to an audience. Fortunately an audience for software is now only an http request away. So in addition to the programming you do for your classes, why not build some kind of website people will find useful? At the very least it will teach you how to write software with users. In the best case, it might not just be preparation for a startup, but the startup itself, like it was for Yahoo and Google. Notes [ 1 ] Even the desire to protect one's children seems weaker, judging from things people have historically done to their kids rather than risk their community's disapproval. (I assume we still do things that will be regarded in the future as barbaric, but historical abuses are easier for us to see.) [ 2 ] Worrying that Y Combinator makes founders move for 3 months also suggests one underestimates how hard it is to start a startup. You're going to have to put up with much greater inconveniences than that. [ 3 ] Most employee agreements say that any idea relating to the company's present or potential future business belongs to them. Often as not the second clause could include any possible startup, and anyone doing due diligence for an investor or acquirer will assume the worst. To be safe either (a) don't use code written while you were still employed in your previous job, or (b) get your employer to renounce, in writing, any claim to the code you write for your side project. Many will consent to (b) rather than lose a prized employee. The downside is that you'll have to tell them exactly what your project does. [ 4 ] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC. Thanks to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak. Comment on this essay.",
+        "mimetype": "text/plain",
+        "start_char_idx": 33421,
+        "end_char_idx": 35791,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9996435111917875,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "bac9a182161e44de958aa2c7bf097e8c34bc9e7500526900f59d99186e87b09f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "99560dc8-3676-4d58-ac16-98284b6e61c1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "20fd47e53c71e89dcb2e74ccb564e268c4d110b851878509ca489d7ae61d9bec",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> IS_AN (Description: Indicates Viaweb's unusual nature in the context of startup founding.) -> anomaly (Description: Describes Viaweb's unusual founding circumstances.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> FOUNDED_BY (Description: Founding of Viaweb with initial seed funding and mentorship from Julian.) -> Paul Graham (implied) (Description: Co-founder of Viaweb, author of the text providing insights into startup founding and challenges.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RECEIVE_FUNDING (Description: Seed funding received from a friend who also served as a lawyer, illustrating the benefits of leveraging personal networks for early-stage funding.) -> Julian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> FUNDED_BY (Description: Funding source for Viaweb, highlighting a successful angel investment strategy.) -> angel money (Description: Investment from angel investors, contrasting with traditional VC funding.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> SET_PRICE (Description: Established a monthly service price of $300, significantly lower than competitors.) -> $300/month (Description: Monthly service price for Viaweb, considered daringly low for the time.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RECEIVE_FUNDING (Description: Seed funding received from a friend, illustrating the role of personal networks in early-stage startup financing.) -> $10,000 (Description: Seed funding amount received by Viaweb from Julian, illustrating the modest capital requirements of some early-stage ventures.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RECEIVED_FUNDING (Description: Viaweb's initial funding round of $10,000 from Julian.) -> $10,000 (Description: Seed funding amount received by Viaweb from Julian, illustrating the modest capital requirements of some early-stage ventures.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RAISE_FUNDING (Description: Successfully raised $2.5 million from angel investors without accepting vesting, a decision that proved beneficial in the long run.) -> $2.5 Million (Description: Funding amount raised by Viaweb from angel investors without accepting vesting.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> EXPERIENCED (Description: Encountered intellectual property problems that nearly halted its acquisition.) -> Intellectual Property Issue (Description: Legal issue involving a founder's prior agreement that threatened Viaweb's acquisition.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> ACQUIRED (Description: Acquisition process of Viaweb was significantly impacted by an intellectual property issue.) -> Acquirer (unspecified) (Description: Company that acquired Viaweb; details are not specified in the text.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> HIRED (Description: Hiring of a CFO to address legal and financial compliance issues retroactively.) -> CFO (Description: Chief Financial Officer hired by Viaweb to handle legal and financial compliance.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> ACQUIRED (Description: Acquisition process of Viaweb was significantly impacted by an intellectual property issue.) -> Acquirer (unspecified) (Description: Company that acquired Viaweb; details are not specified in the text.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> IS_AN (Description: Indicates Viaweb's unusual nature in the context of startup founding.) -> anomaly (Description: Describes Viaweb's unusual founding circumstances.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> FOUNDED_BY (Description: Founding of Viaweb with initial seed funding and mentorship from Julian.) -> Paul Graham (implied) (Description: Co-founder of Viaweb, author of the text providing insights into startup founding and challenges.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> FUNDED_BY (Description: Funding source for Viaweb, highlighting a successful angel investment strategy.) -> angel money (Description: Investment from angel investors, contrasting with traditional VC funding.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> SET_PRICE (Description: Established a monthly service price of $300, significantly lower than competitors.) -> $300/month (Description: Monthly service price for Viaweb, considered daringly low for the time.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RECEIVE_FUNDING (Description: Seed funding received from a friend who also served as a lawyer, illustrating the benefits of leveraging personal networks for early-stage funding.) -> Julian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RECEIVE_FUNDING (Description: Seed funding received from a friend, illustrating the role of personal networks in early-stage startup financing.) -> $10,000 (Description: Seed funding amount received by Viaweb from Julian, illustrating the modest capital requirements of some early-stage ventures.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RAISE_FUNDING (Description: Successfully raised $2.5 million from angel investors without accepting vesting, a decision that proved beneficial in the long run.) -> $2.5 Million (Description: Funding amount raised by Viaweb from angel investors without accepting vesting.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> RECEIVED_FUNDING (Description: Viaweb's initial funding round of $10,000 from Julian.) -> $10,000 (Description: Seed funding amount received by Viaweb from Julian, illustrating the modest capital requirements of some early-stage ventures.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> EXPERIENCED (Description: Encountered intellectual property problems that nearly halted its acquisition.) -> Intellectual Property Issue (Description: Legal issue involving a founder's prior agreement that threatened Viaweb's acquisition.)\nViaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.) -> HIRED (Description: Hiring of a CFO to address legal and financial compliance issues retroactively.) -> CFO (Description: Chief Financial Officer hired by Viaweb to handle legal and financial compliance.)\n\nSo my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here. Perhaps the reason more startups per capita happen in the Bay Area than Miami is simply that there are more founder-type people there. Successful startups are almost never started by one person. Usually they begin with a conversation in which someone mentions that something would be a good idea for a company, and his friend says, \"Yeah, that is a good idea, let's try it.\" If you're missing that second person who says \"let's try it,\" the startup never happens. And that is another area where undergrads have an edge. They're surrounded by people willing to say that. At a good college you're concentrated together with a lot of other ambitious and technically minded peopleâ€”probably more concentrated than you'll ever be again. If your nucleus spits out a neutron, there's a good chance it will hit another nucleus. The number one question people ask us at Y Combinator is: Where can I find a co-founder? That's the biggest problem for someone starting a startup at 30. When they were in school they knew a lot of good co-founders, but by 30 they've either lost touch with them or these people are tied down by jobs they don't want to leave. Viaweb was an anomaly in this respect too. Though we were comparatively old, we weren't tied down by impressive jobs. I was trying to be an artist, which is not very constraining, and Robert, though 29, was still in grad school due to a little interruption in his academic career back in 1988. So arguably the Worm made Viaweb possible. Otherwise Robert would have been a junior professor at that age, and he wouldn't have had time to work on crazy speculative projects with me. Most of the questions people ask Y Combinator we have some kind of answer for, but not the co-founder question. There is no good answer. Co-founders really should be people you already know. And by far the best place to meet them is school. You have a large sample of smart people; you get to compare how they all perform on identical tasks; and everyone's life is pretty fluid. A lot of startups grow out of schools for this reason. Google, Yahoo, and Microsoft, among others, were all founded by people who met in school. (In Microsoft's case, it was high school.) Many students feel they should wait and get a little more experience before they start a company. All other things being equal, they should. But all other things are not quite as equal as they look. Most students don't realize how rich they are in the scarcest ingredient in startups, co-founders. If you wait too long, you may find that your friends are now involved in some project they don't want to abandon. The better they are, the more likely this is to happen. One way to mitigate this problem might be to actively plan your startup while you're getting those n years of experience. Sure, go off and get jobs or go to grad school or whatever, but get together regularly to scheme, so the idea of starting a startup stays alive in everyone's brain. I don't know if this works, but it can't hurt to try. It would be helpful just to realize what an advantage you have as students. Some of your classmates are probably going to be successful startup founders; at a great technical university, that is a near certainty. So which ones? If I were you I'd look for the people who are not just smart, but incurable builders Look for the people who keep starting projects, and finish at least some of them. That's what we look for. Above all else, above academic credentials and even the idea you apply with, we look for people who build things. The other place co-founders meet is at work. Fewer do than at school, but there are things you can do to improve the odds. The most important, obviously, is to work somewhere that has a lot of smart, young people. Another is to work for a company located in a startup hub. It will be easier to talk a co-worker into quitting with you in a place where startups are happening all around you. You might also want to look at the employment agreement you sign when you get hired. Most will say that any ideas you think of while you're employed by the company belong to them. In practice it's hard for anyone to prove what ideas you had when, so the line gets drawn at code.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12333,
+        "end_char_idx": 16641,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9996435111917875,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "5685800d-0c27-43f3-9571-1092e0629bff",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "0ecbc637-bd8b-424d-b690-5f73a59b7862",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "0c59e8494fac95fd0c72ef75a5c3318681d8ddcb4f7ecbc4d540199db91ea8c9",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nJulian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.) -> INVEST_IN (Description: Providing seed funding to Viaweb, illustrating the role of personal networks in early-stage startup financing.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nJulian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.) -> INVESTED_IN (Description: Provided seed funding and mentorship to Viaweb, playing a crucial role in its early stages.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nJulian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.) -> PROVIDE_FUNDING (Description: Provided $10,000 in seed funding to Viaweb, highlighting the advantages of combining funding and legal expertise.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nJulian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.) -> INVEST_IN (Description: Providing seed funding to Viaweb, illustrating the role of personal networks in early-stage startup financing.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nJulian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.) -> INVESTED_IN (Description: Provided seed funding and mentorship to Viaweb, playing a crucial role in its early stages.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nJulian (Description: Friend and lawyer who provided seed funding to Viaweb, blurring the lines between friend and angel investor.) -> PROVIDE_FUNDING (Description: Provided $10,000 in seed funding to Viaweb, highlighting the advantages of combining funding and legal expertise.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\n\nNovember 2005 Venture funding works like gears. A typical startup goes through several rounds of funding, and at each round you want to take just enough money to reach the speed where you can shift into the next gear. Few startups get it quite right. Many are underfunded. A few are overfunded, which is like trying to start driving in third gear. I think it would help founders to understand funding betterâ€”not just the mechanics of it, but what investors are thinking. I was surprised recently when I realized that all the worst problems we faced in our startup were due not to competitors, but investors. Dealing with competitors was easy by comparison. I don't mean to suggest that our investors were nothing but a drag on us. They were helpful in negotiating deals, for example. I mean more that conflicts with investors are particularly nasty. Competitors punch you in the jaw, but investors have you by the balls. Apparently our situation was not unusual. And if trouble with investors is one of the biggest threats to a startup, managing them is one of the most important skills founders need to learn. Let's start by talking about the five sources of startup funding. Then we'll trace the life of a hypothetical (very fortunate) startup as it shifts gears through successive rounds. Friends and Family A lot of startups get their first funding from friends and family. Excite did, for example: after the founders graduated from college, they borrowed $15,000 from their parents to start a company. With the help of some part-time jobs they made it last 18 months. If your friends or family happen to be rich, the line blurs between them and angel investors. At Viaweb we got our first $10,000 of seed money from our friend Julian, but he was sufficiently rich that it's hard to say whether he should be classified as a friend or angel. He was also a lawyer, which was great, because it meant we didn't have to pay legal bills out of that initial small sum. The advantage of raising money from friends and family is that they're easy to find. You already know them. There are three main disadvantages: you mix together your business and personal life; they will probably not be as well connected as angels or venture firms; and they may not be accredited investors, which could complicate your life later. The SEC defines an \"accredited investor\" as someone with over a million dollars in liquid assets or an income of over $200,000 a year. The regulatory burden is much lower if a company's shareholders are all accredited investors. Once you take money from the general public you're more restricted in what you can do. [ 1 ] A startup's life will be more complicated, legally, if any of the investors aren't accredited. In an IPO, it might not merely add expense, but change the outcome. A lawyer I asked about it said: When the company goes public, the SEC will carefully study all prior issuances of stock by the company and demand that it take immediate action to cure any past violations of securities laws. Those remedial actions can delay, stall or even kill the IPO. Of course the odds of any given startup doing an IPO are small. But not as small as they might seem. A lot of startups that end up going public didn't seem likely to at first. (Who could have guessed that the company Wozniak and Jobs started in their spare time selling plans for microcomputers would yield one of the biggest IPOs of the decade?) Much of the value of a startup consists of that tiny probability multiplied by the huge outcome. It wasn't because they weren't accredited investors that I didn't ask my parents for seed money, though. When we were starting Viaweb, I didn't know about the concept of an accredited investor, and didn't stop to think about the value of investors' connections. The reason I didn't take money from my parents was that I didn't want them to lose it. Consulting Another way to fund a startup is to get a job. The best sort of job is a consulting project in which you can build whatever software you wanted to sell as a startup. Then you can gradually transform yourself from a consulting company into a product company, and have your clients pay your development expenses. This is a good plan for someone with kids, because it takes most of the risk out of starting a startup. There never has to be a time when you have no revenues. Risk and reward are usually proportionate, however: you should expect a plan that cuts the risk of starting a startup also to cut the average return.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4511,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9996435111917875,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "9a316c98-32f3-4af5-9174-ff2d196f3f23",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "daf3423e54873e66b4afc326342176130ba3c716e6b69a25b497798a1d9e7b5e",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "6aeafe0e-2086-46cd-8806-7d171ab2407a",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "786c07470f95a03e2cde9cfd8d927a7034586fe3bfc96e981327faf6df59d28b",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nAngel Investors (Description: Investors who provided funding to the startup after the seed round, based on the demonstration of the software prototype.) -> INVESTED_IN (Description: Provided a subsequent round of funding to Viaweb.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\nAngel Investors (Description: Investors who provided funding to the startup after the seed round, based on the demonstration of the software prototype.) -> INVESTED_IN (Description: Provided a subsequent round of funding to Viaweb.) -> Viaweb (Description: A company that served as an anomaly in its founding, with relatively older founders not constrained by demanding jobs.)\n\nMost successful startups get money from more than one of the preceding five sources. [ 6 ] And, confusingly, the names of funding sources also tend to be used as the names of different rounds. The best way to explain how it all works is to follow the case of a hypothetical startup. Stage 1: Seed Round Our startup begins when a group of three friends have an idea-- either an idea for something they might build, or simply the idea \"let's start a company.\" Presumably they already have some source of food and shelter. But if you have food and shelter, you probably also have something you're supposed to be working on: either classwork, or a job. So if you want to work full-time on a startup, your money situation will probably change too. A lot of startup founders say they started the company without any idea of what they planned to do. This is actually less common than it seems: many have to claim they thought of the idea after quitting because otherwise their former employer would own it. The three friends decide to take the leap. Since most startups are in competitive businesses, you not only want to work full-time on them, but more than full-time. So some or all of the friends quit their jobs or leave school. (Some of the founders in a startup can stay in grad school, but at least one has to make the company his full-time job.) They're going to run the company out of one of their apartments at first, and since they don't have any users they don't have to pay much for infrastructure. Their main expenses are setting up the company, which costs a couple thousand dollars in legal work and registration fees, and the living expenses of the founders. The phrase \"seed investment\" covers a broad range. To some VC firms it means $500,000, but to most startups it means several months' living expenses. We'll suppose our group of friends start with $15,000 from their friend's rich uncle, who they give 5% of the company in return. There's only common stock at this stage. They leave 20% as an options pool for later employees (but they set things up so that they can issue this stock to themselves if they get bought early and most is still unissued), and the three founders each get 25%. By living really cheaply they think they can make the remaining money last five months. When you have five months' runway left, how soon do you need to start looking for your next round? Answer: immediately. It takes time to find investors, and time (always more than you expect) for the deal to close even after they say yes. So if our group of founders know what they're doing they'll start sniffing around for angel investors right away. But of course their main job is to build version 1 of their software. The friends might have liked to have more money in this first phase, but being slightly underfunded teaches them an important lesson. For a startup, cheapness is power. The lower your costs, the more options you haveâ€”not just at this stage, but at every point till you're profitable. When you have a high \"burn rate,\" you're always under time pressure, which means (a) you don't have time for your ideas to evolve, and (b) you're often forced to take deals you don't like. Every startup's rule should be: spend little, and work fast. After ten weeks' work the three friends have built a prototype that gives one a taste of what their product will do. It's not what they originally set out to doâ€”in the process of writing it, they had some new ideas. And it only does a fraction of what the finished product will do, but that fraction includes stuff that no one else has done before. They've also written at least a skeleton business plan, addressing the five fundamental questions: what they're going to do, why users need it, how large the market is, how they'll make money, and who the competitors are and why this company is going to beat them. (That last has to be more specific than \"they suck\" or \"we'll work really hard.\") If you have to choose between spending time on the demo or the business plan, spend most on the demo. Software is not only more convincing, but a better way to explore ideas. Stage 2: Angel Round While writing the prototype, the group has been traversing their network of friends in search of angel investors. They find some just as the prototype is demoable. When they demo it, one of the angels is willing to invest.",
+        "mimetype": "text/plain",
+        "start_char_idx": 29766,
+        "end_char_idx": 34136,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9996435111917875,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "888a75d9-4310-4b1e-80fe-84a7be921c86",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Paul Graham -> CO-FOUNDED -> Viaweb",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "ef2e17f0-4900-45be-8da3-ed8416f75caa",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "12047642-2218-44c2-aa6f-30971780e0de",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Robert Morris -> CO-FOUNDED -> Viaweb",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "0ae1ae71-61d6-4622-aa5d-698b28ab2df7",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> IS_AN -> anomaly",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "7f2aaa4a-94a8-463b-8a42-6aa854da53e2",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> FOUNDED_BY -> Paul Graham (implied)",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "fdc83003-6f5e-4b90-a1e3-2f649bcb1422",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Paul Graham -> FOUND -> Viaweb",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "2d9faa8f-ba6f-4c67-822e-eb36ec1326be",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "5685800d-0c27-43f3-9571-1092e0629bff",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Julian -> INVEST_IN -> Viaweb",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "ec5c5e4d-f556-4726-a32a-808d25230f84",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> FUNDED_BY -> angel money",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "087ab1b1-7d69-4d62-873e-4e5af0f8e0ac",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> SET_PRICE -> $300/month",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "84f3c6d1-6d60-4845-abbc-eb62f44b6e6e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> RECEIVE_FUNDING -> Julian",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "871794cb-f317-4c3a-bab3-f594574086fa",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> RECEIVE_FUNDING -> $10,000",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "5dd8ba22-b0fb-435b-a3ea-e880321b1e49",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> RAISE_FUNDING -> $2.5 Million",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "d4f16e42-0a5e-4d51-81be-81dad8614e2e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "5685800d-0c27-43f3-9571-1092e0629bff",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Julian -> INVESTED_IN -> Viaweb",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "ef8547ca-cccc-4f32-bcb1-059e089db1fa",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9a316c98-32f3-4af5-9174-ff2d196f3f23",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Angel Investors -> INVESTED_IN -> Viaweb",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "4d2f2158-1961-42dd-b154-759c55ead206",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> RECEIVED_FUNDING -> $10,000",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "c0fc8e76-f4d2-4237-b2af-253706edfe64",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> EXPERIENCED -> Intellectual Property Issue",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "e58f4d69-5182-4360-9122-a1989f4624ec",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> ACQUIRED -> Acquirer (unspecified)",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "ae825c8e-0565-49e6-8dd1-7edbdb268395",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Viaweb -> HIRED -> CFO",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "2821cbeb-6baf-48bc-b319-c6f197b5d400",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "5685800d-0c27-43f3-9571-1092e0629bff",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Julian -> PROVIDE_FUNDING -> Viaweb",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "question": "Provide all the information available related to Bill Gates.",
+  "answer": "The provided text uses Bill Gates as a case study to illustrate the potential drawbacks of following conventional career advice.  Several points are made regarding his career trajectory:\n\n1. **Early Company Founding:** Bill Gates co-founded Microsoft at a relatively young age, demonstrating early-stage company founding.  This is presented as a counterpoint to advice suggesting delaying entrepreneurial pursuits until after college graduation.\n\n2. **Influence Despite Lack of Majority Control:**  The text highlights that even without majority control, Bill Gates, as a founder of Microsoft, exerted significant influence.\n\n3. **Learning Through Experience:**  Bill Gates gained valuable knowledge and skills by working \"at ground zero of the microcomputer revolution,\" emphasizing the importance of hands-on experience.\n\n4. **Alternative Career Path:** The text speculates that had Bill Gates followed conventional advice, he might have worked for Apple. This is presented as a less advantageous outcome for him personally, although potentially beneficial for others.\n\n5. **Importance of Co-founders:** The text emphasizes the role of co-founders, even for someone as capable as Bill Gates, highlighting the collaborative nature of startups.\n\n6. **High Probability of Success:** The text assigns Bill Gates a significantly higher probability of startup success (20-50%) compared to the average, showcasing his exceptional capabilities as a founder.\n\n7. **Rejection of Conventional Advice:** At age 19, Bill Gates would likely have rejected advice to delay starting a company until after college graduation.  The text suggests that his experience working at the forefront of the microcomputer revolution was more valuable than formal education at that stage.\n\nIn summary, the text uses Bill Gates' career as an example to argue against conventional career advice, emphasizing the value of early entrepreneurial pursuits, hands-on experience, and the importance of recognizing and leveraging exceptional individual potential, even in young entrepreneurs.  The text also highlights the potential for significant success, even without majority ownership, and the importance of co-founders in a startup environment.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "d22743ae-0701-4333-8ad1-4db52e40214d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "d5dfb8ad-ef14-4a0d-9314-e21cfd38b4bb",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "582985cc8d09b14ca25d8a529139771a55098f0ed29a243a150ffc16622c8bd5",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "e003259b-6729-4579-9131-c2b69daf7c9a",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "782808dbf47c20225ba44cbb146b06d821f49c18848201bc18ee9d4f16935c83",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> CO-FOUNDED (Description: Co-founding of Microsoft at a relatively young age, used as an example of early-stage company founding.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> FOUNDER_OF (Description: Illustrative example of a founder who, despite not having majority control, still exerts significant influence.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> LEARN (Description: Acquiring knowledge and skills through direct experience in the microcomputer revolution.) -> working at ground zero of the microcomputer revolution (Description: Hands-on experience gained during the early stages of the microcomputer industry's development.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> POTENTIAL_OUTCOME (Description: Illustrating the potential consequences of adhering to conventional career advice.) -> working for Apple (Description: Potential employment scenario that, while beneficial for others, might have been less advantageous for Bill Gates personally.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> HAD (Description: Illustrates the importance of co-founders, even for individuals capable of handling substantial responsibilities.) -> Co-founder (Description: A partner in founding a company, highlighting the collaborative nature of startups.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> PROBABILITY_OF_SUCCESS (Description: The likelihood of a specific individual achieving startup success, potentially higher than average.) -> 20-50% (Description: A significantly higher probability of success compared to the average, illustrating exceptional founder capabilities.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> POTENTIAL_OUTCOME (Description: Illustrating the potential consequences of adhering to conventional career advice.) -> working for Apple (Description: Potential employment scenario that, while beneficial for others, might have been less advantageous for Bill Gates personally.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> CO-FOUNDED (Description: Co-founding of Microsoft at a relatively young age, used as an example of early-stage company founding.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> LEARN (Description: Acquiring knowledge and skills through direct experience in the microcomputer revolution.) -> working at ground zero of the microcomputer revolution (Description: Hands-on experience gained during the early stages of the microcomputer industry's development.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> FOUNDER_OF (Description: Illustrative example of a founder who, despite not having majority control, still exerts significant influence.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> HAD (Description: Illustrates the importance of co-founders, even for individuals capable of handling substantial responsibilities.) -> Co-founder (Description: A partner in founding a company, highlighting the collaborative nature of startups.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> PROBABILITY_OF_SUCCESS (Description: The likelihood of a specific individual achieving startup success, potentially higher than average.) -> 20-50% (Description: A significantly higher probability of success compared to the average, illustrating exceptional founder capabilities.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> CO-FOUNDED (Description: Co-founding of Microsoft at a relatively young age, used as an example of early-stage company founding.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> FOUNDER_OF (Description: Illustrative example of a founder who, despite not having majority control, still exerts significant influence.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nBill Gates (age 19) (Description: Individual who, at age 19, would likely have rejected advice to delay starting a company until after college graduation.) -> REJECT (Description: Refusal to accept the suggestion of delaying entrepreneurial pursuits until after completing formal education.) -> advice to wait until graduation (Description: Recommendation to postpone starting a company until after completing college education.)\n\nFortunately, this flaw should be easy to fix. If undergrads were all bad programmers, the problem would be a lot harder. It can take years to learn how to program. But I don't think it takes years to learn how to make things people want. My hypothesis is that all you have to do is smack hackers on the side of the head and tell them: Wake up. Don't sit here making up a priori theories about what users need. Go find some users and see what they need. Most successful startups not only do something very specific, but solve a problem people already know they have. The big change that \"experience\" causes in your brain is learning that you need to solve people's problems. Once you grasp that, you advance quickly to the next step, which is figuring out what those problems are. And that takes some effort, because the way software actually gets used, especially by the people who pay the most for it, is not at all what you might expect. For example, the stated purpose of Powerpoint is to present ideas. Its real role is to overcome people's fear of public speaking. It allows you to give an impressive-looking talk about nothing, and it causes the audience to sit in a dark room looking at slides, instead of a bright one looking at you. This kind of thing is out there for anyone to see. The key is to know to look for it-- to realize that having an idea for a startup is not like having an idea for a class project. The goal in a startup is not to write a cool piece of software. It's to make something people want. And to do that you have to look at users-- forget about hacking, and just look at users. This can be quite a mental adjustment, because little if any of the software you write in school even has users. A few steps before a Rubik's Cube is solved, it still looks like a mess. I think there are a lot of undergrads whose brains are in a similar position: they're only a few steps away from being able to start successful startups, if they wanted to, but they don't realize it. They have more than enough technical skill. They just haven't realized yet that the way to create wealth is to make what users want, and that employers are just proxies for users in which risk is pooled. If you're young and smart, you don't need either of those. You don't need someone else to tell you what users want, because you can figure it out yourself. And you don't want to pool risk, because the younger you are, the more risk you should take. A Public Service Message I'd like to conclude with a joint message from me and your parents. Don't drop out of college to start a startup. There's no rush. There will be plenty of time to start companies after you graduate. In fact, it may be just as well to go work for an existing company for a couple years after you graduate, to learn how companies work. And yet, when I think about it, I can't imagine telling Bill Gates at 19 that he should wait till he graduated to start a company. He'd have told me to get lost. And could I have honestly claimed that he was harming his future-- that he was learning less by working at ground zero of the microcomputer revolution than he would have if he'd been taking classes back at Harvard? No, probably not. And yes, while it is probably true that you'll learn some valuable things by going to work for an existing company for a couple years before starting your own, you'd learn a thing or two running your own company during that time too. The advice about going to work for someone else would get an even colder reception from the 19 year old Bill Gates. So I'm supposed to finish college, then go work for another company for two years, and then I can start my own? I have to wait till I'm 23? That's four years That's more than twenty percent of my life so far. Plus in four years it will be way too late to make money writing a Basic interpreter for the Altair. And he'd be right. The Apple II was launched just two years later. In fact, if Bill had finished college and gone to work for another company as we're suggesting, he might well have gone to work for Apple. And while that would probably have been better for all of us, it wouldn't have been better for him.",
+        "mimetype": "text/plain",
+        "start_char_idx": 21651,
+        "end_char_idx": 25820,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nVenture Capitalists (VCs) (Description: Group of investors who, hypothetically, would have invested in Microsoft if they could have identified Bill Gates' potential earlier.) -> WOULD_INVEST (Description: Hypothetical investment decision based on hindsight, highlighting the difficulty of identifying young talent.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nVenture Capitalists (VCs) (Description: Group of investors who, hypothetically, would have invested in Microsoft if they could have identified Bill Gates' potential earlier.) -> PERCEIVE (Description: The perception of VCs towards young entrepreneurs, potentially viewing them as less serious or reliable.) -> Young Entrepreneurs as Less Reliable (Description: The potential perception of VCs towards young entrepreneurs, potentially viewing them as less serious or reliable.)\nVenture Capitalists (VCs) (Description: Group of investors who, hypothetically, would have invested in Microsoft if they could have identified Bill Gates' potential earlier.) -> PRIORITIZE (Description: Investment strategy focusing on high-growth companies for ease of monitoring and high return potential.) -> High-growth companies (Description: Startups exhibiting rapid expansion, making them attractive investments for VCs.)\nVenture Capitalists (VCs) (Description: Group of investors who, hypothetically, would have invested in Microsoft if they could have identified Bill Gates' potential earlier.) -> WOULD_INVEST (Description: Hypothetical investment decision based on hindsight, highlighting the difficulty of identifying young talent.) -> Microsoft (Description: Company that VCs would have hypothetically invested in, illustrating the challenge of early-stage investment.)\nVenture Capitalists (VCs) (Description: Group of investors who, hypothetically, would have invested in Microsoft if they could have identified Bill Gates' potential earlier.) -> INFLATE_VALUE_OF (Description: Increase in startup valuations by VCs, making acquisitions more costly for larger companies.) -> Startups (Description: New businesses that offer potential learning opportunities for college students.)\nVenture Capitalists (VCs) (Description: Group of investors who, hypothetically, would have invested in Microsoft if they could have identified Bill Gates' potential earlier.) -> VIEW (Description: Perspective of VCs towards angel investors, characterized by jealousy and a disregard for the company's history before their investment.) -> Angel Investors (Description: Investors who provided funding to the startup after the seed round, based on the demonstration of the software prototype.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9642218318700481,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

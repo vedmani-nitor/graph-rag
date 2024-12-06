@@ -1,0 +1,240 @@
+{
+  "question": "I'm worried about the risks of starting a startup.  Most fail, right? Why should I even try?",
+  "answer": "The provided text acknowledges that most startups fail (approximately 9 out of 10, according to one source).  However, it argues that the potential rewards significantly outweigh the risks, especially for young people.\n\n1. **High Reward Despite High Risk:** While the failure rate is high, the text states that a successful startup can pay founders more than 10 times what they would earn in a traditional job.  This suggests that the potential payoff justifies the risk, despite the high probability of failure.\n\n2. **Age and Risk Tolerance:** The text emphasizes that younger individuals (in their early twenties) are better positioned to take such risks.  This is because they typically have fewer financial obligations (like mortgages or families) and can live more frugally, minimizing the negative consequences of failure.  The example of the Kiko founders, easily relocating to pursue their startup goals, illustrates this point.  Furthermore,  experience attempting a startup, even if unsuccessful, is viewed favorably by potential employers.\n\n3. **The \"Open Cage\" Analogy:** The text uses the analogy of an \"open economic cage\" to illustrate that many young people are unaware of the opportunities available outside of traditional employment.  It suggests that the conventional path of securing a \"good job\" is less relevant now than it was for previous generations.\n\n4. **Shifting Economic Landscape:** The text suggests a potential shift in the economic landscape, similar to the historical transition from an agrarian to a manufacturing-based economy.  It posits that starting a startup, while seemingly risky now, may become the default path to success in the future, much like working in manufacturing became the norm after the agricultural era.\n\n5. **Parental Influence:** The text also addresses the influence of parents, who may discourage risk-taking due to their own past experiences and outdated perspectives on career paths.  It advises considering the underlying reasons for parental concerns rather than simply following their advice.\n\nIn summary, the text argues that while the risk of startup failure is substantial, the potential rewards are exceptionally high, particularly for young people with fewer commitments.  The authors suggest that the perceived risk is often exaggerated and that the current economic climate may be on the verge of a significant shift, making startup entrepreneurship a more viable and potentially lucrative path than traditional employment.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "218e6adda905f6cb3464a6f33e378f4aa149f6465d3b651270eb80dd66ea2d9b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0798ee2a0ace2f0ecb8b7fc8dd41ffd14b528511f9d008bc3ddd1fbdc7bb66c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> ADVICE_ON (Description: Guidance provided on the suitability and timing of starting a startup, considering factors like age, financial independence, commitment level, and need for structure.) -> Starting a Startup (Description: The act of founding and developing a new company, considered more suitable for younger individuals due to their higher risk tolerance.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> ADVICE_ON (Description: Guidance provided on the suitability and timing of starting a startup, considering factors like age, financial independence, commitment level, and need for structure.) -> Starting a Startup (Description: The act of founding and developing a new company, considered more suitable for younger individuals due to their higher risk tolerance.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> advise (Description: Advice given by Paul Graham regarding the age and experience required to start a successful startup.) -> Starting a startup (Description: The act of starting a new business venture, discussed in the context of age and experience requirements.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> advise (Description: Advice given by Paul Graham regarding the age and experience required to start a successful startup.) -> Starting a startup (Description: The act of starting a new business venture, discussed in the context of age and experience requirements.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> ADVICE (Description: Recommendation to start a startup immediately after college, based on the observed success of the Kikos.) -> Start a startup right out of college (Description: A strategy of immediately starting a startup after college, emphasizing risk-taking and rapid learning.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> ADVICE (Description: Recommendation to start a startup immediately after college, based on the observed success of the Kikos.) -> Start a startup right out of college (Description: A strategy of immediately starting a startup after college, emphasizing risk-taking and rapid learning.)\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> ADVICE (Description: Recommendation to start a startup immediately after college, based on the observed success of the Kikos.) -> Start a startup right out of college (Description: A strategy of immediately starting a startup after college, emphasizing risk-taking and rapid learning.)\n\nRecent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage. This is one reason I'd bet on the 25 year old over the 32 year old. The 32 year old probably is a better programmer, but probably also has a much more expensive life. Whereas a 25 year old has some work experience (more on that later) but can live as cheaply as an undergrad. Robert Morris and I were 29 and 30 respectively when we started Viaweb, but fortunately we still lived like 23 year olds. We both had roughly zero assets. I would have loved to have a mortgage, since that would have meant I had a house But in retrospect having nothing turned out to be convenient. I wasn't tied down and I was used to living cheaply. Even more important than living cheaply, though, is thinking cheaply. One reason the Apple II was so popular was that it was cheap. The computer itself was cheap, and it used cheap, off-the-shelf peripherals like a cassette tape recorder for data storage and a TV as a monitor. And you know why? Because Woz designed this computer for himself, and he couldn't afford anything more. We benefitted from the same phenomenon. Our prices were daringly low for the time. The top level of service was $300 a month, which was an order of magnitude below the norm. In retrospect this was a smart move, but we didn't do it because we were smart. $300 a month seemed like a lot of money to us. Like Apple, we created something inexpensive, and therefore popular, simply because we were poor. A lot of startups have that form: someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible. Traditional long distance carriers, for example, didn't even want to think about VoIP. (It was coming, all the same.) Being poor helps in this game, because your own personal bias points in the same direction technology evolves in. The advantages of rootlessness are similar to those of poverty. When you're young you're more mobileâ€”not just because you don't have a house or much stuff, but also because you're less likely to have serious relationships. This turns out to be important, because a lot of startups involve someone moving. The founders of Kiko, for example, are now en route to the Bay Area to start their next startup. It's a better place for what they want to do. And it was easy for them to decide to go, because neither as far as I know has a serious girlfriend, and everything they own will fit in one carâ€”or more precisely, will either fit in one car or is crappy enough that they don't mind leaving it behind. They at least were in Boston. What if they'd been in Nebraska, like Evan Williams was at their age? Someone wrote recently that the drawback of Y Combinator was that you had to move to participate. It couldn't be any other way. The kind of conversations we have with founders, we have to have in person. We fund a dozen startups at a time, and we can't be in a dozen places at once. But even if we could somehow magically save people from moving, we wouldn't. We wouldn't be doing founders a favor by letting them stay in Nebraska. Places that aren't startup hubs are toxic to startups. You can tell that from indirect evidence. You can tell how hard it must be to start a startup in Houston or Chicago or Miami from the microscopically small number, per capita, that succeed there. I don't know exactly what's suppressing all the startups in these townsâ€”probably a hundred subtle little thingsâ€”but something must be. [ 2 ] Maybe this will change. Maybe the increasing cheapness of startups will mean they'll be able to survive anywhere, instead of only in the most hospitable environments. Maybe 37signals is the pattern for the future. But maybe not. Historically there have always been certain towns that were centers for certain industries, and if you weren't in one of them you were at a disadvantage. So my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8228,
+        "end_char_idx": 12436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "3a223e80-4f4c-410d-80bd-60b4e8aec076",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "ff23734588468464bfb359282b6f5f6154aab99d2b060bdd74087482d1ca388c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "d5dfb8ad-ef14-4a0d-9314-e21cfd38b4bb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "bd57ed75fea9e4641cd17a7fb2a7de570982f45b5be92d13536acc80dd18b2a5",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nYoung People (Description: Individuals in their early twenties, possessing the capacity to take significant career risks due to their age and limited commitments.) -> IDEAL_FOR (Description: Suitability of young people for startup founding, based on their adaptability and willingness to endure challenges.) -> Starting a Startup (Description: The act of founding and developing a new company, considered more suitable for younger individuals due to their higher risk tolerance.)\n\nBut I suspect the filter is set a little too high. I think there are people who could, if they tried, start successful startups, and who instead let themselves be swept into the intake ducts of big companies. Have you ever noticed that when animals are let out of cages, they don't always realize at first that the door's open? Often they have to be poked with a stick to get them out. Something similar happened with blogs. People could have been publishing online in 1995, and yet blogging has only really taken off in the last couple years. In 1995 we thought only professional writers were entitled to publish their ideas, and that anyone else who did was a crank. Now publishing online is becoming so popular that everyone wants to do it, even print journalists. But blogging has not taken off recently because of any technical innovation; it just took eight years for everyone to realize the cage was open. I think most undergrads don't realize yet that the economic cage is open. A lot have been told by their parents that the route to success is to get a good job. This was true when their parents were in college, but it's less true now. The route to success is to build something valuable, and you don't have to be working for an existing company to do that. Indeed, you can often do it better if you're not. When I talk to undergrads, what surprises me most about them is how conservative they are. Not politically, of course. I mean they don't seem to want to take risks. This is a mistake, because the younger you are, the more risk you can take. Risk Risk and reward are always proportionate. For example, stocks are riskier than bonds, and over time always have greater returns. So why does anyone invest in bonds? The catch is that phrase \"over time.\" Stocks will generate greater returns over thirty years, but they might lose value from year to year. So what you should invest in depends on how soon you need the money. If you're young, you should take the riskiest investments you can find. All this talk about investing may seem very theoretical. Most undergrads probably have more debts than assets. They may feel they have nothing to invest. But that's not true: they have their time to invest, and the same rule about risk applies there. Your early twenties are exactly the time to take insane career risks. The reason risk is always proportionate to reward is that market forces make it so. People will pay extra for stability. So if you choose stability-- by buying bonds, or by going to work for a big company-- it's going to cost you. Riskier career moves pay better on average, because there is less demand for them. Extreme choices like starting a startup are so frightening that most people won't even try. So you don't end up having as much competition as you might expect, considering the prizes at stake. The math is brutal. While perhaps 9 out of 10 startups fail, the one that succeeds will pay the founders more than 10 times what they would have made in an ordinary job. [ 3 ] That's the sense in which startups pay better \"on average.\" Remember that. If you start a startup, you'll probably fail. Most startups fail. It's the nature of the business. But it's not necessarily a mistake to try something that has a 90% chance of failing, if you can afford the risk. Failing at 40, when you have a family to support, could be serious. But if you fail at 22, so what? If you try to start a startup right out of college and it tanks, you'll end up at 23 broke and a lot smarter. Which, if you think about it, is roughly what you hope to get from a graduate program. Even if your startup does tank, you won't harm your prospects with employers. To make sure I asked some friends who work for big companies. I asked managers at Yahoo, Google, Amazon, Cisco and Microsoft how they'd feel about two candidates, both 24, with equal ability, one who'd tried to start a startup that tanked, and another who'd spent the two years since college working as a developer at a big company. Every one responded that they'd prefer the guy who'd tried to start his own company. Zod Nazem, who's in charge of engineering at Yahoo, said: I actually put more value on the guy with the failed startup. And you can quote me! So there you have it. Want to get hired by Yahoo?",
+        "mimetype": "text/plain",
+        "start_char_idx": 13144,
+        "end_char_idx": 17430,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "acb35d06-a1b5-4249-8e83-cc5b989bffa9",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+          "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 34381,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "aafca569-fd5e-42a9-a64f-bc9bf20266dd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+              "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 34381,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c653167dc4d2714b85465481c743672fb5fc444455fb2383cc06821e44375f7d",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "d0964983-2d3f-4861-806d-9d7e55f12241",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+              "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 34381,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "8e3727a6af9e306e691e444c2a4c1f3714a2ee522ab88a38a6dc6120149bbfd8",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "cebadb42-67e4-4cb6-8d68-194b57bb8d20",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "99d7baeda687d6dd2f2d3a12edb3c8cfa1b84ddd857a961780ffbdca9ff3c805",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nParents (Description: Parents whose career advice is often shaped by their past experiences, leading to potentially outdated recommendations.) -> DISCOURAGE (Description: Parental influence that inadvertently limits children's exposure to potentially rewarding but risky career paths.) -> Risk-taking in careers (Description: The act of pursuing unconventional or uncertain career paths, often associated with higher potential rewards.)\n\nIn almost everything, reward is proportionate to risk. So by protecting their kids from risk, parents are, without realizing it, also protecting them from rewards. If they saw that, they'd want you to take more risks. The other reason parents may be mistaken is that, like generals, they're always fighting the last war. If they want you to be a doctor, odds are it's not just because they want you to help the sick, but also because it's a prestigious and lucrative career. [ 4 ] But not so lucrative or prestigious as it was when their opinions were formed. When I was a kid in the seventies, a doctor was the thing to be. There was a sort of golden triangle involving doctors, Mercedes 450SLs, and tennis. All three vertices now seem pretty dated. The parents who want you to be a doctor may simply not realize how much things have changed. Would they be that unhappy if you were Steve Jobs instead? So I think the way to deal with your parents' opinions about what you should do is to treat them like feature requests. Even if your only goal is to please them, the way to do that is not simply to give them what they ask for. Instead think about why they're asking for something, and see if there's a better way to give them what they need. 16. A job is the default This leads us to the last and probably most powerful reason people get regular jobs: it's the default thing to do. Defaults are enormously powerful, precisely because they operate without any conscious choice. To almost everyone except criminals, it seems an axiom that if you need money, you should get a job. Actually this tradition is not much more than a hundred years old. Before that, the default way to make a living was by farming. It's a bad plan to treat something only a hundred years old as an axiom. By historical standards, that's something that's changing pretty rapidly. We may be seeing another such change right now. I've read a lot of economic history, and I understand the startup world pretty well, and it now seems to me fairly likely that we're seeing the beginning of a change like the one from farming to manufacturing. And you know what? If you'd been around when that change began (around 1000 in Europe) it would have seemed to nearly everyone that running off to the city to make your fortune was a crazy thing to do. Though serfs were in principle forbidden to leave their manors, it can't have been that hard to run away to a city. There were no guards patrolling the perimeter of the village. What prevented most serfs from leaving was that it seemed insanely risky. Leave one's plot of land? Leave the people you'd spent your whole life with, to live in a giant city of three or four thousand complete strangers? How would you live? How would you get food, if you didn't grow it? Frightening as it seemed to them, it's now the default with us to live by our wits. So if it seems risky to you to start a startup, think how risky it once seemed to your ancestors to live as we do now. Oddly enough, the people who know this best are the very ones trying to get you to stick to the old model. How can Larry and Sergey say you should come work as their employee, when they didn't get jobs themselves? Now we look back on medieval peasants and wonder how they stood it. How grim it must have been to till the same fields your whole life with no hope of anything better, under the thumb of lords and priests you had to give all your surplus to and acknowledge as your masters. I wouldn't be surprised if one day people look back on what we consider a normal job in the same way. How grim it would be to commute every day to a cubicle in some soulless office complex, and be told what to do by someone you had to acknowledge as a bossâ€”someone who could call you into their office and say \"take a seat,\" and you'd sit! Imagine having to ask permission to release software to users. Imagine being sad on Sunday afternoons because the weekend was almost over, and tomorrow you'd have to get up and go to work. How did they stand it? It's exciting to think we may be on the cusp of another shift like the one from farming to manufacturing. That's why I care about startups. Startups aren't interesting just because they're a way to make a lot of money. I couldn't care less about other ways to do that, like speculating in securities.",
+        "mimetype": "text/plain",
+        "start_char_idx": 28629,
+        "end_char_idx": 32957,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9975796807474915,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}
