@@ -648,8 +648,11 @@ class Neo4jPropertyGraphStore(PropertyGraphStore):
                     UNWIND nodes AS n
                     RETURN n.node AS node, (n.score / vector_index_max_score) AS score
                     UNION
-                    CALL db.index.fulltext.queryNodes('text_index', $query_text, {{limit: $limit}})
+                    CALL db.index.fulltext.queryNodes('text_index', $query_text) 
                     YIELD node, score
+                    WITH node, score
+                    WHERE (node:Chunk AND node.text IS NOT NULL) OR 
+                          (NOT node:Chunk AND node.description IS NOT NULL)
                     WITH collect({{node: node, score: score}}) AS nodes, max(score) AS ft_index_max_score
                     UNWIND nodes AS n
                     RETURN n.node AS node, (n.score / ft_index_max_score) AS score
