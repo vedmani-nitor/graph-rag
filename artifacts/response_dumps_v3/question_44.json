@@ -1,0 +1,1111 @@
+{
+  "question": "What are the key differences between a \"startup\" and a small business, and why is this distinction important for founders and investors?",
+  "answer": "The provided text does not explicitly define or compare \"startup\" and \"small business.\"  Therefore, a direct answer to the question of key differences and their importance for founders and investors cannot be provided based solely on the given context.  The text focuses heavily on the characteristics of successful startups, their funding, and the roles of founders and investors within that context, but it does not offer a comparative analysis with small businesses.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "bac9a182161e44de958aa2c7bf097e8c34bc9e7500526900f59d99186e87b09f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "99560dc8-3676-4d58-ac16-98284b6e61c1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "20fd47e53c71e89dcb2e74ccb564e268c4d110b851878509ca489d7ae61d9bec",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> SOLVE (Description: Addressing pre-existing problems identified by target users.) -> problems people already know they have (Description: Issues or challenges that potential customers are already aware of and seeking solutions for.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> CHARACTERISTIC (Description: Common trait among successful startups.) -> long working hours (Description: Typical working hours for founders of successful startups.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> STRATEGY (Description: Approach used by successful startups.) -> adapting initial plans and operating cheaply (Description: Key strategies employed by successful startups.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> ARE_STARTED_BY (Description: Describes the typical founding process of successful startups, involving multiple individuals.) -> multiple founders (Description: The composition of a startup's founding team, typically involving more than one person.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> ORIGINATE_FROM (Description: The connection between the origin of successful startups and highly selective universities.) -> Selective universities (Description: Universities known for their rigorous admissions processes, often associated with a high number of successful startup founders.)\n\nSo my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here. Perhaps the reason more startups per capita happen in the Bay Area than Miami is simply that there are more founder-type people there. Successful startups are almost never started by one person. Usually they begin with a conversation in which someone mentions that something would be a good idea for a company, and his friend says, \"Yeah, that is a good idea, let's try it.\" If you're missing that second person who says \"let's try it,\" the startup never happens. And that is another area where undergrads have an edge. They're surrounded by people willing to say that. At a good college you're concentrated together with a lot of other ambitious and technically minded peopleâ€”probably more concentrated than you'll ever be again. If your nucleus spits out a neutron, there's a good chance it will hit another nucleus. The number one question people ask us at Y Combinator is: Where can I find a co-founder? That's the biggest problem for someone starting a startup at 30. When they were in school they knew a lot of good co-founders, but by 30 they've either lost touch with them or these people are tied down by jobs they don't want to leave. Viaweb was an anomaly in this respect too. Though we were comparatively old, we weren't tied down by impressive jobs. I was trying to be an artist, which is not very constraining, and Robert, though 29, was still in grad school due to a little interruption in his academic career back in 1988. So arguably the Worm made Viaweb possible. Otherwise Robert would have been a junior professor at that age, and he wouldn't have had time to work on crazy speculative projects with me. Most of the questions people ask Y Combinator we have some kind of answer for, but not the co-founder question. There is no good answer. Co-founders really should be people you already know. And by far the best place to meet them is school. You have a large sample of smart people; you get to compare how they all perform on identical tasks; and everyone's life is pretty fluid. A lot of startups grow out of schools for this reason. Google, Yahoo, and Microsoft, among others, were all founded by people who met in school. (In Microsoft's case, it was high school.) Many students feel they should wait and get a little more experience before they start a company. All other things being equal, they should. But all other things are not quite as equal as they look. Most students don't realize how rich they are in the scarcest ingredient in startups, co-founders. If you wait too long, you may find that your friends are now involved in some project they don't want to abandon. The better they are, the more likely this is to happen. One way to mitigate this problem might be to actively plan your startup while you're getting those n years of experience. Sure, go off and get jobs or go to grad school or whatever, but get together regularly to scheme, so the idea of starting a startup stays alive in everyone's brain. I don't know if this works, but it can't hurt to try. It would be helpful just to realize what an advantage you have as students. Some of your classmates are probably going to be successful startup founders; at a great technical university, that is a near certainty. So which ones? If I were you I'd look for the people who are not just smart, but incurable builders Look for the people who keep starting projects, and finish at least some of them. That's what we look for. Above all else, above academic credentials and even the idea you apply with, we look for people who build things. The other place co-founders meet is at work. Fewer do than at school, but there are things you can do to improve the odds. The most important, obviously, is to work somewhere that has a lot of smart, young people. Another is to work for a company located in a startup hub. It will be easier to talk a co-worker into quitting with you in a place where startups are happening all around you. You might also want to look at the employment agreement you sign when you get hired. Most will say that any ideas you think of while you're employed by the company belong to them. In practice it's hard for anyone to prove what ideas you had when, so the line gets drawn at code.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12333,
+        "end_char_idx": 16641,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "218e6adda905f6cb3464a6f33e378f4aa149f6465d3b651270eb80dd66ea2d9b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0798ee2a0ace2f0ecb8b7fc8dd41ffd14b528511f9d008bc3ddd1fbdc7bb66c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> advise (Description: Advice given by Paul Graham regarding the age and experience required to start a successful startup.) -> Starting a startup (Description: The act of starting a new business venture, discussed in the context of age and experience requirements.)\n\nRecent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage. This is one reason I'd bet on the 25 year old over the 32 year old. The 32 year old probably is a better programmer, but probably also has a much more expensive life. Whereas a 25 year old has some work experience (more on that later) but can live as cheaply as an undergrad. Robert Morris and I were 29 and 30 respectively when we started Viaweb, but fortunately we still lived like 23 year olds. We both had roughly zero assets. I would have loved to have a mortgage, since that would have meant I had a house But in retrospect having nothing turned out to be convenient. I wasn't tied down and I was used to living cheaply. Even more important than living cheaply, though, is thinking cheaply. One reason the Apple II was so popular was that it was cheap. The computer itself was cheap, and it used cheap, off-the-shelf peripherals like a cassette tape recorder for data storage and a TV as a monitor. And you know why? Because Woz designed this computer for himself, and he couldn't afford anything more. We benefitted from the same phenomenon. Our prices were daringly low for the time. The top level of service was $300 a month, which was an order of magnitude below the norm. In retrospect this was a smart move, but we didn't do it because we were smart. $300 a month seemed like a lot of money to us. Like Apple, we created something inexpensive, and therefore popular, simply because we were poor. A lot of startups have that form: someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible. Traditional long distance carriers, for example, didn't even want to think about VoIP. (It was coming, all the same.) Being poor helps in this game, because your own personal bias points in the same direction technology evolves in. The advantages of rootlessness are similar to those of poverty. When you're young you're more mobileâ€”not just because you don't have a house or much stuff, but also because you're less likely to have serious relationships. This turns out to be important, because a lot of startups involve someone moving. The founders of Kiko, for example, are now en route to the Bay Area to start their next startup. It's a better place for what they want to do. And it was easy for them to decide to go, because neither as far as I know has a serious girlfriend, and everything they own will fit in one carâ€”or more precisely, will either fit in one car or is crappy enough that they don't mind leaving it behind. They at least were in Boston. What if they'd been in Nebraska, like Evan Williams was at their age? Someone wrote recently that the drawback of Y Combinator was that you had to move to participate. It couldn't be any other way. The kind of conversations we have with founders, we have to have in person. We fund a dozen startups at a time, and we can't be in a dozen places at once. But even if we could somehow magically save people from moving, we wouldn't. We wouldn't be doing founders a favor by letting them stay in Nebraska. Places that aren't startup hubs are toxic to startups. You can tell that from indirect evidence. You can tell how hard it must be to start a startup in Houston or Chicago or Miami from the microscopically small number, per capita, that succeed there. I don't know exactly what's suppressing all the startups in these townsâ€”probably a hundred subtle little thingsâ€”but something must be. [ 2 ] Maybe this will change. Maybe the increasing cheapness of startups will mean they'll be able to survive anywhere, instead of only in the most hospitable environments. Maybe 37signals is the pattern for the future. But maybe not. Historically there have always been certain towns that were centers for certain industries, and if you weren't in one of them you were at a disadvantage. So my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8228,
+        "end_char_idx": 12436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9987049698858577,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "6aeafe0e-2086-46cd-8806-7d171ab2407a",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "9a316c98-32f3-4af5-9174-ff2d196f3f23",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "d499d75df98b41993aab1f8708b0a11a36ce00c0969c423ef124a55518f29e4f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "ff26b353-c7e4-49ae-a304-dc9f2ae3f0ab",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "463764f3dbb6fef06c1d75d47bba061cf486b9fe1481ee228af1a7e63a259986",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nAngel Investor (Description: Angel investor who potentially sought preferred stock with additional rights, including veto power over strategic decisions and priority in return of investment.) -> OFFER (Description: The type of protection or support offered by an investor to a startup.) -> Less Protection (Description: Lower level of protection or safeguards offered to startups compared to larger VC firms.)\n\nThey find some just as the prototype is demoable. When they demo it, one of the angels is willing to invest. Now the group is looking for more money: they want enough to last for a year, and maybe to hire a couple friends. So they're going to raise $200,000. The angel agrees to invest at a pre-money valuation of $1 million. The company issues $200,000 worth of new shares to the angel; if there were 1000 shares before the deal, this means 200 additional shares. The angel now owns 200/1200 shares, or a sixth of the company, and all the previous shareholders' percentage ownership is diluted by a sixth. After the deal, the capitalization table looks like this: shareholder shares percent ------------------------------- angel 200 16.7 uncle 50 4.2 each founder 250 20.8 option pool 200 16.7 ---- ----- total 1200 100 To keep things simple, I had the angel do a straight cash for stock deal. In reality the angel might be more likely to make the investment in the form of a convertible loan. A convertible loan is a loan that can be converted into stock later; it works out the same as a stock purchase in the end, but gives the angel more protection against being squashed by VCs in future rounds. Who pays the legal bills for this deal? The startup, remember, only has a couple thousand left. In practice this turns out to be a sticky problem that usually gets solved in some improvised way. Maybe the startup can find lawyers who will do it cheaply in the hope of future work if the startup succeeds. Maybe someone has a lawyer friend. Maybe the angel pays for his lawyer to represent both sides. (Make sure if you take the latter route that the lawyer is representing you rather than merely advising you, or his only duty is to the investor.) An angel investing $200k would probably expect a seat on the board of directors. He might also want preferred stock, meaning a special class of stock that has some additional rights over the common stock everyone else has. Typically these rights include vetoes over major strategic decisions, protection against being diluted in future rounds, and the right to get one's investment back first if the company is sold. Some investors might expect the founders to accept vesting for a sum this size, and others wouldn't. VCs are more likely to require vesting than angels. At Viaweb we managed to raise $2.5 million from angels without ever accepting vesting, largely because we were so inexperienced that we were appalled at the idea. In practice this turned out to be good, because it made us harder to push around. Our experience was unusual; vesting is the norm for amounts that size. Y Combinator doesn't require vesting, because (a) we invest such small amounts, and (b) we think it's unnecessary, and that the hope of getting rich is enough motivation to keep founders at work. But maybe if we were investing millions we would think differently. I should add that vesting is also a way for founders to protect themselves against one another. It solves the problem of what to do if one of the founders quits. So some founders impose it on themselves when they start the company. The angel deal takes two weeks to close, so we are now three months into the life of the company. The point after you get the first big chunk of angel money will usually be the happiest phase in a startup's life. It's a lot like being a postdoc: you have no immediate financial worries, and few responsibilities. You get to work on juicy kinds of work, like designing software. You don't have to spend time on bureaucratic stuff, because you haven't hired any bureaucrats yet. Enjoy it while it lasts, and get as much done as you can, because you will never again be so productive. With an apparently inexhaustible sum of money sitting safely in the bank, the founders happily set to work turning their prototype into something they can release. They hire one of their friendsâ€”at first just as a consultant, so they can try him outâ€”and then a month later as employee #1. They pay him the smallest salary he can live on, plus 3% of the company in restricted stock, vesting over four years. (So after this the option pool is down to 13.7%). [ 7 ] They also spend a little money on a freelance graphic designer. How much stock do you give early employees? That varies so much that there's no conventional number.",
+        "mimetype": "text/plain",
+        "start_char_idx": 34028,
+        "end_char_idx": 38373,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9982880399008699,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "ff26b353-c7e4-49ae-a304-dc9f2ae3f0ab",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "6aeafe0e-2086-46cd-8806-7d171ab2407a",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "cccbaad982cc534b378ebc2020add42381d3e9760d32a06b588f7740edfeee8f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "13f47ef7-8199-4481-b459-704584188b23",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "59da4b606ca12802479489f85df45c5207a3801c1a1bda87625b68c4dbf762be",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nfounders (Description: The founders of the startup who gave early employees stock options.) -> FOUND (Description: The act of establishing a startup company, involving initial development and user acquisition through organic growth.) -> startup (Description: A new business venture, exemplified by Google's origin story, often starting as a side project.)\n\n[ 7 ] They also spend a little money on a freelance graphic designer. How much stock do you give early employees? That varies so much that there's no conventional number. If you get someone really good, really early, it might be wise to give him as much stock as the founders. The one universal rule is that the amount of stock an employee gets decreases polynomially with the age of the company. In other words, you get rich as a power of how early you were. So if some friends want you to come work for their startup, don't wait several months before deciding. A month later, at the end of month four, our group of founders have something they can launch. Gradually through word of mouth they start to get users. Seeing the system in use by real usersâ€”people they don't knowâ€”gives them lots of new ideas. Also they find they now worry obsessively about the status of their server. (How relaxing founders' lives must have been when startups wrote VisiCalc.) By the end of month six, the system is starting to have a solid core of features, and a small but devoted following. People start to write about it, and the founders are starting to feel like experts in their field. We'll assume that their startup is one that could put millions more to use. Perhaps they need to spend a lot on marketing, or build some kind of expensive infrastructure, or hire highly paid salesmen. So they decide to start talking to VCs. They get introductions to VCs from various sources: their angel investor connects them with a couple; they meet a few at conferences; a couple VCs call them after reading about them. Step 3: Series A Round Armed with their now somewhat fleshed-out business plan and able to demo a real, working system, the founders visit the VCs they have introductions to. They find the VCs intimidating and inscrutable. They all ask the same question: who else have you pitched to? (VCs are like high school girls: they're acutely aware of their position in the VC pecking order, and their interest in a company is a function of the interest other VCs show in it.) One of the VC firms says they want to invest and offers the founders a term sheet. A term sheet is a summary of what the deal terms will be when and if they do a deal; lawyers will fill in the details later. By accepting the term sheet, the startup agrees to turn away other VCs for some set amount of time while this firm does the \"due diligence\" required for the deal. Due diligence is the corporate equivalent of a background check: the purpose is to uncover any hidden bombs that might sink the company later, like serious design flaws in the product, pending lawsuits against the company, intellectual property issues, and so on. VCs' legal and financial due diligence is pretty thorough, but the technical due diligence is generally a joke. [ 8 ] The due diligence discloses no ticking bombs, and six weeks later they go ahead with the deal. Here are the terms: a $2 million investment at a pre-money valuation of $4 million, meaning that after the deal closes the VCs will own a third of the company (2 / (4 + 2)). The VCs also insist that prior to the deal the option pool be enlarged by an additional hundred shares. So the total number of new shares issued is 750, and the cap table becomes: shareholder shares percent ------------------------------- VCs 650 33.3 angel 200 10.3 uncle 50 2.6 each founder 250 12.8 employee 36* 1.8 *unvested option pool 264 13.5 ---- ----- total 1950 100 This picture is unrealistic in several respects. For example, while the percentages might end up looking like this, it's unlikely that the VCs would keep the existing numbers of shares. In fact, every bit of the startup's paperwork would probably be replaced, as if the company were being founded anew. Also, the money might come in several tranches, the later ones subject to various conditionsâ€”though this is apparently more common in deals with lower-tier VCs (whose lot in life is to fund more dubious startups) than with the top firms. And of course any VCs reading this are probably rolling on the floor laughing at how my hypothetical VCs let the angel keep his 10.3 of the company. I admit, this is the Bambi version; in simplifying the picture, I've also made everyone nicer.",
+        "mimetype": "text/plain",
+        "start_char_idx": 38203,
+        "end_char_idx": 42458,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9978386671324843,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "833306d7f2d6eafc8627bf95615ca7e1877f9eb84f846b58cc0273ac594e9310",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "3a223e80-4f4c-410d-80bd-60b4e8aec076",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8c7d98551882cf1d99d024c954902c1b64cad6737542d6753c9b59a3d8982b62",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nVCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.) -> INVEST_IN (Description: The act of investing in a startup, following a thorough due diligence process to assess the company's potential.) -> startup (Description: A new business venture, exemplified by Google's origin story, often starting as a side project.)\nVCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.) -> INVEST (Description: The investment of $2 million in the startup at a pre-money valuation of $4 million, giving them a 33.3% stake.) -> startup (Description: A new business venture, exemplified by Google's origin story, often starting as a side project.)\n\nBecause they can't predict the winners in advance? If they're only paying a twentieth as much, they only have to predict a twentieth as well. Surely they can manage that. I think companies that acquire technology will gradually learn to go after earlier stage startups. They won't necessarily buy them outright. The solution may be some hybrid of investment and acquisition: for example, to buy a chunk of the company and get an option to buy the rest later. When companies buy startups, they're effectively fusing recruiting and product development. And I think that's more efficient than doing the two separately, because you always get people who are really committed to what they're working on. Plus this method yields teams of developers who already work well together. Any conflicts between them have been ironed out under the very hot iron of running a startup. By the time the acquirer gets them, they're finishing one another's sentences. That's valuable in software, because so many bugs occur at the boundaries between different people's code. Investors The increasing cheapness of starting a company doesn't just give hackers more power relative to employers. It also gives them more power relative to investors. The conventional wisdom among VCs is that hackers shouldn't be allowed to run their own companies. The founders are supposed to accept MBAs as their bosses, and themselves take on some title like Chief Technical Officer. There may be cases where this is a good idea. But I think founders will increasingly be able to push back in the matter of control, because they just don't need the investors' money as much as they used to. Startups are a comparatively new phenomenon. Fairchild Semiconductor is considered the first VC-backed startup, and they were founded in 1959, less than fifty years ago. Measured on the time scale of social change, what we have now is pre-beta. So we shouldn't assume the way startups work now is the way they have to work. Fairchild needed a lot of money to get started. They had to build actual factories. What does the first round of venture funding for a Web-based startup get spent on today? More money can't get software written faster; it isn't needed for facilities, because those can now be quite cheap; all money can really buy you is sales and marketing. A sales force is worth something, I'll admit. But marketing is increasingly irrelevant. On the Internet, anything genuinely good will spread by word of mouth. Investors' power comes from money. When startups need less money, investors have less power over them. So future founders may not have to accept new CEOs if they don't want them. The VCs will have to be dragged kicking and screaming down this road, but like many things people have to be dragged kicking and screaming toward, it may actually be good for them. Google is a sign of the way things are going. As a condition of funding, their investors insisted they hire someone old and experienced as CEO. But from what I've heard the founders didn't just give in and take whoever the VCs wanted. They delayed for an entire year, and when they did finally take a CEO, they chose a guy with a PhD in computer science. It sounds to me as if the founders are still the most powerful people in the company, and judging by Google's performance, their youth and inexperience doesn't seem to have hurt them. Indeed, I suspect Google has done better than they would have if the founders had given the VCs what they wanted, when they wanted it, and let some MBA take over as soon as they got their first round of funding. I'm not claiming the business guys installed by VCs have no value. Certainly they have. But they don't need to become the founders' bosses, which is what that title CEO means. I predict that in the future the executives installed by VCs will increasingly be COOs rather than CEOs. The founders will run engineering directly, and the rest of the company through the COO. The Open Cage With both employers and investors, the balance of power is slowly shifting towards the young. And yet they seem the last to realize it. Only the most ambitious undergrads even consider starting their own company when they graduate. Most just want to get a job. Maybe this is as it should be. Maybe if the idea of starting a startup is intimidating, you filter out the uncommitted. But I suspect the filter is set a little too high. I think there are people who could, if they tried, start successful startups, and who instead let themselves be swept into the intake ducts of big companies.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8790,
+        "end_char_idx": 13352,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9978386671324843,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "12047642-2218-44c2-aa6f-30971780e0de",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "2ac282164d730828f8a05c465d4a4a3e86e12b439150c00c96fe14138380d73f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nstartup (Description: A new business venture, exemplified by Google's origin story, often starting as a side project.) -> RECEIVE (Description: The startup receiving funding from VCs after a successful demonstration of their product and business plan.) -> Series A funding (Description: A $2 million investment at a pre-money valuation of $4 million, resulting in VCs owning a third of the company.)\n\nI know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word. Get into the habit of thinking of software as having users. What do those users want? What would make them say wow? This is particularly valuable for undergrads, because the concept of users is missing from most college programming classes. The way you get taught programming in college would be like teaching writing as grammar, without mentioning that its purpose is to communicate something to an audience. Fortunately an audience for software is now only an http request away. So in addition to the programming you do for your classes, why not build some kind of website people will find useful? At the very least it will teach you how to write software with users. In the best case, it might not just be preparation for a startup, but the startup itself, like it was for Yahoo and Google. Notes [ 1 ] Even the desire to protect one's children seems weaker, judging from things people have historically done to their kids rather than risk their community's disapproval. (I assume we still do things that will be regarded in the future as barbaric, but historical abuses are easier for us to see.) [ 2 ] Worrying that Y Combinator makes founders move for 3 months also suggests one underestimates how hard it is to start a startup. You're going to have to put up with much greater inconveniences than that. [ 3 ] Most employee agreements say that any idea relating to the company's present or potential future business belongs to them. Often as not the second clause could include any possible startup, and anyone doing due diligence for an investor or acquirer will assume the worst. To be safe either (a) don't use code written while you were still employed in your previous job, or (b) get your employer to renounce, in writing, any claim to the code you write for your side project. Many will consent to (b) rather than lose a prized employee. The downside is that you'll have to tell them exactly what your project does. [ 4 ] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC. Thanks to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak. Comment on this essay.",
+        "mimetype": "text/plain",
+        "start_char_idx": 33421,
+        "end_char_idx": 35791,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9978386671324843,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nYahoo (Description: One of the three major internet companies in May 2005, alongside Google and Microsoft, notable for its relatively young founders.) -> EXAMPLE_OF (Description: Illustrative case of a successful startup born from a project initially developed outside of a formal company setting.) -> startup (Description: A new business venture, exemplified by Google's origin story, often starting as a side project.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9978386671324843,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "57914f80-b145-4d7c-9d9d-76ae43dc5b3f",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Startup -> RECEIVE -> Funding",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "984484ed-6815-4365-946e-a4df219d4858",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> HAVE -> conservative risk attitude",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "18afdbce-9216-4d68-a2f3-e6c6083b87f3",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> FOUND -> Startup",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "960f6e3d-8de4-412f-b0d4-766ec9c5759d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> CEDE_POWER_TO -> Board of Directors",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "16967e8c-81ee-4d85-adc2-4bbcc5ccb058",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9453ebed-a8a0-4c33-8c75-05b8cecd8e97",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Founders -> APPROACH -> VCs",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "51021bb6-94bf-4b33-a8e6-de0660a12534",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "VCs -> PRIORITIZE -> Founders",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "8ea1fb67-a721-423c-a29b-611b9037d0f3",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "b3f0c64b-cac3-431a-b201-259831b015aa",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "US admissions departments -> SELECT -> Founders",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "3d99e9ac-c5f3-4d39-b63f-4f129e6938ab",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> HAVE -> poor judgment",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "c06a1136-4256-4c4f-aa5d-d4b2813d4e87",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> DELAY -> funding",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "14b31621-c351-46c1-84e2-624be65c722d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> PREFER -> startups with cofounders",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "2de7e402-25e6-45a3-87c9-afffcd4dbf26",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> INVEST_IN -> Startups",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "e61e8c67-56f9-41da-972c-158a10c27244",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> INVEST_IN -> Startup",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "bd6e8e99-3d0e-460f-a0e1-f0e060963040",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> INFLUENCE -> competition",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "8595dccb-bf01-4379-81e5-b12eb5489f95",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> EXPECT -> Exit Strategy",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "63bf5267-952e-4fb0-866c-0885ae61253e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> EXERT -> Power over Startups",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "3ce4f9a6-ffe2-4338-9c40-3c92f40dca89",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> COMPENSATE -> risk",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "ff7e5595-76a3-4245-a9c4-8a459803bc20",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> EXPERIENCE -> Buyer's Remorse",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "6448dfaa-6ac9-408c-aa35-384bdbe43818",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> BEHAVE_LIKE -> Sheep",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "a3affbf9-c1a5-4a92-b4b4-889ea31a805a",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> FAVOR -> risky strategies",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "b94dffd0-7803-4df3-a77b-24ffef30fd32",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Investors -> judge -> startups",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

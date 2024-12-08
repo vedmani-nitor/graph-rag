@@ -1,0 +1,226 @@
+{
+  "question": "How did the example of Google influence later startups and investor behavior, particularly regarding the role of founders in company leadership?",
+  "answer": "1. **Google's Founding and Early Success:** Google's founding in 1998, with relatively young founders, demonstrated that successful companies could be started by graduate students, and by extension, even undergraduates.  This challenged the conventional wisdom that only experienced individuals could lead successful ventures.\n\n2. **Challenge to Traditional VC Practices:** Google's investors initially insisted on an older, experienced CEO as a condition of funding. However, the Google founders delayed this for a year and ultimately chose a CEO with a PhD in computer science, suggesting they retained significant power and influence despite investor pressure.  This demonstrated that founders could push back against traditional Venture Capital (VC) demands for experienced CEOs.\n\n3. **Impact on Founder Power and CEO Roles:** Google's success, despite the initial investor pressure, influenced later startups and investor behavior. The text predicts that founders will increasingly retain control, potentially leading to a shift where VCs install Chief Operating Officers (COOs) instead of CEOs, allowing founders to directly manage engineering.  This suggests a power shift towards founders, who are less reliant on VC funding due to the decreased cost of starting a company.\n\n4. **Shifting Balance of Power:** The example of Google highlights a broader shift in the balance of power between young founders and both employers and investors.  The text suggests that the decreased cost of starting a company empowers founders, making them less dependent on traditional funding routes and allowing them to negotiate more favorable terms, including retaining leadership roles.\n\n\nIn summary, Google's experience served as a powerful example demonstrating that young founders could successfully challenge traditional VC practices and retain significant control over their companies. This success influenced a predicted shift in the balance of power, with founders increasingly retaining leadership roles and negotiating more favorable terms with investors.  The decreased cost of starting a company further amplified this shift, reducing the founders' dependence on VC funding.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> FOUNDED_IN (Description: Year of establishment of the company) -> 1998 (Description: Year Google was founded, highlighting its late entry into a seemingly saturated market.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "9a04483b-0089-4ac0-873e-03fe84345772",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "f79f2dc3-3e39-499f-b69d-cef42113164b",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "aadf7255-abe5-408c-81d9-b68e2616f287",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "eac5c6964f3e34631ca99dc59032caf8ad2bfbc78e9fe84c6be9753bf67d35c7",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "c3622620-e635-49cb-8f38-bcdea3c69d44",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "e4c2510c36f5aa30ee6ff21607ee3f295ee1531e7f529d85e72999a2a32d7cf4",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nGoogle and Yahoo (Description: Tech giants that have been aggressively pursuing direct acquisitions of startups, bypassing traditional VC funding rounds.) -> COMPETE_WITH (Description: Competition with VCs by directly acquiring startups, eliminating the need for further funding rounds.) -> VCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.)\nGoogle and Yahoo (Description: Tech giants that have been aggressively pursuing direct acquisitions of startups, bypassing traditional VC funding rounds.) -> COMPETE_WITH (Description: Competition with VCs by directly acquiring startups, eliminating the need for further funding rounds.) -> VCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.)\n\nThe fact that seed firms are companies also means the investment process is more standardized. (This is generally true with angel groups too.) Seed firms will probably have set deal terms they use for every startup they fund. The fact that the deal terms are standard doesn't mean they're favorable to you, but if other startups have signed the same agreements and things went well for them, it's a sign the terms are reasonable. Seed firms differ from angels and VCs in that they invest exclusively in the earliest phasesâ€”often when the company is still just an idea. Angels and even VC firms occasionally do this, but they also invest at later stages. The problems are different in the early stages. For example, in the first couple months a startup may completely redefine their idea So seed investors usually care less about the idea than the people. This is true of all venture funding, but especially so in the seed stage. Like VCs, one of the advantages of seed firms is the advice they offer. But because seed firms operate in an earlier phase, they need to offer different kinds of advice. For example, a seed firm should be able to give advice about how to approach VCs, which VCs obviously don't need to do; whereas VCs should be able to give advice about how to hire an \"executive team,\" which is not an issue in the seed stage. In the earliest phases, a lot of the problems are technical, so seed firms should be able to help with technical as well as business problems. Seed firms and angel investors generally want to invest in the initial phases of a startup, then hand them off to VC firms for the next round. Occasionally startups go from seed funding direct to acquisition, however, and I expect this to become increasingly common. Google has been aggressively pursuing this route, and now Yahoo is too. Both now compete directly with VCs. And this is a smart move. Why wait for further funding rounds to jack up a startup's price? When a startup reaches the point where VCs have enough information to invest in it, the acquirer should have enough information to buy it. More information, in fact; with their technical depth, the acquirers should be better at picking winners than VCs. Venture Capital Funds VC firms are like seed firms in that they're actual companies, but they invest other people's money, and much larger amounts of it. VC investments average several million dollars. So they tend to come later in the life of a startup, are harder to get, and come with tougher terms. The word \"venture capitalist\" is sometimes used loosely for any venture investor, but there is a sharp difference between VCs and other investors: VC firms are organized as funds , much like hedge funds or mutual funds. The fund managers, who are called \"general partners,\" get about 2% of the fund annually as a management fee, plus about 20% of the fund's gains. There is a very sharp dropoff in performance among VC firms, because in the VC business both success and failure are self-perpetuating. When an investment scores spectacularly, as Google did for Kleiner and Sequoia, it generates a lot of good publicity for the VCs. And many founders prefer to take money from successful VC firms, because of the legitimacy it confers. Hence a vicious (for the losers) cycle: VC firms that have been doing badly will only get the deals the bigger fish have rejected, causing them to continue to do badly. As a result, of the thousand or so VC funds in the US now, only about 50 are likely to make money, and it is very hard for a new fund to break into this group. In a sense, the lower-tier VC firms are a bargain for founders. They may not be quite as smart or as well connected as the big-name firms, but they are much hungrier for deals. This means you should be able to get better terms from them. Better how? The most obvious is valuation: they'll take less of your company. But as well as money, there's power. I think founders will increasingly be able to stay on as CEO, and on terms that will make it fairly hard to fire them later. The most dramatic change, I predict, is that VCs will allow founders to cash out partially by selling some of their stock direct to the VC firm. VCs have traditionally resisted letting founders get anything before the ultimate \"liquidity event.\" But they're also desperate for deals.",
+        "mimetype": "text/plain",
+        "start_char_idx": 17005,
+        "end_char_idx": 21339,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9975185738459452,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "833306d7f2d6eafc8627bf95615ca7e1877f9eb84f846b58cc0273ac594e9310",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "3a223e80-4f4c-410d-80bd-60b4e8aec076",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8c7d98551882cf1d99d024c954902c1b64cad6737542d6753c9b59a3d8982b62",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nVCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.) -> DEMAND (Description: Historical practice of VCs requiring founders to relinquish CEO role, now less prevalent.) -> founders step down as CEO (Description: Requirement for founders to give up their CEO position, a practice less common now than in the past.)\nVCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.) -> DEMAND (Description: Historical practice of VCs requiring founders to relinquish CEO role, now less prevalent.) -> founders step down as CEO (Description: Requirement for founders to give up their CEO position, a practice less common now than in the past.)\n\nBecause they can't predict the winners in advance? If they're only paying a twentieth as much, they only have to predict a twentieth as well. Surely they can manage that. I think companies that acquire technology will gradually learn to go after earlier stage startups. They won't necessarily buy them outright. The solution may be some hybrid of investment and acquisition: for example, to buy a chunk of the company and get an option to buy the rest later. When companies buy startups, they're effectively fusing recruiting and product development. And I think that's more efficient than doing the two separately, because you always get people who are really committed to what they're working on. Plus this method yields teams of developers who already work well together. Any conflicts between them have been ironed out under the very hot iron of running a startup. By the time the acquirer gets them, they're finishing one another's sentences. That's valuable in software, because so many bugs occur at the boundaries between different people's code. Investors The increasing cheapness of starting a company doesn't just give hackers more power relative to employers. It also gives them more power relative to investors. The conventional wisdom among VCs is that hackers shouldn't be allowed to run their own companies. The founders are supposed to accept MBAs as their bosses, and themselves take on some title like Chief Technical Officer. There may be cases where this is a good idea. But I think founders will increasingly be able to push back in the matter of control, because they just don't need the investors' money as much as they used to. Startups are a comparatively new phenomenon. Fairchild Semiconductor is considered the first VC-backed startup, and they were founded in 1959, less than fifty years ago. Measured on the time scale of social change, what we have now is pre-beta. So we shouldn't assume the way startups work now is the way they have to work. Fairchild needed a lot of money to get started. They had to build actual factories. What does the first round of venture funding for a Web-based startup get spent on today? More money can't get software written faster; it isn't needed for facilities, because those can now be quite cheap; all money can really buy you is sales and marketing. A sales force is worth something, I'll admit. But marketing is increasingly irrelevant. On the Internet, anything genuinely good will spread by word of mouth. Investors' power comes from money. When startups need less money, investors have less power over them. So future founders may not have to accept new CEOs if they don't want them. The VCs will have to be dragged kicking and screaming down this road, but like many things people have to be dragged kicking and screaming toward, it may actually be good for them. Google is a sign of the way things are going. As a condition of funding, their investors insisted they hire someone old and experienced as CEO. But from what I've heard the founders didn't just give in and take whoever the VCs wanted. They delayed for an entire year, and when they did finally take a CEO, they chose a guy with a PhD in computer science. It sounds to me as if the founders are still the most powerful people in the company, and judging by Google's performance, their youth and inexperience doesn't seem to have hurt them. Indeed, I suspect Google has done better than they would have if the founders had given the VCs what they wanted, when they wanted it, and let some MBA take over as soon as they got their first round of funding. I'm not claiming the business guys installed by VCs have no value. Certainly they have. But they don't need to become the founders' bosses, which is what that title CEO means. I predict that in the future the executives installed by VCs will increasingly be COOs rather than CEOs. The founders will run engineering directly, and the rest of the company through the COO. The Open Cage With both employers and investors, the balance of power is slowly shifting towards the young. And yet they seem the last to realize it. Only the most ambitious undergrads even consider starting their own company when they graduate. Most just want to get a job. Maybe this is as it should be. Maybe if the idea of starting a startup is intimidating, you filter out the uncommitted. But I suspect the filter is set a little too high. I think there are people who could, if they tried, start successful startups, and who instead let themselves be swept into the intake ducts of big companies.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8790,
+        "end_char_idx": 13352,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.997461757521865,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

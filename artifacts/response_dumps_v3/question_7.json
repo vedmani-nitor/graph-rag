@@ -1,0 +1,326 @@
+{
+  "question": "What advantages do young founders have in navigating the challenges of finding a co-founder, and why is this considered such a critical aspect of startup success?",
+  "answer": "Young founders possess several advantages in securing co-founders, a crucial element for startup success.  The provided text highlights that the best place to find co-founders is in school, where a large pool of smart, ambitious, and technically-minded individuals are concentrated.  This creates a high probability of interaction and collaboration, increasing the chances of finding a suitable partner.  Conversely, older individuals, often tied down by jobs they don't want to leave, face a significantly greater challenge in locating co-founders.  The text explicitly states that the most common question received by Y Combinator, a startup accelerator program, is \"Where can I find a co-founder?\", underscoring the difficulty of this task for those outside the concentrated environment of a college or university.  The text further emphasizes that successful startups are rarely started by one person; a collaborative effort, beginning with a shared idea and a willingness to \"try it,\" is essential.  Therefore, the abundance of potential co-founders within a student's immediate network represents a significant advantage for young founders.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> REQUIRE (Description: Need for collaboration and shared responsibility, highlighting the demanding nature of startup creation.) -> cofounder (Description: Essential partner in startup ventures, sharing the workload and responsibilities.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "bac9a182161e44de958aa2c7bf097e8c34bc9e7500526900f59d99186e87b09f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "99560dc8-3676-4d58-ac16-98284b6e61c1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "20fd47e53c71e89dcb2e74ccb564e268c4d110b851878509ca489d7ae61d9bec",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStudents (Description: Students often believe they should gain more experience before starting a company, overlooking their rich resource of potential co-founders.) -> HAVE (Description: Indicates the possession of a valuable resource by students.) -> co-founders (Description: The valuable resource students possess, often overlooked when considering startup formation.)\n\nSo my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here. Perhaps the reason more startups per capita happen in the Bay Area than Miami is simply that there are more founder-type people there. Successful startups are almost never started by one person. Usually they begin with a conversation in which someone mentions that something would be a good idea for a company, and his friend says, \"Yeah, that is a good idea, let's try it.\" If you're missing that second person who says \"let's try it,\" the startup never happens. And that is another area where undergrads have an edge. They're surrounded by people willing to say that. At a good college you're concentrated together with a lot of other ambitious and technically minded peopleâ€”probably more concentrated than you'll ever be again. If your nucleus spits out a neutron, there's a good chance it will hit another nucleus. The number one question people ask us at Y Combinator is: Where can I find a co-founder? That's the biggest problem for someone starting a startup at 30. When they were in school they knew a lot of good co-founders, but by 30 they've either lost touch with them or these people are tied down by jobs they don't want to leave. Viaweb was an anomaly in this respect too. Though we were comparatively old, we weren't tied down by impressive jobs. I was trying to be an artist, which is not very constraining, and Robert, though 29, was still in grad school due to a little interruption in his academic career back in 1988. So arguably the Worm made Viaweb possible. Otherwise Robert would have been a junior professor at that age, and he wouldn't have had time to work on crazy speculative projects with me. Most of the questions people ask Y Combinator we have some kind of answer for, but not the co-founder question. There is no good answer. Co-founders really should be people you already know. And by far the best place to meet them is school. You have a large sample of smart people; you get to compare how they all perform on identical tasks; and everyone's life is pretty fluid. A lot of startups grow out of schools for this reason. Google, Yahoo, and Microsoft, among others, were all founded by people who met in school. (In Microsoft's case, it was high school.) Many students feel they should wait and get a little more experience before they start a company. All other things being equal, they should. But all other things are not quite as equal as they look. Most students don't realize how rich they are in the scarcest ingredient in startups, co-founders. If you wait too long, you may find that your friends are now involved in some project they don't want to abandon. The better they are, the more likely this is to happen. One way to mitigate this problem might be to actively plan your startup while you're getting those n years of experience. Sure, go off and get jobs or go to grad school or whatever, but get together regularly to scheme, so the idea of starting a startup stays alive in everyone's brain. I don't know if this works, but it can't hurt to try. It would be helpful just to realize what an advantage you have as students. Some of your classmates are probably going to be successful startup founders; at a great technical university, that is a near certainty. So which ones? If I were you I'd look for the people who are not just smart, but incurable builders Look for the people who keep starting projects, and finish at least some of them. That's what we look for. Above all else, above academic credentials and even the idea you apply with, we look for people who build things. The other place co-founders meet is at work. Fewer do than at school, but there are things you can do to improve the odds. The most important, obviously, is to work somewhere that has a lot of smart, young people. Another is to work for a company located in a startup hub. It will be easier to talk a co-worker into quitting with you in a place where startups are happening all around you. You might also want to look at the employment agreement you sign when you get hired. Most will say that any ideas you think of while you're employed by the company belong to them. In practice it's hard for anyone to prove what ideas you had when, so the line gets drawn at code.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12333,
+        "end_char_idx": 16641,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9934283743291521,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "16c29ab7-ddb1-4bd8-b875-6554ffc07a96",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "f1fe361c05db0c96e795a8fc9b1b6d58a6dce9655f277e788455763717786804",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2a1381d2c558e9e6663480eef603a6103bb22124271aa78a2590e899156c1cc3",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nYoung founders (Description: Startup founders who are relatively young; their strengths include stamina, poverty, rootlessness, colleagues, and ignorance.) -> STRENGTH (Description: Advantages young founders possess.) -> stamina, poverty, rootlessness, colleagues, and ignorance (Description: Key strengths of young founders according to the author.)\n\nIn such a close game, the smallest increase in the forces against you can be enough to flick you over the edge into failure. When we first started Y Combinator we encouraged people to start startups while they were still in college. That's partly because Y Combinator began as a kind of summer program. We've kept the program shapeâ€”all of us having dinner together once a week turns out to be a good ideaâ€”but we've decided now that the party line should be to tell people to wait till they graduate. Does that mean you can't start a startup in college? Not at all. Sam Altman, the co-founder of Loopt , had just finished his sophomore year when we funded them, and Loopt is probably the most promising of all the startups we've funded so far. But Sam Altman is a very unusual guy. Within about three minutes of meeting him, I remember thinking \"Ah, so this is what Bill Gates must have been like when he was 19.\" If it can work to start a startup during college, why do we tell people not to? For the same reason that the probably apocryphal violinist, whenever he was asked to judge someone's playing, would always say they didn't have enough talent to make it as a pro. Succeeding as a musician takes determination as well as talent, so this answer works out to be the right advice for everyone. The ones who are uncertain believe it and give up, and the ones who are sufficiently determined think \"screw that, I'll succeed anyway.\" So our official policy now is only to fund undergrads we can't talk out of it. And frankly, if you're not certain, you should wait. It's not as if all the opportunities to start companies are going to be gone if you don't do it now. Maybe the window will close on some idea you're working on, but that won't be the last idea you'll have. For every idea that times out, new ones become feasible. Historically the opportunities to start startups have only increased with time. In that case, you might ask, why not wait longer? Why not go work for a while, or go to grad school, and then start a startup? And indeed, that might be a good idea. If I had to pick the sweet spot for startup founders, based on who we're most excited to see applications from, I'd say it's probably the mid-twenties. Why? What advantages does someone in their mid-twenties have over someone who's 21? And why isn't it older? What can 25 year olds do that 32 year olds can't? Those turn out to be questions worth examining. Plus If you start a startup soon after college, you'll be a young founder by present standards, so you should know what the relative advantages of young founders are. They're not what you might think. As a young founder your strengths are: stamina, poverty, rootlessness, colleagues, and ignorance. The importance of stamina shouldn't be surprising. If you've heard anything about startups you've probably heard about the long hours. As far as I can tell these are universal. I can't think of any successful startups whose founders worked 9 to 5. And it's particularly necessary for younger founders to work long hours because they're probably not as efficient as they'll be later. Your second advantage, poverty, might not sound like an advantage, but it is a huge one. Poverty implies you can live cheaply, and this is critically important for startups. Nearly every startup that fails, fails by running out of money. It's a little misleading to put it this way, because there's usually some other underlying cause. But regardless of the source of your problems, a low burn rate gives you more opportunity to recover from them. And since most startups make all kinds of mistakes at first, room to recover from mistakes is a valuable thing to have. Most startups end up doing something different than they planned. The way the successful ones find something that works is by trying things that don't. So the worst thing you can do in a startup is to have a rigid, pre-ordained plan and then start spending a lot of money to implement it. Better to operate cheaply and give your ideas time to evolve. Recent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage.",
+        "mimetype": "text/plain",
+        "start_char_idx": 4189,
+        "end_char_idx": 8436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9903532893205369,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "12047642-2218-44c2-aa6f-30971780e0de",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "2ac282164d730828f8a05c465d4a4a3e86e12b439150c00c96fe14138380d73f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nY Combinator (Description: Startup accelerator program mentioned in the context of founders relocating for a 3-month program, highlighting the commitment required for startup success.) -> RECEIVE_QUESTION (Description: Indicates the frequent question received by Y Combinator regarding co-founder search.) -> Where can I find a co-founder? (Description: The most common question asked of Y Combinator, reflecting the difficulty in finding suitable co-founders.)\n\nI know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word. Get into the habit of thinking of software as having users. What do those users want? What would make them say wow? This is particularly valuable for undergrads, because the concept of users is missing from most college programming classes. The way you get taught programming in college would be like teaching writing as grammar, without mentioning that its purpose is to communicate something to an audience. Fortunately an audience for software is now only an http request away. So in addition to the programming you do for your classes, why not build some kind of website people will find useful? At the very least it will teach you how to write software with users. In the best case, it might not just be preparation for a startup, but the startup itself, like it was for Yahoo and Google. Notes [ 1 ] Even the desire to protect one's children seems weaker, judging from things people have historically done to their kids rather than risk their community's disapproval. (I assume we still do things that will be regarded in the future as barbaric, but historical abuses are easier for us to see.) [ 2 ] Worrying that Y Combinator makes founders move for 3 months also suggests one underestimates how hard it is to start a startup. You're going to have to put up with much greater inconveniences than that. [ 3 ] Most employee agreements say that any idea relating to the company's present or potential future business belongs to them. Often as not the second clause could include any possible startup, and anyone doing due diligence for an investor or acquirer will assume the worst. To be safe either (a) don't use code written while you were still employed in your previous job, or (b) get your employer to renounce, in writing, any claim to the code you write for your side project. Many will consent to (b) rather than lose a prized employee. The downside is that you'll have to tell them exactly what your project does. [ 4 ] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC. Thanks to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak. Comment on this essay.",
+        "mimetype": "text/plain",
+        "start_char_idx": 33421,
+        "end_char_idx": 35791,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9896613154731092,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "bb8e0a19-f1d9-45c9-adbe-82e60beee466",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Young founders -> STRENGTH -> stamina, poverty, rootlessness, colleagues, and ignorance",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

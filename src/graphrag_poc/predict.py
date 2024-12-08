@@ -306,7 +306,7 @@ async def apredict(query: str) -> Tuple[MyResponse, str]:
 def process_questions_csv():
     # Create artifacts directory if it doesn't exist
     artifacts_dir = Path("artifacts")
-    json_dumps_dir = artifacts_dir / "response_dumps_v2"
+    json_dumps_dir = artifacts_dir / "response_dumps_v3"
     json_dumps_dir.mkdir(parents=True, exist_ok=True)
     
     # Read the CSV file
@@ -315,7 +315,8 @@ def process_questions_csv():
     
     # Process each question that doesn't have an answer
     for index, row in df.iterrows():
-        if pd.isna(row['Answer']):
+        # if pd.isna(row['Answer']):
+        if True:
             try:
                 print(f"Processing question {index + 1}: {row['Question']}")
                 
@@ -323,8 +324,8 @@ def process_questions_csv():
                 my_response, answer = predict(row['Question'])
                 
                 # Update CSV
-                df.at[index, 'Answer'] = answer
-                df.to_csv(csv_path, index=False)
+                # df.at[index, 'Answer'] = answer
+                # df.to_csv(csv_path, index=False)
                 
                 json_path = json_dumps_dir / f"question_{index + 1}.json"
                 with open(json_path, 'w', encoding='utf-8') as f:

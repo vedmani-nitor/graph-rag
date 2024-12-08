@@ -1,0 +1,226 @@
+{
+  "question": "How does the author's experience at Yahoo inform their perspective on the challenges and opportunities facing both large companies and startups in the tech industry?",
+  "answer": "The author's experience at Yahoo! provides a critical lens through which they analyze the challenges and opportunities facing both established tech companies and startups.  Specifically:\n\n1. **Misunderstanding of Core Business:** The author observed firsthand how Yahoo!, despite its size and established brand, failed to understand its core business—search.  They attempted to convince Yahoo! leadership to improve its search capabilities, but were met with resistance, as Yahoo! prioritized its transformation into a \"media company\" or \"portal,\" neglecting the crucial role of search in user engagement.  This highlights a significant challenge for large companies: the risk of losing sight of their core strengths and becoming detached from the needs of their users.  The author contrasts this with Google's success, attributing it to their deep understanding of the search business.\n\n2. **Prioritizing Advertisers over Users:** The author notes that Google prioritized users over advertisers, even though advertisers provided revenue.  This contrasts with Yahoo!'s (implied) prioritization of advertisers, which ultimately hindered their ability to compete effectively with Google. This underscores a key opportunity for both startups and established companies: focusing on user needs and satisfaction as a primary driver of success, even if it means potentially sacrificing short-term gains from advertising revenue.\n\n3. **The Importance of Understanding the Business:** The author emphasizes the critical importance of understanding one's core business, arguing that this understanding is often lacking, even within established companies.  Their experience at Yahoo! serves as a cautionary tale, illustrating how a lack of this understanding can lead to missed opportunities and ultimately, failure to compete effectively in a rapidly evolving market.  This is presented as a key to success for startups, as demonstrated by the author's own company's slow but successful growth strategy based on deep user understanding.\n\nIn summary, the author's time at Yahoo! reveals a critical disconnect between established companies and their understanding of their core business and user needs.  This contrasts sharply with the success of companies like Google, which prioritized user experience and a deep understanding of their market.  This experience informs the author's perspective on the importance of prioritizing user needs over short-term gains and the necessity of understanding the core business for both startups and established companies to thrive.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "ef071c9d-1b2c-4162-b733-bf29f84f8ffa",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "4ca98ca7-5a7c-4586-8e19-c8806a8c2a26",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "6313e0d55f2d1d486e12736ffe95742c64e6913a68928f5b31b3727eb6905ca8",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "aff1f0e1-2d20-45f6-94fd-7115634d9aed",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "0715cd33fc40025d6929f2afd54ca11a30798253014ab5fb83e9440383cc30b9",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on customer satisfaction and user feedback.) -> customer support (Description: Key business function emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on understanding the core business.) -> understanding its business (Description: Key business strategy emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> LAUNCHED_IN (Description: Date of company launch.) -> early 1996 (Description: Launch date of the author's company, highlighting the slow growth strategy.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on understanding the core business.) -> understanding its business (Description: Key business strategy emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on customer satisfaction and user feedback.) -> customer support (Description: Key business function emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> LAUNCHED_IN (Description: Date of company launch.) -> early 1996 (Description: Launch date of the author's company, highlighting the slow growth strategy.)\n\nThe idea is to get there first and get all the users, leaving none for competitors. But I think in most businesses the advantages of being first to market are not so overwhelmingly great. Google is again a case in point. When they appeared it seemed as if search was a mature market, dominated by big players who'd spent millions to build their brands: Yahoo, Lycos, Excite, Infoseek, Altavista, Inktomi. Surely 1998 was a little late to arrive at the party. But as the founders of Google knew, brand is worth next to nothing in the search business. You can come along at any point and make something better, and users will gradually seep over to you. As if to emphasize the point, Google never did any advertising. They're like dealers; they sell the stuff, but they know better than to use it themselves. The competitors Google buried would have done better to spend those millions improving their software. Future startups should learn from that mistake. Unless you're in a market where products are as undifferentiated as cigarettes or vodka or laundry detergent, spending a lot on brand advertising is a sign of breakage. And few if any Web businesses are so undifferentiated. The dating sites are running big ad campaigns right now, which is all the more evidence they're ripe for the picking. (Fee, fie, fo, fum, I smell a company run by marketing guys.) We were compelled by circumstances to grow slowly, and in retrospect it was a good thing. The founders all learned to do every job in the company. As well as writing software, I had to do sales and customer support. At sales I was not very good. I was persistent, but I didn't have the smoothness of a good salesman. My message to potential customers was: you'd be stupid not to sell online, and if you sell online you'd be stupid to use anyone else's software. Both statements were true, but that's not the way to convince people. I was great at customer support though. Imagine talking to a customer support person who not only knew everything about the product, but would apologize abjectly if there was a bug, and then fix it immediately, while you were on the phone with them. Customers loved us. And we loved them, because when you're growing slow by word of mouth, your first batch of users are the ones who were smart enough to find you by themselves. There is nothing more valuable, in the early stages of a startup, than smart users. If you listen to them, they'll tell you exactly how to make a winning product. And not only will they give you this advice for free, they'll pay you. We officially launched in early 1996. By the end of that year we had about 70 users. Since this was the era of \"get big fast,\" I worried about how small and obscure we were. But in fact we were doing exactly the right thing. Once you get big (in users or employees) it gets hard to change your product. That year was effectively a laboratory for improving our software. By the end of it, we were so far ahead of our competitors that they never had a hope of catching up. And since all the hackers had spent many hours talking to users, we understood online commerce way better than anyone else. That's the key to success as a startup. There is nothing more important than understanding your business. You might think that anyone in a business must, ex officio, understand it. Far from it. Google's secret weapon was simply that they understood search. I was working for Yahoo when Google appeared, and Yahoo didn't understand search. I know because I once tried to convince the powers that be that we had to make search better, and I got in reply what was then the party line about it: that Yahoo was no longer a mere \"search engine.\" Search was now only a small percentage of our page views, less than one month's growth, and now that we were established as a \"media company,\" or \"portal,\" or whatever we were, search could safely be allowed to wither and drop off, like an umbilical cord. Well, a small fraction of page views they may be, but they are an important fraction, because they are the page views that Web sessions start with. I think Yahoo gets that now. Google understands a few other things most Web companies still don't. The most important is that you should put users before advertisers, even though the advertisers are paying and users aren't. One of my favorite bumper stickers reads \"if the people lead, the leaders will follow.\"",
+        "mimetype": "text/plain",
+        "start_char_idx": 33356,
+        "end_char_idx": 37762,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "78322678-e73b-414f-b9c5-9c1b95567d56",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+          "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 34381,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "aafca569-fd5e-42a9-a64f-bc9bf20266dd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+              "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 34381,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c653167dc4d2714b85465481c743672fb5fc444455fb2383cc06821e44375f7d",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5a825368-e8f2-496d-89ef-f760fb2029eb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "04ca64215806d9652fba24044800bd054a572e4aec1cbfa448fa090db52c26c1",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nJerry and Filo (Description: Founders of Yahoo!, used as an example of successful entrepreneurs who initially felt uncertainty before starting their company.) -> FOUNDED (Description: Establishment of a highly successful company, highlighting the potential for success despite initial uncertainty.) -> Yahoo! (Description: Highly successful technology company founded by Jerry and Filo, used as a case study for overcoming entrepreneurial uncertainty.)\n\nMarch 2007 (This essay is derived from talks at the 2007 Startup School and the Berkeley CSUA.) We've now been doing Y Combinator long enough to have some data about success rates. Our first batch, in the summer of 2005, had eight startups in it. Of those eight, it now looks as if at least four succeeded. Three have been acquired: Reddit was a merger of two, Reddit and Infogami, and a third was acquired that we can't talk about yet. Another from that batch was Loopt , which is doing so well they could probably be acquired in about ten minutes if they wanted to. So about half the founders from that first summer, less than two years ago, are now rich, at least by their standards. (One thing you learn when you get rich is that there are many degrees of it.) I'm not ready to predict our success rate will stay as high as 50%. That first batch could have been an anomaly. But we should be able to do better than the oft-quoted (and probably made up) standard figure of 10%. I'd feel safe aiming at 25%. Even the founders who fail don't seem to have such a bad time. Of those first eight startups, three are now probably dead. In two cases the founders just went on to do other things at the end of the summer. I don't think they were traumatized by the experience. The closest to a traumatic failure was Kiko, whose founders kept working on their startup for a whole year before being squashed by Google Calendar. But they ended up happy. They sold their software on eBay for a quarter of a million dollars. After they paid back their angel investors, they had about a year's salary each. [ 1 ] Then they immediately went on to start a new and much more exciting startup, Justin.TV So here is an even more striking statistic: 0% of that first batch had a terrible experience. They had ups and downs, like every startup, but I don't think any would have traded it for a job in a cubicle. And that statistic is probably not an anomaly. Whatever our long-term success rate ends up being, I think the rate of people who wish they'd gotten a regular job will stay close to 0%. The big mystery to me is: why don't more people start startups? If nearly everyone who does it prefers it to a regular job, and a significant percentage get rich, why doesn't everyone want to do this? A lot of people think we get thousands of applications for each funding cycle. In fact we usually only get several hundred. Why don't more people apply? And while it must seem to anyone watching this world that startups are popping up like crazy, the number is small compared to the number of people with the necessary skills. The great majority of programmers still go straight from college to cubicle, and stay there. It seems like people are not acting in their own interest. What's going on? Well, I can answer that. Because of Y Combinator's position at the very start of the venture funding process, we're probably the world's leading experts on the psychology of people who aren't sure if they want to start a company. There's nothing wrong with being unsure. If you're a hacker thinking about starting a startup and hesitating before taking the leap, you're part of a grand tradition. Larry and Sergey seem to have felt the same before they started Google, and so did Jerry and Filo before they started Yahoo. In fact, I'd guess the most successful startups are the ones started by uncertain hackers rather than gung-ho business guys. We have some evidence to support this. Several of the most successful startups we've funded told us later that they only decided to apply at the last moment. Some decided only hours before the deadline. The way to deal with uncertainty is to analyze it into components. Most people who are reluctant to do something have about eight different reasons mixed together in their heads, and don't know themselves which are biggest. Some will be justified and some bogus, but unless you know the relative proportion of each, you don't know whether your overall uncertainty is mostly justified or mostly bogus. So I'm going to list all the components of people's reluctance to start startups, and explain which are real. Then would-be founders can use this as a checklist to examine their own feelings. I admit my goal is to increase your self-confidence. But there are two things different here from the usual confidence-building exercise. One is that I'm motivated to be honest.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4395,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9862121184249965,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "d22743ae-0701-4333-8ad1-4db52e40214d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "d5dfb8ad-ef14-4a0d-9314-e21cfd38b4bb",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "582985cc8d09b14ca25d8a529139771a55098f0ed29a243a150ffc16622c8bd5",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "e003259b-6729-4579-9131-c2b69daf7c9a",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "782808dbf47c20225ba44cbb146b06d821f49c18848201bc18ee9d4f16935c83",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nBill Gates (Description: Individual whose career trajectory demonstrates that following conventional career advice might have resulted in a less favorable outcome.) -> LEARN (Description: Acquiring knowledge and skills through direct experience in the microcomputer revolution.) -> working at ground zero of the microcomputer revolution (Description: Hands-on experience gained during the early stages of the microcomputer industry's development.)\n\nFortunately, this flaw should be easy to fix. If undergrads were all bad programmers, the problem would be a lot harder. It can take years to learn how to program. But I don't think it takes years to learn how to make things people want. My hypothesis is that all you have to do is smack hackers on the side of the head and tell them: Wake up. Don't sit here making up a priori theories about what users need. Go find some users and see what they need. Most successful startups not only do something very specific, but solve a problem people already know they have. The big change that \"experience\" causes in your brain is learning that you need to solve people's problems. Once you grasp that, you advance quickly to the next step, which is figuring out what those problems are. And that takes some effort, because the way software actually gets used, especially by the people who pay the most for it, is not at all what you might expect. For example, the stated purpose of Powerpoint is to present ideas. Its real role is to overcome people's fear of public speaking. It allows you to give an impressive-looking talk about nothing, and it causes the audience to sit in a dark room looking at slides, instead of a bright one looking at you. This kind of thing is out there for anyone to see. The key is to know to look for it-- to realize that having an idea for a startup is not like having an idea for a class project. The goal in a startup is not to write a cool piece of software. It's to make something people want. And to do that you have to look at users-- forget about hacking, and just look at users. This can be quite a mental adjustment, because little if any of the software you write in school even has users. A few steps before a Rubik's Cube is solved, it still looks like a mess. I think there are a lot of undergrads whose brains are in a similar position: they're only a few steps away from being able to start successful startups, if they wanted to, but they don't realize it. They have more than enough technical skill. They just haven't realized yet that the way to create wealth is to make what users want, and that employers are just proxies for users in which risk is pooled. If you're young and smart, you don't need either of those. You don't need someone else to tell you what users want, because you can figure it out yourself. And you don't want to pool risk, because the younger you are, the more risk you should take. A Public Service Message I'd like to conclude with a joint message from me and your parents. Don't drop out of college to start a startup. There's no rush. There will be plenty of time to start companies after you graduate. In fact, it may be just as well to go work for an existing company for a couple years after you graduate, to learn how companies work. And yet, when I think about it, I can't imagine telling Bill Gates at 19 that he should wait till he graduated to start a company. He'd have told me to get lost. And could I have honestly claimed that he was harming his future-- that he was learning less by working at ground zero of the microcomputer revolution than he would have if he'd been taking classes back at Harvard? No, probably not. And yes, while it is probably true that you'll learn some valuable things by going to work for an existing company for a couple years before starting your own, you'd learn a thing or two running your own company during that time too. The advice about going to work for someone else would get an even colder reception from the 19 year old Bill Gates. So I'm supposed to finish college, then go work for another company for two years, and then I can start my own? I have to wait till I'm 23? That's four years That's more than twenty percent of my life so far. Plus in four years it will be way too late to make money writing a Basic interpreter for the Altair. And he'd be right. The Apple II was launched just two years later. In fact, if Bill had finished college and gone to work for another company as we're suggesting, he might well have gone to work for Apple. And while that would probably have been better for all of us, it wouldn't have been better for him.",
+        "mimetype": "text/plain",
+        "start_char_idx": 21651,
+        "end_char_idx": 25820,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9770673571653485,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

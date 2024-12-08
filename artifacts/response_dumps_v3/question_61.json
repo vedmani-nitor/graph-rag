@@ -1,0 +1,248 @@
+{
+  "question": "What are the different stages of startup funding, and what are the key considerations for founders at each stage?",
+  "answer": "Based on the provided text, there are at least two distinct stages of startup funding described:\n\n1. **Seed Funding:** This is an initial stage of funding, potentially as low as ten thousand dollars, sufficient to allow a startup to begin operations, particularly if founders are prepared to live frugally.  The low cost of entry at this stage means less reliance on investor approval, opening opportunities for individuals who may not have previously had access to funding.  A key consideration for founders at this stage is the ability to operate with minimal resources.  One example is the possibility of starting a web-based startup on a budget that covers only food and rent.\n\n2. **Series A Funding:** This is a later stage of funding, exemplified by a $2 million investment at a $4 million pre-money valuation. This results in Venture Capitalists (VCs) owning a third of the company.  This stage follows a successful demonstration of the product and business plan.  The key consideration here is the successful presentation of the business to secure investment.  The example provided shows a significant investment, implying a successful pitch and a promising business model.\n\nThe text also mentions **multiple rounds of funding**, starting with seed funding and potentially followed by VC rounds and an Initial Public Offering (IPO). However, details beyond seed and Series A funding are not provided.  The text also highlights that many successful startups are acquired rather than going public, with the acquirer often valuing the people behind the technology as much as the technology itself.  This suggests that securing funding is not the only path to success; building a valuable product and team is equally crucial.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup (Description: Companies that often succeed through acquisition rather than going public, valuing the people behind the technology.) -> RECEIVE (Description: Securing funding from multiple sources, including angel investors and VCs, in a staged approach.) -> Funding (Description: Multiple rounds of funding, starting with seed funding, potentially followed by VC rounds and an IPO.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "12047642-2218-44c2-aa6f-30971780e0de",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "2ac282164d730828f8a05c465d4a4a3e86e12b439150c00c96fe14138380d73f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nstartup (Description: A new business venture, exemplified by Google's origin story, often starting as a side project.) -> RECEIVE (Description: The startup receiving funding from VCs after a successful demonstration of their product and business plan.) -> Series A funding (Description: A $2 million investment at a pre-money valuation of $4 million, resulting in VCs owning a third of the company.)\n\nI know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word. Get into the habit of thinking of software as having users. What do those users want? What would make them say wow? This is particularly valuable for undergrads, because the concept of users is missing from most college programming classes. The way you get taught programming in college would be like teaching writing as grammar, without mentioning that its purpose is to communicate something to an audience. Fortunately an audience for software is now only an http request away. So in addition to the programming you do for your classes, why not build some kind of website people will find useful? At the very least it will teach you how to write software with users. In the best case, it might not just be preparation for a startup, but the startup itself, like it was for Yahoo and Google. Notes [ 1 ] Even the desire to protect one's children seems weaker, judging from things people have historically done to their kids rather than risk their community's disapproval. (I assume we still do things that will be regarded in the future as barbaric, but historical abuses are easier for us to see.) [ 2 ] Worrying that Y Combinator makes founders move for 3 months also suggests one underestimates how hard it is to start a startup. You're going to have to put up with much greater inconveniences than that. [ 3 ] Most employee agreements say that any idea relating to the company's present or potential future business belongs to them. Often as not the second clause could include any possible startup, and anyone doing due diligence for an investor or acquirer will assume the worst. To be safe either (a) don't use code written while you were still employed in your previous job, or (b) get your employer to renounce, in writing, any claim to the code you write for your side project. Many will consent to (b) rather than lose a prized employee. The downside is that you'll have to tell them exactly what your project does. [ 4 ] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC. Thanks to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak. Comment on this essay.",
+        "mimetype": "text/plain",
+        "start_char_idx": 33421,
+        "end_char_idx": 35791,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9979181743067355,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "207f4a5e-80fe-4a04-b4f6-aef44846a004",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "9d271102cc584b28ed40c9a17e012a30622305db089adeee5876aaddc3d15074",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "12047642-2218-44c2-aa6f-30971780e0de",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1ce2d1f54262fe39b9ecf796d53dce004021d534239f72c9ed30899c8f26f826",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartups (Description: New businesses that offer potential learning opportunities for college students.) -> EXPERIENCE (Description: The common occurrence of setbacks and challenges, particularly in securing funding.) -> Funding Challenges (Description: Difficulties encountered by startups in securing funding, often leading to financial instability.)\n\nAnd that cures the other half of the class-project syndrome. After you've been working for a while, you yourself tend to measure what you've done the same way the market does. Of course, you don't have to spend years working to learn this stuff. If you're sufficiently perceptive you can grasp these things while you're still in school. Sam Altman did. He must have, because Loopt is no class project. And as his example suggests, this can be valuable knowledge. At a minimum, if you get this stuff, you already have most of what you gain from the \"work experience\" employers consider so desirable. But of course if you really get it, you can use this information in a way that's more valuable to you than that. Now So suppose you think you might start a startup at some point, either when you graduate or a few years after. What should you do now? For both jobs and grad school, there are ways to prepare while you're in college. If you want to get a job when you graduate, you should get summer jobs at places you'd like to work. If you want to go to grad school, it will help to work on research projects as an undergrad. What's the equivalent for startups? How do you keep your options maximally open? One thing you can do while you're still in school is to learn how startups work. Unfortunately that's not easy. Few if any colleges have classes about startups. There may be business school classes on entrepreneurship, as they call it over there, but these are likely to be a waste of time. Business schools like to talk about startups, but philosophically they're at the opposite end of the spectrum. Most books on startups also seem to be useless. I've looked at a few and none get it right. Books in most fields are written by people who know the subject from experience, but for startups there's a unique problem: by definition the founders of successful startups don't need to write books to make money. As a result most books on the subject end up being written by people who don't understand it. So I'd be skeptical of classes and books. The way to learn about startups is by watching them in action, preferably by working at one. How do you do that as an undergrad? Probably by sneaking in through the back door. Just hang around a lot and gradually start doing things for them. Most startups are (or should be) very cautious about hiring. Every hire increases the burn rate, and bad hires early on are hard to recover from. However, startups usually have a fairly informal atmosphere, and there's always a lot that needs to be done. If you just start doing stuff for them, many will be too busy to shoo you away. You can thus gradually work your way into their confidence, and maybe turn it into an official job later, or not, whichever you prefer. This won't work for all startups, but it would work for most I've known. Number two, make the most of the great advantage of school: the wealth of co-founders. Look at the people around you and ask yourself which you'd like to work with. When you apply that test, you may find you get surprising results. You may find you'd prefer the quiet guy you've mostly ignored to someone who seems impressive but has an attitude to match. I'm not suggesting you suck up to people you don't really like because you think one day they'll be successful. Exactly the opposite, in fact: you should only start a startup with someone you like, because a startup will put your friendship through a stress test. I'm just saying you should think about who you really admire and hang out with them, instead of whoever circumstances throw you together with. Another thing you can do is learn skills that will be useful to you in a startup. These may be different from the skills you'd learn to get a job. For example, thinking about getting a job will make you want to learn programming languages you think employers want, like Java and C++. Whereas if you start a startup, you get to pick the language, so you have to think about which will actually let you get the most done. If you use that test you might end up learning Ruby or Python instead. But the most important skill for a startup founder isn't a programming technique. It's a knack for understanding users and figuring out how to give them what they want. I know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word.",
+        "mimetype": "text/plain",
+        "start_char_idx": 29161,
+        "end_char_idx": 33557,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9922850917447483,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "22fc2866-22d9-4fb1-a766-57494a20ba50",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "0c9a3cf5-446c-4114-9941-27de5c5f12f1",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Seed funding -> is -> national business",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

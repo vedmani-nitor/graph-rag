@@ -1,0 +1,304 @@
+{
+  "question": "Why does the author advise against working at Google if you want to start a startup?",
+  "answer": "The provided text does not directly advise against working at Google to start a startup.  However, it offers indirect support for this idea through several points:\n\n1. **Google's low startup production:** The text notes that in May 2005, Google, despite being a major internet company, produced zero startups founded by its employees. This suggests a lack of entrepreneurial encouragement or opportunity within the company.\n\n2. **The value of early experience:** The author emphasizes the significant value of young, highly capable individuals, arguing that large organizations often undervalue them due to a lack of measurable performance and a tendency to average out individual potential.  Working at a large company like Google might lead to being undervalued and stifle entrepreneurial drive.\n\n3. **The Kikos example:** The text uses the example of the Kikos, who started a startup immediately after college and rapidly improved their skills through experience gained from their own ventures.  The implication is that spending a year at a company like Microsoft or Google would have hindered their growth and prevented them from becoming \"extremely formidable.\"\n\n4. **The importance of direct user feedback:** The author highlights the value of direct user feedback in building a successful product.  Starting a company allows for direct interaction with users, providing immediate feedback and shaping the product accordingly.  Working at a large company like Google might limit this direct interaction.\n\nIn summary, while not explicitly stated, the text implicitly suggests that working at Google might not be the ideal path for aspiring entrepreneurs due to the company's apparent lack of internal startup generation, the potential for undervaluing young talent, and the importance of direct user feedback in startup success, as exemplified by the Kikos' experience.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> PRODUCE (Description: Describes the low number of startups emerging from Google's employees.) -> zero startups (Description: The number of startups founded by Google employees, highlighting a lack of entrepreneurial activity.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "218e6adda905f6cb3464a6f33e378f4aa149f6465d3b651270eb80dd66ea2d9b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0798ee2a0ace2f0ecb8b7fc8dd41ffd14b528511f9d008bc3ddd1fbdc7bb66c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> SUGGEST (Description: Recommendation to start a startup at a younger age when surrounded by potential collaborators.) -> starting a startup while young (Description: Strategic timing for startup creation, emphasizing the benefits of youth and access to potential cofounders.)\n\nRecent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage. This is one reason I'd bet on the 25 year old over the 32 year old. The 32 year old probably is a better programmer, but probably also has a much more expensive life. Whereas a 25 year old has some work experience (more on that later) but can live as cheaply as an undergrad. Robert Morris and I were 29 and 30 respectively when we started Viaweb, but fortunately we still lived like 23 year olds. We both had roughly zero assets. I would have loved to have a mortgage, since that would have meant I had a house But in retrospect having nothing turned out to be convenient. I wasn't tied down and I was used to living cheaply. Even more important than living cheaply, though, is thinking cheaply. One reason the Apple II was so popular was that it was cheap. The computer itself was cheap, and it used cheap, off-the-shelf peripherals like a cassette tape recorder for data storage and a TV as a monitor. And you know why? Because Woz designed this computer for himself, and he couldn't afford anything more. We benefitted from the same phenomenon. Our prices were daringly low for the time. The top level of service was $300 a month, which was an order of magnitude below the norm. In retrospect this was a smart move, but we didn't do it because we were smart. $300 a month seemed like a lot of money to us. Like Apple, we created something inexpensive, and therefore popular, simply because we were poor. A lot of startups have that form: someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible. Traditional long distance carriers, for example, didn't even want to think about VoIP. (It was coming, all the same.) Being poor helps in this game, because your own personal bias points in the same direction technology evolves in. The advantages of rootlessness are similar to those of poverty. When you're young you're more mobileâ€”not just because you don't have a house or much stuff, but also because you're less likely to have serious relationships. This turns out to be important, because a lot of startups involve someone moving. The founders of Kiko, for example, are now en route to the Bay Area to start their next startup. It's a better place for what they want to do. And it was easy for them to decide to go, because neither as far as I know has a serious girlfriend, and everything they own will fit in one carâ€”or more precisely, will either fit in one car or is crappy enough that they don't mind leaving it behind. They at least were in Boston. What if they'd been in Nebraska, like Evan Williams was at their age? Someone wrote recently that the drawback of Y Combinator was that you had to move to participate. It couldn't be any other way. The kind of conversations we have with founders, we have to have in person. We fund a dozen startups at a time, and we can't be in a dozen places at once. But even if we could somehow magically save people from moving, we wouldn't. We wouldn't be doing founders a favor by letting them stay in Nebraska. Places that aren't startup hubs are toxic to startups. You can tell that from indirect evidence. You can tell how hard it must be to start a startup in Houston or Chicago or Miami from the microscopically small number, per capita, that succeed there. I don't know exactly what's suppressing all the startups in these townsâ€”probably a hundred subtle little thingsâ€”but something must be. [ 2 ] Maybe this will change. Maybe the increasing cheapness of startups will mean they'll be able to survive anywhere, instead of only in the most hospitable environments. Maybe 37signals is the pattern for the future. But maybe not. Historically there have always been certain towns that were centers for certain industries, and if you weren't in one of them you were at a disadvantage. So my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8228,
+        "end_char_idx": 12436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9983846104716428,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "ef071c9d-1b2c-4162-b733-bf29f84f8ffa",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "4ca98ca7-5a7c-4586-8e19-c8806a8c2a26",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "6313e0d55f2d1d486e12736ffe95742c64e6913a68928f5b31b3727eb6905ca8",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "aff1f0e1-2d20-45f6-94fd-7115634d9aed",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "0715cd33fc40025d6929f2afd54ca11a30798253014ab5fb83e9440383cc30b9",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on customer satisfaction and user feedback.) -> customer support (Description: Key business function emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> PRIORITIZED (Description: Strategic focus on understanding the core business.) -> understanding its business (Description: Key business strategy emphasized by the author's company.)\nAuthor's Company (Description: Company that grew slowly and prioritized understanding its business.) -> LAUNCHED_IN (Description: Date of company launch.) -> early 1996 (Description: Launch date of the author's company, highlighting the slow growth strategy.)\n\nThe idea is to get there first and get all the users, leaving none for competitors. But I think in most businesses the advantages of being first to market are not so overwhelmingly great. Google is again a case in point. When they appeared it seemed as if search was a mature market, dominated by big players who'd spent millions to build their brands: Yahoo, Lycos, Excite, Infoseek, Altavista, Inktomi. Surely 1998 was a little late to arrive at the party. But as the founders of Google knew, brand is worth next to nothing in the search business. You can come along at any point and make something better, and users will gradually seep over to you. As if to emphasize the point, Google never did any advertising. They're like dealers; they sell the stuff, but they know better than to use it themselves. The competitors Google buried would have done better to spend those millions improving their software. Future startups should learn from that mistake. Unless you're in a market where products are as undifferentiated as cigarettes or vodka or laundry detergent, spending a lot on brand advertising is a sign of breakage. And few if any Web businesses are so undifferentiated. The dating sites are running big ad campaigns right now, which is all the more evidence they're ripe for the picking. (Fee, fie, fo, fum, I smell a company run by marketing guys.) We were compelled by circumstances to grow slowly, and in retrospect it was a good thing. The founders all learned to do every job in the company. As well as writing software, I had to do sales and customer support. At sales I was not very good. I was persistent, but I didn't have the smoothness of a good salesman. My message to potential customers was: you'd be stupid not to sell online, and if you sell online you'd be stupid to use anyone else's software. Both statements were true, but that's not the way to convince people. I was great at customer support though. Imagine talking to a customer support person who not only knew everything about the product, but would apologize abjectly if there was a bug, and then fix it immediately, while you were on the phone with them. Customers loved us. And we loved them, because when you're growing slow by word of mouth, your first batch of users are the ones who were smart enough to find you by themselves. There is nothing more valuable, in the early stages of a startup, than smart users. If you listen to them, they'll tell you exactly how to make a winning product. And not only will they give you this advice for free, they'll pay you. We officially launched in early 1996. By the end of that year we had about 70 users. Since this was the era of \"get big fast,\" I worried about how small and obscure we were. But in fact we were doing exactly the right thing. Once you get big (in users or employees) it gets hard to change your product. That year was effectively a laboratory for improving our software. By the end of it, we were so far ahead of our competitors that they never had a hope of catching up. And since all the hackers had spent many hours talking to users, we understood online commerce way better than anyone else. That's the key to success as a startup. There is nothing more important than understanding your business. You might think that anyone in a business must, ex officio, understand it. Far from it. Google's secret weapon was simply that they understood search. I was working for Yahoo when Google appeared, and Yahoo didn't understand search. I know because I once tried to convince the powers that be that we had to make search better, and I got in reply what was then the party line about it: that Yahoo was no longer a mere \"search engine.\" Search was now only a small percentage of our page views, less than one month's growth, and now that we were established as a \"media company,\" or \"portal,\" or whatever we were, search could safely be allowed to wither and drop off, like an umbilical cord. Well, a small fraction of page views they may be, but they are an important fraction, because they are the page views that Web sessions start with. I think Yahoo gets that now. Google understands a few other things most Web companies still don't. The most important is that you should put users before advertisers, even though the advertisers are paying and users aren't. One of my favorite bumper stickers reads \"if the people lead, the leaders will follow.\"",
+        "mimetype": "text/plain",
+        "start_char_idx": 33356,
+        "end_char_idx": 37762,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9974471486981081,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "7f416bde-3e7d-4dd7-af7d-8876e9cb52ca",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+          "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 34381,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "aafca569-fd5e-42a9-a64f-bc9bf20266dd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+              "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 34381,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c653167dc4d2714b85465481c743672fb5fc444455fb2383cc06821e44375f7d",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "5a825368-e8f2-496d-89ef-f760fb2029eb",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Why to Not Not Start a Startup (HIVE).txt",
+              "file_name": "Why to Not Not Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 34381,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "15a5ff0b90f6f2df9f514f2a526bc24f952a4b435d97e6f7c42bcc06bd6d60ec",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "8f3ec466-dff5-4d32-a9d3-b6ce41672e82",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "c23576371fdb431d500b90f95c33cebcea1455f473e543891adbd79697390f20",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Founder (Description: The role of a startup founder, requiring some level of intelligence, but more importantly, effort and determination.) -> REQUIRE (Description: Essential qualities needed for success as a startup founder, emphasizing determination as the primary factor.) -> Determination (Description: A key trait for successful startup founders, considered more important than intelligence.)\nStartup Founder (Description: The role of a startup founder, requiring some level of intelligence, but more importantly, effort and determination.) -> REQUIRE (Description: Essential qualities needed for success as a startup founder, highlighting the importance of effort over intelligence in most cases.) -> Moderate Intelligence (Description: A secondary trait for successful startup founders, less crucial than determination and effort.)\n\nBut the best way to get experience if you're 21 is to start a startup. So, paradoxically, if you're too inexperienced to start a startup, what you should do is start one. That's a way more efficient cure for inexperience than a normal job. In fact, getting a normal job may actually make you less able to start a startup, by turning you into a tame animal who thinks he needs an office to work in and a product manager to tell him what software to write. What really convinced me of this was the Kikos. They started a startup right out of college. Their inexperience caused them to make a lot of mistakes. But by the time we funded their second startup, a year later, they had become extremely formidable. They were certainly not tame animals. And there is no way they'd have grown so much if they'd spent that year working at Microsoft, or even Google. They'd still have been diffident junior programmers. So now I'd advise people to go ahead and start startups right out of college. There's no better time to take risks than when you're young. Sure, you'll probably fail. But even failure will get you to the ultimate goal faster than getting a job. It worries me a bit to be saying this, because in effect we're advising people to educate themselves by failing at our expense, but it's the truth. 3. Not determined enough You need a lot of determination to succeed as a startup founder. It's probably the single best predictor of success. Some people may not be determined enough to make it. It's hard for me to say for sure, because I'm so determined that I can't imagine what's going on in the heads of people who aren't. But I know they exist. Most hackers probably underestimate their determination. I've seen a lot become visibly more determined as they get used to running a startup. I can think of several we've funded who would have been delighted at first to be bought for $2 million, but are now set on world domination. How can you tell if you're determined enough, when Larry and Sergey themselves were unsure at first about starting a company? I'm guessing here, but I'd say the test is whether you're sufficiently driven to work on your own projects. Though they may have been unsure whether they wanted to start a company, it doesn't seem as if Larry and Sergey were meek little research assistants, obediently doing their advisors' bidding. They started projects of their own. 4. Not smart enough You may need to be moderately smart to succeed as a startup founder. But if you're worried about this, you're probably mistaken. If you're smart enough to worry that you might not be smart enough to start a startup, you probably are. And in any case, starting a startup just doesn't require that much intelligence. Some startups do. You have to be good at math to write Mathematica. But most companies do more mundane stuff where the decisive factor is effort, not brains. Silicon Valley can warp your perspective on this, because there's a cult of smartness here. People who aren't smart at least try to act that way. But if you think it takes a lot of intelligence to get rich, try spending a couple days in some of the fancier bits of New York or LA. If you don't think you're smart enough to start a startup doing something technically difficult, just write enterprise software. Enterprise software companies aren't technology companies, they're sales companies, and sales depends mostly on effort. 5. Know nothing about business This is another variable whose coefficient should be zero. You don't need to know anything about business to start a startup. The initial focus should be the product. All you need to know in this phase is how to build things people want. If you succeed, you'll have to think about how to make money from it. But this is so easy you can pick it up on the fly. I get a fair amount of flak for telling founders just to make something great and not worry too much about making money. And yet all the empirical evidence points that way: pretty much 100% of startups that make something popular manage to make money from it. And acquirers tell me privately that revenue is not what they buy startups for, but their strategic value. Which means, because they made something people want. Acquirers know the rule holds for them too: if users love you, you can always make money from that somehow, and if they don't, the cleverest business model in the world won't save you.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8115,
+        "end_char_idx": 12529,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9957511114767621,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

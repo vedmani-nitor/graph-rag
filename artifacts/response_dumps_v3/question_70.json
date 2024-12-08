@@ -1,0 +1,405 @@
+{
+  "question": "What is the role of venture capitalists in the startup world, and how should founders approach interactions with them?",
+  "answer": "Venture capitalists (VCs) are professional investment firms that provide funding to startups.  They often have established processes and a strong reputation, offering more protection to startups than individual angel investors. However, this reputation is not absolute; even VCs can engage in behavior that disadvantages founders, particularly when startups are financially vulnerable.  One example is the inclusion of surprise terms in agreements, highlighting the need for founders to carefully review and negotiate contracts.\n\nThe relationship between founders and VCs can be complex.  After a VC investment, the startup board is often reconstituted to include representatives from both the VCs and the founders.  VCs' power stems from their money, but this power is diminishing as startups require less funding to launch.  Traditionally, VCs preferred experienced CEOs, often pushing founders to accept MBAs as bosses. However, the decreasing reliance on substantial funding is allowing founders to push back on this control, as seen in Google's example where founders delayed accepting a VC-mandated CEO for a year and ultimately chose someone with a relevant technical background.  This suggests a shift towards founders retaining more control, potentially with VCs installing COOs rather than CEOs in the future.\n\nFounders should be aware that deals with VCs, like deals in general, can fall through.  This is due to the inherent risk involved and the potential for buyer's remorse among investors.  Founders should also be aware that VCs, while generally having more established processes and reputations than angel investors, are not immune to taking advantage of financially vulnerable startups.  Therefore, careful negotiation and thorough review of agreements are crucial for founders to protect their interests.  The balance of power is shifting towards young founders, but many remain unaware of this change.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "e33dc8f3-f440-4523-bbbd-00f9353a2208",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "218e6adda905f6cb3464a6f33e378f4aa149f6465d3b651270eb80dd66ea2d9b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0798ee2a0ace2f0ecb8b7fc8dd41ffd14b528511f9d008bc3ddd1fbdc7bb66c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nPaul Graham (Description: Founder of Y Combinator, emphasizing in-person interaction with founders.) -> ADVOCATE (Description: Promoting a deeper understanding of investor perspectives for startup founders.) -> Understanding investor perspectives (Description: Key principle for startup founders to effectively manage investor relationships.)\n\nRecent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people. The guys with kids and mortgages are at a real disadvantage. This is one reason I'd bet on the 25 year old over the 32 year old. The 32 year old probably is a better programmer, but probably also has a much more expensive life. Whereas a 25 year old has some work experience (more on that later) but can live as cheaply as an undergrad. Robert Morris and I were 29 and 30 respectively when we started Viaweb, but fortunately we still lived like 23 year olds. We both had roughly zero assets. I would have loved to have a mortgage, since that would have meant I had a house But in retrospect having nothing turned out to be convenient. I wasn't tied down and I was used to living cheaply. Even more important than living cheaply, though, is thinking cheaply. One reason the Apple II was so popular was that it was cheap. The computer itself was cheap, and it used cheap, off-the-shelf peripherals like a cassette tape recorder for data storage and a TV as a monitor. And you know why? Because Woz designed this computer for himself, and he couldn't afford anything more. We benefitted from the same phenomenon. Our prices were daringly low for the time. The top level of service was $300 a month, which was an order of magnitude below the norm. In retrospect this was a smart move, but we didn't do it because we were smart. $300 a month seemed like a lot of money to us. Like Apple, we created something inexpensive, and therefore popular, simply because we were poor. A lot of startups have that form: someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible. Traditional long distance carriers, for example, didn't even want to think about VoIP. (It was coming, all the same.) Being poor helps in this game, because your own personal bias points in the same direction technology evolves in. The advantages of rootlessness are similar to those of poverty. When you're young you're more mobileâ€”not just because you don't have a house or much stuff, but also because you're less likely to have serious relationships. This turns out to be important, because a lot of startups involve someone moving. The founders of Kiko, for example, are now en route to the Bay Area to start their next startup. It's a better place for what they want to do. And it was easy for them to decide to go, because neither as far as I know has a serious girlfriend, and everything they own will fit in one carâ€”or more precisely, will either fit in one car or is crappy enough that they don't mind leaving it behind. They at least were in Boston. What if they'd been in Nebraska, like Evan Williams was at their age? Someone wrote recently that the drawback of Y Combinator was that you had to move to participate. It couldn't be any other way. The kind of conversations we have with founders, we have to have in person. We fund a dozen startups at a time, and we can't be in a dozen places at once. But even if we could somehow magically save people from moving, we wouldn't. We wouldn't be doing founders a favor by letting them stay in Nebraska. Places that aren't startup hubs are toxic to startups. You can tell that from indirect evidence. You can tell how hard it must be to start a startup in Houston or Chicago or Miami from the microscopically small number, per capita, that succeed there. I don't know exactly what's suppressing all the startups in these townsâ€”probably a hundred subtle little thingsâ€”but something must be. [ 2 ] Maybe this will change. Maybe the increasing cheapness of startups will mean they'll be able to survive anywhere, instead of only in the most hospitable environments. Maybe 37signals is the pattern for the future. But maybe not. Historically there have always been certain towns that were centers for certain industries, and if you weren't in one of them you were at a disadvantage. So my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8228,
+        "end_char_idx": 12436,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "13f47ef7-8199-4481-b459-704584188b23",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "ff26b353-c7e4-49ae-a304-dc9f2ae3f0ab",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "4e08e993bfe4fdda951532edeb5de78d598f4b2bdb2ed1dc63883d29fbcfef55",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "bf321a97-9685-4697-8f9a-7f253e17caec",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "191918951c07644655ee17559a983afaaf44893d8e52a11702914702f10d0fa3",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Board (Description: Governing body of the startup, reconstituted after a VC investment to include VCs and founders.) -> RECONSTITUTE (Description: The restructuring of the startup's board to include representatives from both VCs and founders.) -> VCs and Founders (Description: Key stakeholders in the startup, including venture capitalists and the company's founders.)\n\nI admit, this is the Bambi version; in simplifying the picture, I've also made everyone nicer. In the real world, VCs regard angels the way a jealous husband feels about his wife's previous boyfriends. To them the company didn't exist before they invested in it. [ 9 ] I don't want to give the impression you have to do an angel round before going to VCs. In this example I stretched things out to show multiple sources of funding in action. Some startups could go directly from seed funding to a VC round; several of the companies we've funded have. The founders are required to vest their shares over four years, and the board is now reconstituted to consist of two VCs, two founders, and a fifth person acceptable to both. The angel investor cheerfully surrenders his board seat. At this point there is nothing new our startup can teach us about fundingâ€”or at least, nothing good. [ 10 ] The startup will almost certainly hire more people at this point; those millions must be put to work, after all. The company may do additional funding rounds, presumably at higher valuations. They may if they are extraordinarily fortunate do an IPO, which we should remember is also in principle a round of funding, regardless of its de facto purpose. But that, if not beyond the bounds of possibility, is beyond the scope of this article. Deals Fall Through Anyone who's been through a startup will find the preceding portrait to be missing something: disasters. If there's one thing all startups have in common, it's that something is always going wrong. And nowhere more than in matters of funding. For example, our hypothetical startup never spent more than half of one round before securing the next. That's more ideal than typical. Many startupsâ€”even successful onesâ€”come close to running out of money at some point. Terrible things happen to startups when they run out of money, because they're designed for growth, not adversity. But the most unrealistic thing about the series of deals I've described is that they all closed. In the startup world, closing is not what deals do. What deals do is fall through. If you're starting a startup you would do well to remember that. Birds fly; fish swim; deals fall through. Why? Partly the reason deals seem to fall through so often is that you lie to yourself. You want the deal to close, so you start to believe it will. But even correcting for this, startup deals fall through alarmingly oftenâ€”far more often than, say, deals to buy real estate. The reason is that it's such a risky environment. People about to fund or acquire a startup are prone to wicked cases of buyer's remorse. They don't really grasp the risk they're taking till the deal's about to close. And then they panic. And not just inexperienced angel investors, but big companies too. So if you're a startup founder wondering why some angel investor isn't returning your phone calls, you can at least take comfort in the thought that the same thing is happening to other deals a hundred times the size. The example of a startup's history that I've presented is like a skeletonâ€”accurate so far as it goes, but needing to be fleshed out to be a complete picture. To get a complete picture, just add in every possible disaster. A frightening prospect? In a way. And yet also in a way encouraging. The very uncertainty of startups frightens away almost everyone. People overvalue stabilityâ€”especially young people, who ironically need it least. And so in starting a startup, as in any really bold undertaking, merely deciding to do it gets you halfway there. On the day of the race, most of the other runners won't show up. Notes [ 1 ] The aim of such regulations is to protect widows and orphans from crooked investment schemes; people with a million dollars in liquid assets are assumed to be able to protect themselves. The unintended consequence is that the investments that generate the highest returns, like hedge funds, are available only to the rich. [ 2 ] Consulting is where product companies go to die. IBM is the most famous example. So starting as a consulting company is like starting out in the grave and trying to work your way up into the world of the living. [ 3 ] If \"near you\" doesn't mean the Bay Area, Boston, or Seattle, consider moving. It's not a coincidence you haven't heard of many startups from Philadelphia. [ 4 ] Investors are often compared to sheep.",
+        "mimetype": "text/plain",
+        "start_char_idx": 42364,
+        "end_char_idx": 46766,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9971133797474361,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "c094ca8b-0b5b-48a6-afea-3b9f9af4f0ed",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "0ecbc637-bd8b-424d-b690-5f73a59b7862",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "5b516224813a6ef0b2ca1af7c67555b0f7488066bfe01d31fe1ae1446cdf7e43",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "451b7b90-ea52-4576-8f06-0ccfe7d2416d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "cfc8753eff38db0753ac7b3a7683d5be5519bdf96fa86f2e10307d98b2374170",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nVenture Capital Firm (Description: Professional investment firms that provide funding to startups, often with more established processes and reputations than individual angel investors.) -> HAVE (Description: Relationship indicating that venture capital firms possess a certain level of reputation and established processes.) -> Reputation (Description: The standing and perceived trustworthiness of a venture capital firm, influencing the behavior of founders and other investors.)\nVenture Capital Firm (Description: Professional investment firms that provide funding to startups, often with more established processes and reputations than individual angel investors.) -> OFFER (Description: The type of protection or support offered by an investor to a startup.) -> More Protection (Description: Higher level of protection or safeguards offered to startups due to the firm's reputation and established processes.)\n\nWhen someone buys shares in a company, that implicitly establishes a value for it. If someone pays $20,000 for 10% of a company, the company is in theory worth $200,000. I say \"in theory\" because in early stage investing, valuations are voodoo. As a company gets more established, its valuation gets closer to an actual market value. But in a newly founded startup, the valuation number is just an artifact of the respective contributions of everyone involved. Startups often \"pay\" investors who will help the company in some way by letting them invest at low valuations. If I had a startup and Steve Jobs wanted to invest in it, I'd give him the stock for $10, just to be able to brag that he was an investor. Unfortunately, it's impractical (if not illegal) to adjust the valuation of the company up and down for each investor. Startups' valuations are supposed to rise over time. So if you're going to sell cheap stock to eminent angels, do it early, when it's natural for the company to have a low valuation. Some angel investors join together in syndicates. Any city where people start startups will have one or more of them. In Boston the biggest is the Common Angels In the Bay Area it's the Band of Angels You can find groups near you through the Angel Capital Association [ 3 ] However, most angel investors don't belong to these groups. In fact, the more prominent the angel, the less likely they are to belong to a group. Some angel groups charge you money to pitch your idea to them. Needless to say, you should never do this. One of the dangers of taking investment from individual angels, rather than through an angel group or investment firm, is that they have less reputation to protect. A big-name VC firm will not screw you too outrageously, because other founders would avoid them if word got out. With individual angels you don't have this protection, as we found to our dismay in our own startup. In many startups' lives there comes a point when you're at the investors' mercyâ€”when you're out of money and the only place to get more is your existing investors. When we got into such a scrape, our investors took advantage of it in a way that a name-brand VC probably wouldn't have. Angels have a corresponding advantage, however: they're also not bound by all the rules that VC firms are. And so they can, for example, allow founders to cash out partially in a funding round, by selling some of their stock directly to the investors. I think this will become more common; the average founder is eager to do it, and selling, say, half a million dollars worth of stock will not, as VCs fear, cause most founders to be any less committed to the business. The same angels who tried to screw us also let us do this, and so on balance I'm grateful rather than angry. (As in families, relations between founders and investors can be complicated.) The best way to find angel investors is through personal introductions. You could try to cold-call angel groups near you, but angels, like VCs, will pay more attention to deals recommended by someone they respect. Deal terms with angels vary a lot. There are no generally accepted standards. Sometimes angels' deal terms are as fearsome as VCs'. Other angels, particularly in the earliest stages, will invest based on a two-page agreement. Angels who only invest occasionally may not themselves know what terms they want. They just want to invest in this startup. What kind of anti-dilution protection do they want? Hell if they know. In these situations, the deal terms tend to be random: the angel asks his lawyer to create a vanilla agreement, and the terms end up being whatever the lawyer considers vanilla. Which in practice usually means, whatever existing agreement he finds lying around his firm. (Few legal documents are created from scratch.) These heaps o' boilerplate are a problem for small startups, because they tend to grow into the union of all preceding documents. I know of one startup that got from an angel investor what amounted to a five hundred pound handshake: after deciding to invest, the angel presented them with a 70-page agreement. The startup didn't have enough money to pay a lawyer even to read it, let alone negotiate the terms, so the deal fell through. One solution to this problem would be to have the startup's lawyer produce the agreement, instead of the angel's. Some angels might balk at this, but others would probably welcome it.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8632,
+        "end_char_idx": 13069,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9948630474755601,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "833306d7f2d6eafc8627bf95615ca7e1877f9eb84f846b58cc0273ac594e9310",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "3a223e80-4f4c-410d-80bd-60b4e8aec076",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8c7d98551882cf1d99d024c954902c1b64cad6737542d6753c9b59a3d8982b62",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nVCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.) -> INCLUDE (Description: Inclusion of terms in VC agreements that may have unforeseen consequences for founders, highlighting the importance of thorough review.) -> Surprise Terms in Agreements (Description: Contract clauses included by VCs that may have unexpected consequences for founders, emphasizing the need for careful negotiation.)\n\nBecause they can't predict the winners in advance? If they're only paying a twentieth as much, they only have to predict a twentieth as well. Surely they can manage that. I think companies that acquire technology will gradually learn to go after earlier stage startups. They won't necessarily buy them outright. The solution may be some hybrid of investment and acquisition: for example, to buy a chunk of the company and get an option to buy the rest later. When companies buy startups, they're effectively fusing recruiting and product development. And I think that's more efficient than doing the two separately, because you always get people who are really committed to what they're working on. Plus this method yields teams of developers who already work well together. Any conflicts between them have been ironed out under the very hot iron of running a startup. By the time the acquirer gets them, they're finishing one another's sentences. That's valuable in software, because so many bugs occur at the boundaries between different people's code. Investors The increasing cheapness of starting a company doesn't just give hackers more power relative to employers. It also gives them more power relative to investors. The conventional wisdom among VCs is that hackers shouldn't be allowed to run their own companies. The founders are supposed to accept MBAs as their bosses, and themselves take on some title like Chief Technical Officer. There may be cases where this is a good idea. But I think founders will increasingly be able to push back in the matter of control, because they just don't need the investors' money as much as they used to. Startups are a comparatively new phenomenon. Fairchild Semiconductor is considered the first VC-backed startup, and they were founded in 1959, less than fifty years ago. Measured on the time scale of social change, what we have now is pre-beta. So we shouldn't assume the way startups work now is the way they have to work. Fairchild needed a lot of money to get started. They had to build actual factories. What does the first round of venture funding for a Web-based startup get spent on today? More money can't get software written faster; it isn't needed for facilities, because those can now be quite cheap; all money can really buy you is sales and marketing. A sales force is worth something, I'll admit. But marketing is increasingly irrelevant. On the Internet, anything genuinely good will spread by word of mouth. Investors' power comes from money. When startups need less money, investors have less power over them. So future founders may not have to accept new CEOs if they don't want them. The VCs will have to be dragged kicking and screaming down this road, but like many things people have to be dragged kicking and screaming toward, it may actually be good for them. Google is a sign of the way things are going. As a condition of funding, their investors insisted they hire someone old and experienced as CEO. But from what I've heard the founders didn't just give in and take whoever the VCs wanted. They delayed for an entire year, and when they did finally take a CEO, they chose a guy with a PhD in computer science. It sounds to me as if the founders are still the most powerful people in the company, and judging by Google's performance, their youth and inexperience doesn't seem to have hurt them. Indeed, I suspect Google has done better than they would have if the founders had given the VCs what they wanted, when they wanted it, and let some MBA take over as soon as they got their first round of funding. I'm not claiming the business guys installed by VCs have no value. Certainly they have. But they don't need to become the founders' bosses, which is what that title CEO means. I predict that in the future the executives installed by VCs will increasingly be COOs rather than CEOs. The founders will run engineering directly, and the rest of the company through the COO. The Open Cage With both employers and investors, the balance of power is slowly shifting towards the young. And yet they seem the last to realize it. Only the most ambitious undergrads even consider starting their own company when they graduate. Most just want to get a job. Maybe this is as it should be. Maybe if the idea of starting a startup is intimidating, you filter out the uncommitted. But I suspect the filter is set a little too high. I think there are people who could, if they tried, start successful startups, and who instead let themselves be swept into the intake ducts of big companies.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8790,
+        "end_char_idx": 13352,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9940284359684239,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "9b3f9da3-02c5-4e1e-8b8d-1a5a01ae2a29",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "451b7b90-ea52-4576-8f06-0ccfe7d2416d",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Angel investors -> DELAY -> funding",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "c833388a-a60f-4f16-a342-13b4bd217e14",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "614895cd-c6b8-4982-848a-6f8d1699fbb7",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Seed firms -> SIMILAR_TO -> Angel investors",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "d61e17ab-0c54-4b5e-9c10-8994b518063b",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "0c9a3cf5-446c-4114-9941-27de5c5f12f1",
+            "node_type": null,
+            "metadata": {},
+            "hash": null,
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Seed funding -> is -> national business",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

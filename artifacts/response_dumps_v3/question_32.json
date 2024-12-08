@@ -1,0 +1,226 @@
+{
+  "question": "How does Google's approach to acquisitions contribute to its success, and how does it differ from the traditional view of acquisitions held by many companies?",
+  "answer": "Google's success with acquisitions stems from two key aspects:  **solving the stigma** associated with them and **leading the development of standardized procedures**.\n\n1. **Overcoming the Negative Perception of Acquisitions:**  Traditionally, acquisitions were viewed negatively, seen as a sign of a company's inadequacy.  Google successfully challenged this perception through its acquisition strategy, transforming the act of acquiring startups into a positive indicator of strategic growth and innovation.  The provided text explicitly states that Google \"successfully resolved the stigma associated with acquisitions in the technology industry,\" implying a shift in industry perception due to Google's actions.\n\n2. **Standardizing the Acquisition Process:** Google took a leadership role in developing standardized procedures for acquiring startups. This streamlined the process, making it more efficient and setting a precedent for other large companies to follow.  The text highlights Google's \"leadership role in developing standardized procedures for acquiring startups, setting a precedent for other large companies,\" indicating a proactive and innovative approach that improved the overall efficiency of acquisitions.\n\nIn contrast to the traditional view, which often saw acquisitions as a sign of weakness or failure to innovate internally, Google's approach demonstrates acquisitions as a strategic tool for growth and talent acquisition.  This is further supported by the text's categorization of acquisitions into \"Business Acquisitions\" and \"HR Acquisitions,\" highlighting that Google, and other companies following suit, may prioritize acquiring talent (\"HR Acquisitions\") as much as, or even more than, acquiring the business itself.  This contrasts with a more traditional focus solely on the business aspects of an acquisition.  The overall impact of Google's approach is a more efficient and less stigmatized acquisition process, benefiting both Google and the broader technology industry.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5899d01b8a0001b3d6e5c03b4f9ed4b5a540b65d1a12f03857f5e437adbd5973",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> SOLVE (Description: Google's successful resolution of the stigma associated with acquisitions in the technology industry.) -> problem of acquisitions (Description: The negative perception of acquisitions as a sign of inadequacy, successfully overcome by Google's acquisition strategy.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> SOLVE (Description: Google's successful resolution of the stigma associated with acquisitions in the technology industry.) -> problem of acquisitions (Description: The negative perception of acquisitions as a sign of inadequacy, successfully overcome by Google's acquisition strategy.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> LEAD (Description: Leadership role in developing standardized procedures for acquiring startups, setting a precedent for other large companies.) -> standardized startup acquisitions (Description: Standardized procedures developed by Google to streamline the acquisition of startups, making the process more efficient.)\nGoogle (Description: One of the three major internet companies in May 2005, alongside Yahoo and Microsoft, notable for its relatively young founders.) -> LEAD (Description: Leadership role in developing standardized procedures for acquiring startups, setting a precedent for other large companies.) -> standardized startup acquisitions (Description: Standardized procedures developed by Google to streamline the acquisition of startups, making the process more efficient.)\n\nMay 2005 (This essay is derived from a talk at the Berkeley CSUA.) The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24. So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads? Like everything else in technology, the cost of starting a startup has decreased dramatically. Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker. You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen. The less it costs to start a company, the less you need the permission of investors to do it. So a lot of people will be able to start companies now who never could have before. The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy. The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience. Market Rate I once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued. Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [ 1 ] Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates? It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent. That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives. Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high. And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads. The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean. What's an especially productive 22 year old to do? One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user. But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company. The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid. If you're really productive, why not make employers pay market rate for you? Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you? When most people hear the word \"startup,\" they think of the famous ones that have gone public. But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4396,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "0c9a3cf5-446c-4114-9941-27de5c5f12f1",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\The Future of Web Startups (HIVE).txt",
+          "file_name": "The Future of Web Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 19447,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "984fee4e-247d-4575-8c33-d854fa4d01a8",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\The Future of Web Startups (HIVE).txt",
+              "file_name": "The Future of Web Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 19447,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "9b84b6211bd72153611ac3baca0fb2369e13af25041f61217c19556649b05b81",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "ea5c25db-50ad-4c43-a651-849f513973a1",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\The Future of Web Startups (HIVE).txt",
+              "file_name": "The Future of Web Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 19447,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7d5cc492c41682072a718c2852026c968840d62782e1b4f9376ee0571a24ebbe",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "04d4b27a-a165-49b9-8845-c40c2fbb1719",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "81724521b3e3313c1be26fea54c6ac15f5ab0dd3f8fd8bb42584054dcbaf9186",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nChief Acquisition Officer (CAO) (Description: A proposed role within large companies to streamline the acquisition process of startups, combining identification and negotiation functions.) -> responsible_for (Description: The responsibilities of a proposed role within large companies to improve the efficiency and effectiveness of startup acquisitions.) -> startup acquisitions (Description: The process of acquiring startups, requiring a dedicated role to improve efficiency and effectiveness.)\n\nThe question of whether to be in a startup hub is like the question of whether to take outside investment. The question is not whether you need it, but whether it brings any advantage at all. Because anything that brings an advantage will give your competitors an advantage over you if they do it and you don't. So if you hear someone saying \"we don't need to be in Silicon Valley,\" that use of the word \"need\" is a sign they're not even thinking about the question right. And while startup hubs are as powerful magnets as ever, the increasing cheapness of starting a startup means the particles they're attracting are getting lighter. A startup now can be just a pair of 22 year old guys. A company like that can move much more easily than one with 10 people, half of whom have kids. We know because we make people move for Y Combinator, and it doesn't seem to be a problem. The advantage of being able to work together face to face for three months outweighs the inconvenience of moving. Ask anyone who's done it. The mobility of seed-stage startups means that seed funding is a national business. One of the most common emails we get is from people asking if we can help them set up a local clone of Y Combinator. But this just wouldn't work. Seed funding isn't regional, just as big research universities aren't. Is seed funding not merely national, but international? Interesting question. There are signs it may be. We've had an ongoing stream of founders from outside the US, and they tend to do particularly well, because they're all people who were so determined to succeed that they were willing to move to another country to do it. The more mobile startups get, the harder it would be to start new silicon valleys. If startups are mobile, the best local talent will go to the real Silicon Valley, and all they'll get at the local one will be the people who didn't have the energy to move. This is not a nationalistic idea, incidentally. It's cities that compete, not countries. Atlanta is just as hosed as Munich. 7. Better Judgement Needed If the number of startups increases dramatically, then the people whose job is to judge them are going to have to get better at it. I'm thinking particularly of investors and acquirers. We now get on the order of 1000 applications a year. What are we going to do if we get 10,000? That's actually an alarming idea. But we'll figure out some kind of answer. We'll have to. It will probably involve writing some software, but fortunately we can do that. Acquirers will also have to get better at picking winners. They generally do better than investors, because they pick later, when there's more performance to measure. But even at the most advanced acquirers, identifying companies to buy is extremely ad hoc, and completing the acquisition often involves a great deal of unneccessary friction. I think acquirers may eventually have chief acquisition officers who will both identify good acquisitions and make the deals happen. At the moment those two functions are separate. Promising new startups are often discovered by developers. If someone powerful enough wants to buy them, the deal is handed over to corp dev guys to negotiate. It would be better if both were combined in one group, headed by someone with a technical background and some vision of what they wanted to accomplish. Maybe in the future big companies will have both a VP of Engineering responsible for technology developed in-house, and a CAO responsible for bringing technology in from outside. At the moment, there is no one within big companies who gets in trouble when they buy a startup for $200 million that they could have bought earlier for $20 million. There should start to be someone who gets in trouble for that. 8. College Will Change If the best hackers start their own companies after college instead of getting jobs, that will change what happens in college. Most of these changes will be for the better. I think the experience of college is warped in a bad way by the expectation that afterward you'll be judged by potential employers. One change will be in the meaning of \"after college,\" which will switch from when one graduates from college to when one leaves it. If you're starting your own company, why do you need a degree? We don't encourage people to start startups during college, but the best founders are certainly capable of it. Some of the most successful companies we've funded were started by undergrads.",
+        "mimetype": "text/plain",
+        "start_char_idx": 9056,
+        "end_char_idx": 13516,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9748267168191239,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "5b80c101-4a48-4d65-b869-f816d943af32",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "1f39a1b8-a229-41c9-bfaa-f0bec95c4cad",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "73671513a4a07959479245dcf371e514277f98fc333281a7444d99d475e8c5da",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "fbbdce04261386556b2cf1ae2e85b8a21ee56e49e5b1377ceef9847b2fe3940a",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nAcquisitions (Description: Acquisitions of startups by larger companies, becoming more expensive when delayed due to internal factors.) -> CATEGORIZED_INTO (Description: Classification of acquisitions based on the primary motivation of the acquirer: acquiring the business or acquiring the talent.) -> Business Acquisitions and HR Acquisitions (Description: Two main categories of acquisitions, with HR acquisitions focusing on acquiring talent rather than the business itself.)\n\nBut most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well. Often big companies buy startups before they're profitable. Obviously in such cases they're not after revenues. What they want is the development team and the software they've built so far. When a startup gets bought for 2 or 3 million six months in, it's really more of a hiring bonus than an acquisition. I think this sort of thing will happen more and more, and that it will be better for everyone. It's obviously better for the people who start the startup, because they get a big chunk of money up front. But I think it will be better for the acquirers too. The central problem in big companies, and the main reason they're so much less productive than small companies, is the difficulty of valuing each person's work. Buying larval startups solves that problem for them: the acquirer doesn't pay till the developers have proven themselves. Acquirers are protected on the downside, but still get most of the upside. Product Development Buying startups also solves another problem afflicting big companies: they can't do product development. Big companies are good at extracting the value from existing products, but bad at creating new ones. Why? It's worth studying this phenomenon in detail, because this is the raison d'etre of startups. To start with, most big companies have some kind of turf to protect, and this tends to warp their development decisions. For example, Web-based applications are hot now, but within Microsoft there must be a lot of ambivalence about them, because the very idea of Web-based software threatens the desktop. So any Web-based application that Microsoft ends up with, will probably, like Hotmail, be something developed outside the company. Another reason big companies are bad at developing new products is that the kind of people who do that tend not to have much power in big companies (unless they happen to be the CEO). Disruptive technologies are developed by disruptive people. And they either don't work for the big company, or have been outmaneuvered by yes-men and have comparatively little influence. Big companies also lose because they usually only build one of each thing. When you only have one Web browser, you can't do anything really risky with it. If ten different startups design ten different Web browsers and you take the best, you'll probably get something better. The more general version of this problem is that there are too many new ideas for companies to explore them all. There might be 500 startups right now who think they're making something Microsoft might buy. Even Microsoft probably couldn't manage 500 development projects in-house. Big companies also don't pay people the right way. People developing a new product at a big company get paid roughly the same whether it succeeds or fails. People at a startup expect to get rich if the product succeeds, and get nothing if it fails. [ 2 ] So naturally the people at the startup work a lot harder. The mere bigness of big companies is an obstacle. In startups, developers are often forced to talk directly to users, whether they want to or not, because there is no one else to do sales and support. It's painful doing sales, but you learn much more from trying to sell people something than reading what they said in focus groups. And then of course, big companies are bad at product development because they're bad at everything. Everything happens slower in big companies than small ones, and product development is something that has to happen fast, because you have to go through a lot of iterations to get something good. Trend I think the trend of big companies buying startups will only accelerate. One of the biggest remaining obstacles is pride. Most companies, at least unconsciously, feel they ought to be able to develop stuff in house, and that buying startups is to some degree an admission of failure. And so, as people generally do with admissions of failure, they put it off for as long as possible. That makes the acquisition very expensive when it finally happens. What companies should do is go out and discover startups when they're young, before VCs have puffed them up into something that costs hundreds of millions to acquire. Much of what VCs add, the acquirer doesn't need anyway. Why don't acquirers try to predict the companies they're going to have to buy for hundreds of millions, and grab them early for a tenth or a twentieth of that? Because they can't predict the winners in advance? If they're only paying a twentieth as much, they only have to predict a twentieth as well.",
+        "mimetype": "text/plain",
+        "start_char_idx": 4243,
+        "end_char_idx": 8931,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9654692012822784,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

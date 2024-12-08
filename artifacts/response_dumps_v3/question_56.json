@@ -1,0 +1,304 @@
+{
+  "question": "What are the three key elements for startup success, and how do they relate to each other?",
+  "answer": "Based on the provided text, Paul Graham identifies three key elements for startup success:\n\n1. **Good People:**  This refers to a strong team composed of individuals who are highly dedicated and skilled in their respective roles.  The text uses the analogy of \"animals\" to describe these individuals, emphasizing their intense commitment and expertise.  Examples include tenacious salespeople, dedicated hackers, and meticulous designers.  The importance of good people is highlighted by the statement that \"good people can fix bad ideas, but good ideas can't save bad people.\"  Furthermore, the text emphasizes the crucial role of co-founders, ideally met during school,  as a key ingredient for startup success.  Finding the right co-founder is described as the biggest problem for those starting a startup later in life.\n\n2. **Desirable Product:** This signifies creating a product that genuinely meets a market need.  The text argues that brilliance isn't always necessary; often, simply creating a product that is significantly better than existing alternatives is sufficient.  Google's success is cited as an example, where their initial plan was to create a search engine that \"didn't suck,\" focusing on improved indexing, ranking, and user experience.  The text also emphasizes the importance of understanding customers' needs and preferences, particularly in technology startups.  Failure to understand and meet customer needs is identified as a major reason for startup failure, comparable to restaurants failing despite having good food.\n\n3. **Efficient Spending:** This involves managing resources effectively and minimizing unnecessary expenses.  The text stresses the importance of frugality and avoiding wasteful spending.  The text does not elaborate on specific strategies for efficient spending beyond the general principle of minimizing costs.\n\nThe relationship between these three elements is synergistic.  A strong team (**Good People**) can effectively develop and market a desirable product (**Desirable Product**) while efficiently managing resources (**Efficient Spending**).  The absence of any one of these elements significantly increases the likelihood of failure.  A startup that excels in all three areas has a high probability of success, leading to the potential for significant financial rewards for its founders.  The text emphasizes that while success is not guaranteed (only a 1% chance is mentioned), the potential rewards are substantial enough to justify the effort, especially for individuals with a high probability of success.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "48fbef5c-1466-4227-8a71-90699ab3dbdb",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "f3dae4c2-3c47-47cd-acda-63b2c16adc69",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0712016eac5dbc32bcd661fad4cb0779a4d1a2f4573064cb67bf3a53e4e7563",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nSuccessful Startup (Description: A startup characterized by a strong team, a desirable product, and efficient resource management, as defined by Paul Graham.) -> REQUIRE (Description: Essential components for building a successful startup according to Paul Graham's framework.) -> Good People, Desirable Product, Efficient Spending (Description: Three key factors identified by Paul Graham as crucial for startup success: a strong team, a product that meets market demand, and efficient use of resources.)\n\nMarch 2005 (This essay is derived from a talk at the Harvard Computer Society.) You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed. And that's kind of exciting, when you think about it, because all three are doable. Hard, but doable. And since a startup that succeeds ordinarily makes its founders rich, that implies getting rich is doable too. Hard, but doable. If there is one message I'd like to get across about startups, that's it. There is no magically difficult step that requires brilliance to solve. The Idea In particular, you don't need a brilliant idea to start a startup around. The way a startup makes money is to offer people better technology than they have now. But what people have now is often so bad that it doesn't take brilliance to do better. Google's plan, for example, was simply to create a search site that didn't suck. They had three new ideas: index more of the Web, use links to rank search results, and have clean, simple web pages with unintrusive keyword-based ads. Above all, they were determined to make a site that was good to use. No doubt there are great technical tricks within Google, but the overall plan was straightforward. And while they probably have bigger ambitions now, this alone brings them a billion dollars a year. [1] There are plenty of other areas that are just as backward as search was before Google. I can think of several heuristics for generating ideas for startups, but most reduce to this: look at something people are trying to do, and figure out how to do it in a way that doesn't suck. For example, dating sites currently suck far worse than search did before Google. They all use the same simple-minded model. They seem to have approached the problem by thinking about how to do database matches instead of how dating works in the real world. An undergrad could build something better as a class project. And yet there's a lot of money at stake. Online dating is a valuable business now, and it might be worth a hundred times as much if it worked. An idea for a startup, however, is only a beginning. A lot of would-be startup founders think the key to the whole process is the initial idea, and from that point all you have to do is execute. Venture capitalists know better. If you go to VC firms with a brilliant idea that you'll tell them about if they sign a nondisclosure agreement, most will tell you to get lost. That shows how much a mere idea is worth. The market price is less than the inconvenience of signing an NDA. Another sign of how little the initial idea is worth is the number of startups that change their plan en route. Microsoft's original plan was to make money selling programming languages, of all things. Their current business model didn't occur to them until IBM dropped it in their lap five years later. Ideas for startups are worth something, certainly, but the trouble is, they're not transferrable. They're not something you could hand to someone else to execute. Their value is mainly as starting points: as questions for the people who had them to continue thinking about. What matters is not ideas, but the people who have them. Good people can fix bad ideas, but good ideas can't save bad people. People What do I mean by good people? One of the best tricks I learned during our startup was a rule for deciding who to hire. Could you describe the person as an animal? It might be hard to translate that into another language, but I think everyone in the US knows what it means. It means someone who takes their work a little too seriously; someone who does what they do so well that they pass right through professional and cross over into obsessive. What it means specifically depends on the job: a salesperson who just won't take no for an answer; a hacker who will stay up till 4:00 AM rather than go to bed leaving code with a bug in it; a PR person who will cold-call New York Times reporters on their cell phones; a graphic designer who feels physical pain when something is two millimeters out of place. Almost everyone who worked for us was an animal at what they did. The woman in charge of sales was so tenacious that I used to feel sorry for potential customers on the phone with her.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4429,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "4d711158-13b2-44c7-8030-7c7ba4e8c62d",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "8ae835bc-bf63-43ce-a0ac-ee8869d9aa58",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "bac9a182161e44de958aa2c7bf097e8c34bc9e7500526900f59d99186e87b09f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "99560dc8-3676-4d58-ac16-98284b6e61c1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "20fd47e53c71e89dcb2e74ccb564e268c4d110b851878509ca489d7ae61d9bec",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> SOLVE (Description: Addressing pre-existing problems identified by target users.) -> problems people already know they have (Description: Issues or challenges that potential customers are already aware of and seeking solutions for.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> CHARACTERISTIC (Description: Common trait among successful startups.) -> long working hours (Description: Typical working hours for founders of successful startups.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> STRATEGY (Description: Approach used by successful startups.) -> adapting initial plans and operating cheaply (Description: Key strategies employed by successful startups.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> ARE_STARTED_BY (Description: Describes the typical founding process of successful startups, involving multiple individuals.) -> multiple founders (Description: The composition of a startup's founding team, typically involving more than one person.)\nSuccessful startups (Description: Startups that achieve significant growth and success, often characterized by a collaborative founding process.) -> ORIGINATE_FROM (Description: The connection between the origin of successful startups and highly selective universities.) -> Selective universities (Description: Universities known for their rigorous admissions processes, often associated with a high number of successful startup founders.)\n\nSo my guess is that 37signals is an anomaly. We're looking at a pattern much older than \"Web 2.0\" here. Perhaps the reason more startups per capita happen in the Bay Area than Miami is simply that there are more founder-type people there. Successful startups are almost never started by one person. Usually they begin with a conversation in which someone mentions that something would be a good idea for a company, and his friend says, \"Yeah, that is a good idea, let's try it.\" If you're missing that second person who says \"let's try it,\" the startup never happens. And that is another area where undergrads have an edge. They're surrounded by people willing to say that. At a good college you're concentrated together with a lot of other ambitious and technically minded peopleâ€”probably more concentrated than you'll ever be again. If your nucleus spits out a neutron, there's a good chance it will hit another nucleus. The number one question people ask us at Y Combinator is: Where can I find a co-founder? That's the biggest problem for someone starting a startup at 30. When they were in school they knew a lot of good co-founders, but by 30 they've either lost touch with them or these people are tied down by jobs they don't want to leave. Viaweb was an anomaly in this respect too. Though we were comparatively old, we weren't tied down by impressive jobs. I was trying to be an artist, which is not very constraining, and Robert, though 29, was still in grad school due to a little interruption in his academic career back in 1988. So arguably the Worm made Viaweb possible. Otherwise Robert would have been a junior professor at that age, and he wouldn't have had time to work on crazy speculative projects with me. Most of the questions people ask Y Combinator we have some kind of answer for, but not the co-founder question. There is no good answer. Co-founders really should be people you already know. And by far the best place to meet them is school. You have a large sample of smart people; you get to compare how they all perform on identical tasks; and everyone's life is pretty fluid. A lot of startups grow out of schools for this reason. Google, Yahoo, and Microsoft, among others, were all founded by people who met in school. (In Microsoft's case, it was high school.) Many students feel they should wait and get a little more experience before they start a company. All other things being equal, they should. But all other things are not quite as equal as they look. Most students don't realize how rich they are in the scarcest ingredient in startups, co-founders. If you wait too long, you may find that your friends are now involved in some project they don't want to abandon. The better they are, the more likely this is to happen. One way to mitigate this problem might be to actively plan your startup while you're getting those n years of experience. Sure, go off and get jobs or go to grad school or whatever, but get together regularly to scheme, so the idea of starting a startup stays alive in everyone's brain. I don't know if this works, but it can't hurt to try. It would be helpful just to realize what an advantage you have as students. Some of your classmates are probably going to be successful startup founders; at a great technical university, that is a near certainty. So which ones? If I were you I'd look for the people who are not just smart, but incurable builders Look for the people who keep starting projects, and finish at least some of them. That's what we look for. Above all else, above academic credentials and even the idea you apply with, we look for people who build things. The other place co-founders meet is at work. Fewer do than at school, but there are things you can do to improve the odds. The most important, obviously, is to work somewhere that has a lot of smart, young people. Another is to work for a company located in a startup hub. It will be easier to talk a co-worker into quitting with you in a place where startups are happening all around you. You might also want to look at the employment agreement you sign when you get hired. Most will say that any ideas you think of while you're employed by the company belong to them. In practice it's hard for anyone to prove what ideas you had when, so the line gets drawn at code.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12333,
+        "end_char_idx": 16641,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9986812345794841,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "a7599598-3b01-4c6b-8ca2-4034be43ca7e",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+          "file_name": "Startup Growth (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 30874,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "7c8a1499-c545-4586-9180-90ddddf22b69",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "27678b1139a6417f4d67dc7dc1f91ff5598ceff8307e118f57eddfe7442bd941",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "949448f9-ec78-4a93-8ffe-e581e526ed57",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "8532afe8699d0bc4789f08006dd270f73036f3f281d2467652284bdbe1638dd4",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "7dcf7050-9ed8-4aef-b9fe-38c89a1d6f8d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1385bd3e25ca3f145cc6b620f89751b355c416785a3deb236b5d822c940eeaf0",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Success (Description: The achievement of significant growth and value creation in a startup, a rare but highly rewarding outcome.) -> PROBABILITY (Description: The likelihood of a startup achieving significant success, influenced by various factors.) -> 1% (Description: A low probability of success, yet still resulting in a high expected value due to the potential rewards.)\n\nIn theory this sort of hill-climbing could get a startup into trouble. They could end up on a local maximum. But in practice that never happens. Having to hit a growth number every week forces founders to act, and acting versus not acting is the high bit of succeeding. Nine times out of ten, sitting around strategizing is just a form of procrastination. Whereas founders' intuitions about which hill to climb are usually better than they realize. Plus the maxima in the space of startup ideas are not spiky and isolated. Most fairly good ideas are adjacent to even better ones. The fascinating thing about optimizing for growth is that it can actually discover startup ideas. You can use the need for growth as a form of evolutionary pressure. If you start out with some initial plan and modify it as necessary to keep hitting, say, 10% weekly growth, you may end up with a quite different company than you meant to start. But anything that grows consistently at 10% a week is almost certainly a better idea than you started with. There's a parallel here to small businesses. Just as the constraint of being located in a particular neighborhood helps define a bar, the constraint of growing at a certain rate can help define a startup. You'll generally do best to follow that constraint wherever it leads rather than being influenced by some initial vision, just as a scientist is better off following the truth wherever it leads rather than being influenced by what he wishes were the case. When Richard Feynman said that the imagination of nature was greater than the imagination of man, he meant that if you just keep following the truth you'll discover cooler things than you could ever have made up. For startups, growth is a constraint much like truth. Every successful startup is at least partly a product of the imagination of growth. [ 9 ] Value It's hard to find something that grows consistently at several percent a week, but if you do you may have found something surprisingly valuable. If we project forward we see why. A company that grows at 1% a week will grow 1.7x a year, whereas a company that grows at 5% a week will grow 12.6x. A company making $1000 a month (a typical number early in YC) and growing at 1% a week will 4 years later be making $7900 a month, which is less than a good programmer makes in salary in Silicon Valley. A startup that grows at 5% a week will in 4 years be making $25 million a month. [ 10 ] Our ancestors must rarely have encountered cases of exponential growth, because our intuitions are no guide here. What happens to fast growing startups tends to surprise even the founders. Small variations in growth rate produce qualitatively different outcomes. That's why there's a separate word for startups, and why startups do things that ordinary companies don't, like raising money and getting acquired. And, strangely enough, it's also why they fail so frequently. Considering how valuable a successful startup can become, anyone familiar with the concept of expected value would be surprised if the failure rate weren't high. If a successful startup could make a founder $100 million, then even if the chance of succeeding were only 1%, the expected value of starting one would be $1 million. And the probability of a group of sufficiently smart and determined founders succeeding on that scale might be significantly over 1%. For the right people â€” e.g. the young Bill Gates â€” the probability might be 20% or even 50%. So it's not surprising that so many want to take a shot at it. In an efficient market, the number of failed startups should be proportionate to the size of the successes. And since the latter is huge the former should be too. [ 11 ] What this means is that at any given time, the great majority of startups will be working on something that's never going to go anywhere, and yet glorifying their doomed efforts with the grandiose title of \"startup.\" This doesn't bother me. It's the same with other high-beta vocations, like being an actor or a novelist. I've long since gotten used to it. But it seems to bother a lot of people, particularly those who've started ordinary businesses. Many are annoyed that these so-called startups get all the attention, when hardly any of them will amount to anything. If they stepped back and looked at the whole picture they might be less indignant. The mistake they're making is that by basing their opinions on anecdotal evidence they're implicitly judging by the median rather than the average.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12869,
+        "end_char_idx": 17379,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9960587256467195,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "86b8a208-50de-433d-a5a7-a9845bb7a71f",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "f3dae4c2-3c47-47cd-acda-63b2c16adc69",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "f784e17741e85309b418824e3192e3d284f90500f1769d55e0a3b112e17e6f75",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "dddd4656-ac29-468e-ae45-cd33d12efddb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "775627bfabf87a88512581d1794f8ed67474ea7efeaf4cac5e8b7c85ec4267be",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nTechnology startups (Description: Startups focused on technology, whose success hinges on understanding and meeting customer needs.) -> CRUCIAL_FOR (Description: Essential factor for success, highlighting the importance of customer understanding in technology startups.) -> Understanding customers (Description: Ability to understand customer needs and preferences, crucial for the success of technology startups.)\n\nIf there are seven or eight, disagreements can linger and harden into factions. You don't want mere voting; you need unanimity. In a technology startup, which most startups are, the founders should include technical people. During the Internet Bubble there were a number of startups founded by business people who then went looking for hackers to create their product for them. This doesn't work well. Business people are bad at deciding what to do with technology, because they don't know what the options are, or which kinds of problems are hard and which are easy. And when business people try to hire hackers, they can't tell which ones are good Even other hackers have a hard time doing that. For business people it's roulette. Do the founders of a startup have to include business people? That depends. We thought so when we started ours, and we asked several people who were said to know about this mysterious thing called \"business\" if they would be the president. But they all said no, so I had to do it myself. And what I discovered was that business was no great mystery. It's not something like physics or medicine that requires extensive study. You just try to get people to pay you for stuff. I think the reason I made such a mystery of business was that I was disgusted by the idea of doing it. I wanted to work in the pure, intellectual world of software, not deal with customers' mundane problems. People who don't want to get dragged into some kind of work often develop a protective incompetence at it. Paul Erdos was particularly good at this. By seeming unable even to cut a grapefruit in half (let alone go to the store and buy one), he forced other people to do such things for him, leaving all his time free for math. Erdos was an extreme case, but most husbands use the same trick to some degree. Once I was forced to discard my protective incompetence, I found that business was neither so hard nor so boring as I feared. There are esoteric areas of business that are quite hard, like tax law or the pricing of derivatives, but you don't need to know about those in a startup. All you need to know about business to run a startup are commonsense things people knew before there were business schools, or even universities. If you work your way down the Forbes 400 making an x next to the name of each person with an MBA, you'll learn something important about business school. After Warren Buffett, you don't hit another MBA till number 22, Phil Knight, the CEO of Nike. There are only 5 MBAs in the top 50. What you notice in the Forbes 400 are a lot of people with technical backgrounds. Bill Gates, Steve Jobs, Larry Ellison, Michael Dell, Jeff Bezos, Gordon Moore. The rulers of the technology business tend to come from technology, not business. So if you want to invest two years in something that will help you succeed in business, the evidence suggests you'd do better to learn how to hack than get an MBA. [3] There is one reason you might want to include business people in a startup, though: because you have to have at least one person willing and able to focus on what customers want. Some believe only business people can do this-- that hackers can implement software, but not design it. That's nonsense. There's nothing about knowing how to program that prevents hackers from understanding users, or about not knowing how to program that magically enables business people to understand them. If you can't understand users, however, you should either learn how or find a co-founder who can. That is the single most important issue for technology startups, and the rock that sinks more of them than anything else. What Customers Want It's not just startups that have to worry about this. I think most businesses that fail do it because they don't give customers what they want. Look at restaurants. A large percentage fail, about a quarter in the first year. But can you think of one restaurant that had really good food and went out of business? Restaurants with great food seem to prosper no matter what. A restaurant with great food can be expensive, crowded, noisy, dingy, out of the way, and even have bad service, and people will keep coming. It's true that a restaurant with mediocre food can sometimes attract customers through gimmicks. But that approach is very risky. It's more straightforward just to make the food good. It's the same with technology. You hear all kinds of reasons why startups fail. But can you think of one that had a massively popular product and still failed?",
+        "mimetype": "text/plain",
+        "start_char_idx": 8335,
+        "end_char_idx": 12866,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9955047598365827,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

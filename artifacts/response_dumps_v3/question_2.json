@@ -1,0 +1,304 @@
+{
+  "question": "Beyond financial capital, what are the most crucial resources a founder needs to build a successful startup, and where are the best places to acquire them?",
+  "answer": "Based on the provided text, beyond **financial capital**, a founder needs three crucial resources to build a successful startup:\n\n1. **Good People:**  The text emphasizes the importance of hiring individuals who are highly committed and skilled in their respective roles, described as \"animals\" in their dedication.  These individuals possess an obsessive level of commitment to their work, going above and beyond typical professional standards.  Examples include tenacious salespeople, meticulous hackers, and dedicated PR professionals.  The best place to acquire these individuals is not explicitly stated, but the text implies that finding such dedicated individuals is a key challenge.\n\n2. **Desirable Product:**  A successful startup requires a product that genuinely meets customer needs and solves a problem effectively.  The text uses Google's search engine as an example, highlighting its success due to its superior user experience compared to existing alternatives.  The text suggests identifying areas where existing solutions are inadequate and developing a better alternative as a strategy for creating a desirable product.  The text does not specify where to find ideas for such products, but it suggests looking at areas where people are struggling with existing solutions.\n\n3. **Efficient Spending:**  The text stresses the importance of managing resources effectively, minimizing unnecessary expenses.  It notes that while money can be used for sales and marketing, marketing's relevance is diminishing in the internet age, where genuinely good products spread through word-of-mouth.  The text does not explicitly state where to acquire efficient spending practices, but it implies that careful planning and resource allocation are crucial.\n\n\nIn summary, while **financial capital** (obtained from VCs, angel investors, or seed firms) is essential,  a successful startup also requires a team of highly dedicated and skilled individuals (\"**good people**\"), a product that genuinely addresses market needs (\"**desirable product**\"), and efficient resource management (\"**efficient spending**\").  The text provides examples and strategies for achieving these, but it does not offer definitive locations for acquiring these resources beyond the general implication that dedicated individuals are hard to find and that efficient spending requires careful planning.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "37c62fbb-a0de-40ce-929c-2c7728cb1e76",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+          "file_name": "Hiring is Obsolete (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 26756,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "51ef7dbe-22c4-428a-8d4a-0e464e91cbfd",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "678510d12f12d6d3ec51a68b0b363bd67e24fd05bbaccb4efeb1732ea3e16552",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "5b80c101-4a48-4d65-b869-f816d943af32",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Hiring is Obsolete (HIVE).txt",
+              "file_name": "Hiring is Obsolete (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 26756,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "833306d7f2d6eafc8627bf95615ca7e1877f9eb84f846b58cc0273ac594e9310",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "3a223e80-4f4c-410d-80bd-60b4e8aec076",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8c7d98551882cf1d99d024c954902c1b64cad6737542d6753c9b59a3d8982b62",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nVCs (Description: Venture capitalists whose traditional preference for experienced CEOs is being challenged by the changing dynamics of startup funding.) -> OFFER (Description: The offerings of VCs, which include money, connections, and advice, but the quality varies depending on the VC.) -> Money, Connections, Advice (Description: The typical offerings of venture capitalists, including financial capital, industry connections, and business guidance.)\n\nBecause they can't predict the winners in advance? If they're only paying a twentieth as much, they only have to predict a twentieth as well. Surely they can manage that. I think companies that acquire technology will gradually learn to go after earlier stage startups. They won't necessarily buy them outright. The solution may be some hybrid of investment and acquisition: for example, to buy a chunk of the company and get an option to buy the rest later. When companies buy startups, they're effectively fusing recruiting and product development. And I think that's more efficient than doing the two separately, because you always get people who are really committed to what they're working on. Plus this method yields teams of developers who already work well together. Any conflicts between them have been ironed out under the very hot iron of running a startup. By the time the acquirer gets them, they're finishing one another's sentences. That's valuable in software, because so many bugs occur at the boundaries between different people's code. Investors The increasing cheapness of starting a company doesn't just give hackers more power relative to employers. It also gives them more power relative to investors. The conventional wisdom among VCs is that hackers shouldn't be allowed to run their own companies. The founders are supposed to accept MBAs as their bosses, and themselves take on some title like Chief Technical Officer. There may be cases where this is a good idea. But I think founders will increasingly be able to push back in the matter of control, because they just don't need the investors' money as much as they used to. Startups are a comparatively new phenomenon. Fairchild Semiconductor is considered the first VC-backed startup, and they were founded in 1959, less than fifty years ago. Measured on the time scale of social change, what we have now is pre-beta. So we shouldn't assume the way startups work now is the way they have to work. Fairchild needed a lot of money to get started. They had to build actual factories. What does the first round of venture funding for a Web-based startup get spent on today? More money can't get software written faster; it isn't needed for facilities, because those can now be quite cheap; all money can really buy you is sales and marketing. A sales force is worth something, I'll admit. But marketing is increasingly irrelevant. On the Internet, anything genuinely good will spread by word of mouth. Investors' power comes from money. When startups need less money, investors have less power over them. So future founders may not have to accept new CEOs if they don't want them. The VCs will have to be dragged kicking and screaming down this road, but like many things people have to be dragged kicking and screaming toward, it may actually be good for them. Google is a sign of the way things are going. As a condition of funding, their investors insisted they hire someone old and experienced as CEO. But from what I've heard the founders didn't just give in and take whoever the VCs wanted. They delayed for an entire year, and when they did finally take a CEO, they chose a guy with a PhD in computer science. It sounds to me as if the founders are still the most powerful people in the company, and judging by Google's performance, their youth and inexperience doesn't seem to have hurt them. Indeed, I suspect Google has done better than they would have if the founders had given the VCs what they wanted, when they wanted it, and let some MBA take over as soon as they got their first round of funding. I'm not claiming the business guys installed by VCs have no value. Certainly they have. But they don't need to become the founders' bosses, which is what that title CEO means. I predict that in the future the executives installed by VCs will increasingly be COOs rather than CEOs. The founders will run engineering directly, and the rest of the company through the COO. The Open Cage With both employers and investors, the balance of power is slowly shifting towards the young. And yet they seem the last to realize it. Only the most ambitious undergrads even consider starting their own company when they graduate. Most just want to get a job. Maybe this is as it should be. Maybe if the idea of starting a startup is intimidating, you filter out the uncommitted. But I suspect the filter is set a little too high. I think there are people who could, if they tried, start successful startups, and who instead let themselves be swept into the intake ducts of big companies.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8790,
+        "end_char_idx": 13352,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "13f47ef7-8199-4481-b459-704584188b23",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "a6122321-c078-4fd5-a9a5-6458043ec593",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "ff26b353-c7e4-49ae-a304-dc9f2ae3f0ab",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "4e08e993bfe4fdda951532edeb5de78d598f4b2bdb2ed1dc63883d29fbcfef55",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "bf321a97-9685-4697-8f9a-7f253e17caec",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "191918951c07644655ee17559a983afaaf44893d8e52a11702914702f10d0fa3",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Board (Description: Governing body of the startup, reconstituted after a VC investment to include VCs and founders.) -> RECONSTITUTE (Description: The restructuring of the startup's board to include representatives from both VCs and founders.) -> VCs and Founders (Description: Key stakeholders in the startup, including venture capitalists and the company's founders.)\n\nI admit, this is the Bambi version; in simplifying the picture, I've also made everyone nicer. In the real world, VCs regard angels the way a jealous husband feels about his wife's previous boyfriends. To them the company didn't exist before they invested in it. [ 9 ] I don't want to give the impression you have to do an angel round before going to VCs. In this example I stretched things out to show multiple sources of funding in action. Some startups could go directly from seed funding to a VC round; several of the companies we've funded have. The founders are required to vest their shares over four years, and the board is now reconstituted to consist of two VCs, two founders, and a fifth person acceptable to both. The angel investor cheerfully surrenders his board seat. At this point there is nothing new our startup can teach us about fundingâ€”or at least, nothing good. [ 10 ] The startup will almost certainly hire more people at this point; those millions must be put to work, after all. The company may do additional funding rounds, presumably at higher valuations. They may if they are extraordinarily fortunate do an IPO, which we should remember is also in principle a round of funding, regardless of its de facto purpose. But that, if not beyond the bounds of possibility, is beyond the scope of this article. Deals Fall Through Anyone who's been through a startup will find the preceding portrait to be missing something: disasters. If there's one thing all startups have in common, it's that something is always going wrong. And nowhere more than in matters of funding. For example, our hypothetical startup never spent more than half of one round before securing the next. That's more ideal than typical. Many startupsâ€”even successful onesâ€”come close to running out of money at some point. Terrible things happen to startups when they run out of money, because they're designed for growth, not adversity. But the most unrealistic thing about the series of deals I've described is that they all closed. In the startup world, closing is not what deals do. What deals do is fall through. If you're starting a startup you would do well to remember that. Birds fly; fish swim; deals fall through. Why? Partly the reason deals seem to fall through so often is that you lie to yourself. You want the deal to close, so you start to believe it will. But even correcting for this, startup deals fall through alarmingly oftenâ€”far more often than, say, deals to buy real estate. The reason is that it's such a risky environment. People about to fund or acquire a startup are prone to wicked cases of buyer's remorse. They don't really grasp the risk they're taking till the deal's about to close. And then they panic. And not just inexperienced angel investors, but big companies too. So if you're a startup founder wondering why some angel investor isn't returning your phone calls, you can at least take comfort in the thought that the same thing is happening to other deals a hundred times the size. The example of a startup's history that I've presented is like a skeletonâ€”accurate so far as it goes, but needing to be fleshed out to be a complete picture. To get a complete picture, just add in every possible disaster. A frightening prospect? In a way. And yet also in a way encouraging. The very uncertainty of startups frightens away almost everyone. People overvalue stabilityâ€”especially young people, who ironically need it least. And so in starting a startup, as in any really bold undertaking, merely deciding to do it gets you halfway there. On the day of the race, most of the other runners won't show up. Notes [ 1 ] The aim of such regulations is to protect widows and orphans from crooked investment schemes; people with a million dollars in liquid assets are assumed to be able to protect themselves. The unintended consequence is that the investments that generate the highest returns, like hedge funds, are available only to the rich. [ 2 ] Consulting is where product companies go to die. IBM is the most famous example. So starting as a consulting company is like starting out in the grave and trying to work your way up into the world of the living. [ 3 ] If \"near you\" doesn't mean the Bay Area, Boston, or Seattle, consider moving. It's not a coincidence you haven't heard of many startups from Philadelphia. [ 4 ] Investors are often compared to sheep.",
+        "mimetype": "text/plain",
+        "start_char_idx": 42364,
+        "end_char_idx": 46766,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.999529489279557,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "9a04483b-0089-4ac0-873e-03fe84345772",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+          "file_name": "How to Fund a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 50523,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "f79f2dc3-3e39-499f-b69d-cef42113164b",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "10bd0cd21838ee4219aa1d518d95c14019c22a13da9c327c177127d098c49518",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "aadf7255-abe5-408c-81d9-b68e2616f287",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Fund a Startup (HIVE).txt",
+              "file_name": "How to Fund a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 50523,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "eac5c6964f3e34631ca99dc59032caf8ad2bfbc78e9fe84c6be9753bf67d35c7",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "c3622620-e635-49cb-8f38-bcdea3c69d44",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "e4c2510c36f5aa30ee6ff21607ee3f295ee1531e7f529d85e72999a2a32d7cf4",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nSuccessful VC firms (Description: VC firms that have achieved significant success, attracting more deals and founders due to their reputation and perceived legitimacy.) -> ATTRACT (Description: Attraction of more deals and founders due to the reputation and perceived legitimacy associated with successful VC firms.) -> Deals and Founders (Description: Investment opportunities and founding teams attracted to successful VC firms due to their reputation and perceived legitimacy.)\n\nThe fact that seed firms are companies also means the investment process is more standardized. (This is generally true with angel groups too.) Seed firms will probably have set deal terms they use for every startup they fund. The fact that the deal terms are standard doesn't mean they're favorable to you, but if other startups have signed the same agreements and things went well for them, it's a sign the terms are reasonable. Seed firms differ from angels and VCs in that they invest exclusively in the earliest phasesâ€”often when the company is still just an idea. Angels and even VC firms occasionally do this, but they also invest at later stages. The problems are different in the early stages. For example, in the first couple months a startup may completely redefine their idea So seed investors usually care less about the idea than the people. This is true of all venture funding, but especially so in the seed stage. Like VCs, one of the advantages of seed firms is the advice they offer. But because seed firms operate in an earlier phase, they need to offer different kinds of advice. For example, a seed firm should be able to give advice about how to approach VCs, which VCs obviously don't need to do; whereas VCs should be able to give advice about how to hire an \"executive team,\" which is not an issue in the seed stage. In the earliest phases, a lot of the problems are technical, so seed firms should be able to help with technical as well as business problems. Seed firms and angel investors generally want to invest in the initial phases of a startup, then hand them off to VC firms for the next round. Occasionally startups go from seed funding direct to acquisition, however, and I expect this to become increasingly common. Google has been aggressively pursuing this route, and now Yahoo is too. Both now compete directly with VCs. And this is a smart move. Why wait for further funding rounds to jack up a startup's price? When a startup reaches the point where VCs have enough information to invest in it, the acquirer should have enough information to buy it. More information, in fact; with their technical depth, the acquirers should be better at picking winners than VCs. Venture Capital Funds VC firms are like seed firms in that they're actual companies, but they invest other people's money, and much larger amounts of it. VC investments average several million dollars. So they tend to come later in the life of a startup, are harder to get, and come with tougher terms. The word \"venture capitalist\" is sometimes used loosely for any venture investor, but there is a sharp difference between VCs and other investors: VC firms are organized as funds , much like hedge funds or mutual funds. The fund managers, who are called \"general partners,\" get about 2% of the fund annually as a management fee, plus about 20% of the fund's gains. There is a very sharp dropoff in performance among VC firms, because in the VC business both success and failure are self-perpetuating. When an investment scores spectacularly, as Google did for Kleiner and Sequoia, it generates a lot of good publicity for the VCs. And many founders prefer to take money from successful VC firms, because of the legitimacy it confers. Hence a vicious (for the losers) cycle: VC firms that have been doing badly will only get the deals the bigger fish have rejected, causing them to continue to do badly. As a result, of the thousand or so VC funds in the US now, only about 50 are likely to make money, and it is very hard for a new fund to break into this group. In a sense, the lower-tier VC firms are a bargain for founders. They may not be quite as smart or as well connected as the big-name firms, but they are much hungrier for deals. This means you should be able to get better terms from them. Better how? The most obvious is valuation: they'll take less of your company. But as well as money, there's power. I think founders will increasingly be able to stay on as CEO, and on terms that will make it fairly hard to fire them later. The most dramatic change, I predict, is that VCs will allow founders to cash out partially by selling some of their stock direct to the VC firm. VCs have traditionally resisted letting founders get anything before the ultimate \"liquidity event.\" But they're also desperate for deals.",
+        "mimetype": "text/plain",
+        "start_char_idx": 17005,
+        "end_char_idx": 21339,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9994805841104418,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "48fbef5c-1466-4227-8a71-90699ab3dbdb",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+          "file_name": "How to Start a Startup (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 53554,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e1d006f1-7711-4c1a-9333-31f23adcc57f",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How to Start a Startup (HIVE).txt",
+              "file_name": "How to Start a Startup (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 53554,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "7489134a1c9e43b5f8af0149e85b1fee9c4544d8da95174e0fb5aa0dae44c4b0",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "f3dae4c2-3c47-47cd-acda-63b2c16adc69",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "b0712016eac5dbc32bcd661fad4cb0779a4d1a2f4573064cb67bf3a53e4e7563",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nSuccessful Startup (Description: A startup characterized by a strong team, a desirable product, and efficient resource management, as defined by Paul Graham.) -> REQUIRE (Description: Essential components for building a successful startup according to Paul Graham's framework.) -> Good People, Desirable Product, Efficient Spending (Description: Three key factors identified by Paul Graham as crucial for startup success: a strong team, a product that meets market demand, and efficient use of resources.)\n\nMarch 2005 (This essay is derived from a talk at the Harvard Computer Society.) You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed. And that's kind of exciting, when you think about it, because all three are doable. Hard, but doable. And since a startup that succeeds ordinarily makes its founders rich, that implies getting rich is doable too. Hard, but doable. If there is one message I'd like to get across about startups, that's it. There is no magically difficult step that requires brilliance to solve. The Idea In particular, you don't need a brilliant idea to start a startup around. The way a startup makes money is to offer people better technology than they have now. But what people have now is often so bad that it doesn't take brilliance to do better. Google's plan, for example, was simply to create a search site that didn't suck. They had three new ideas: index more of the Web, use links to rank search results, and have clean, simple web pages with unintrusive keyword-based ads. Above all, they were determined to make a site that was good to use. No doubt there are great technical tricks within Google, but the overall plan was straightforward. And while they probably have bigger ambitions now, this alone brings them a billion dollars a year. [1] There are plenty of other areas that are just as backward as search was before Google. I can think of several heuristics for generating ideas for startups, but most reduce to this: look at something people are trying to do, and figure out how to do it in a way that doesn't suck. For example, dating sites currently suck far worse than search did before Google. They all use the same simple-minded model. They seem to have approached the problem by thinking about how to do database matches instead of how dating works in the real world. An undergrad could build something better as a class project. And yet there's a lot of money at stake. Online dating is a valuable business now, and it might be worth a hundred times as much if it worked. An idea for a startup, however, is only a beginning. A lot of would-be startup founders think the key to the whole process is the initial idea, and from that point all you have to do is execute. Venture capitalists know better. If you go to VC firms with a brilliant idea that you'll tell them about if they sign a nondisclosure agreement, most will tell you to get lost. That shows how much a mere idea is worth. The market price is less than the inconvenience of signing an NDA. Another sign of how little the initial idea is worth is the number of startups that change their plan en route. Microsoft's original plan was to make money selling programming languages, of all things. Their current business model didn't occur to them until IBM dropped it in their lap five years later. Ideas for startups are worth something, certainly, but the trouble is, they're not transferrable. They're not something you could hand to someone else to execute. Their value is mainly as starting points: as questions for the people who had them to continue thinking about. What matters is not ideas, but the people who have them. Good people can fix bad ideas, but good ideas can't save bad people. People What do I mean by good people? One of the best tricks I learned during our startup was a rule for deciding who to hire. Could you describe the person as an animal? It might be hard to translate that into another language, but I think everyone in the US knows what it means. It means someone who takes their work a little too seriously; someone who does what they do so well that they pass right through professional and cross over into obsessive. What it means specifically depends on the job: a salesperson who just won't take no for an answer; a hacker who will stay up till 4:00 AM rather than go to bed leaving code with a bug in it; a PR person who will cold-call New York Times reporters on their cell phones; a graphic designer who feels physical pain when something is two millimeters out of place. Almost everyone who worked for us was an animal at what they did. The woman in charge of sales was so tenacious that I used to feel sorry for potential customers on the phone with her.",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 4429,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9969436956400236,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "question": "What is the role of \"growth\" in defining a startup, and how does a focus on growth shape a startup's strategy and ultimate outcome?",
+  "answer": "Growth is the defining characteristic of a startup, driving its strategy and ultimately determining its success or failure.  The text highlights several key aspects of growth's role:\n\n1. **Measurement of Success:** Startup growth, typically measured by **revenue** or **active users**, is the primary metric for evaluating a startup's performance.  Revenue is preferred, but active users serve as a reasonable proxy for startups not yet generating revenue.  A consistent growth rate, ideally measured weekly for early-stage startups, is crucial.  A good growth rate during Y Combinator (YC) is 5-7% per week, with 10% considered exceptional and 1% indicating potential problems.\n\n2. **Strategic Optimization:**  The text frames startup growth as an **optimization problem**, analogous to **code optimization**.  This means focusing on iterative improvements and resource allocation to achieve a target growth rate.  This narrow focus simplifies decision-making; any action contributing to the target growth rate is considered correct.  This includes decisions about attending conferences, hiring, marketing, courting customers, and adding features.\n\n3. **Driving Force in the Startup Ecosystem:** Growth is the central force shaping the entire startup ecosystem. It explains why startups often focus on technology (as a source of rapid change), why founders choose to start startups (high expected value despite high risk), why VCs invest (easier capital gains than dividends), and why successful startups receive acquisition offers (value and potential threat to acquirers).  Instagram's acquisition by Facebook serves as a prime example of growth's importance in valuation.\n\n4. **Shape-Shifting Nature of Growth:**  The pursuit of a consistent growth rate can fundamentally alter a startup's trajectory.  Starting with an initial plan, the need to maintain a target growth rate (e.g., 10% weekly) can lead to a significantly different company than originally envisioned.  This process is likened to scientific discovery, where following the \"truth\" (analogous to growth) reveals unexpected and potentially superior outcomes.  The text explicitly states that anything growing consistently at 10% a week is almost certainly a better idea than the initial plan.\n\n5. **Predicting Outcomes:**  Small variations in growth rate lead to drastically different outcomes.  A 1% weekly growth rate results in 1.7x yearly growth, while a 5% weekly growth rate yields 12.6x yearly growth.  This exponential growth explains why startups take actions (raising money, acquisitions) that ordinary businesses don't, and also why the failure rate is high, given the potential for enormous success.  The text uses the example of a startup making $1000/month; with 1% weekly growth, it would make $7900/month after 4 years, while 5% weekly growth would result in $25 million/month after 4 years.\n\nIn summary, growth is not merely a metric for startups; it's the core element defining their nature, strategy, and ultimate fate.  The pursuit of growth shapes decisions, drives innovation, and determines the ultimate value and success (or failure) of the venture.  The text emphasizes that understanding growth is synonymous with understanding startups themselves.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "949448f9-ec78-4a93-8ffe-e581e526ed57",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+          "file_name": "Startup Growth (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 30874,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "7c8a1499-c545-4586-9180-90ddddf22b69",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "27678b1139a6417f4d67dc7dc1f91ff5598ceff8307e118f57eddfe7442bd941",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "2d33b5a7-4ded-4ca3-97e1-f12f86bceb30",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "a70b89fc166fe612d887b3bf8de4dba152e0b79775b27f81bd4c464a11106619",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "a7599598-3b01-4c6b-8ca2-4034be43ca7e",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2db0c6f8c4007f796ea6a306c1089ef5963f03a9854fd04acee3696ac3bf8786",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Growth (Description: The rate at which a startup expands, typically measured by revenue or active users, crucial for evaluating success and guiding strategic decisions.) -> MEASURED_BY (Description: The key metrics used to assess startup growth, including revenue and active users.) -> Revenue or Active Users (Description: Key indicators of startup growth, with revenue being the most preferred and active users serving as a reasonable proxy for startups not yet generating revenue.)\nStartup Optimization (Description: The process of treating startup growth as an optimization problem, focusing on improving growth rate through iterative adjustments and resource allocation.) -> ANALOGOUS_TO (Description: The comparison of startup growth optimization to code optimization, highlighting the focus on iterative improvements and achieving a specific target.) -> Code Optimization (Description: The process of improving code efficiency, used as an analogy to illustrate the iterative nature of startup growth optimization.)\n\nThe growth of a successful startup usually has three phases: There's an initial period of slow or no growth while the startup tries to figure out what it's doing. As the startup figures out how to make something lots of people want and how to reach those people, there's a period of rapid growth. Eventually a successful startup will grow into a big company. Growth will slow, partly due to internal limits and partly because the company is starting to bump up against the limits of the markets it serves. [ 5 ] Together these three phases produce an S-curve. The phase whose growth defines the startup is the second one, the ascent. Its length and slope determine how big the company will be. The slope is the company's growth rate. If there's one number every founder should always know, it's the company's growth rate. That's the measure of a startup. If you don't know that number, you don't even know if you're doing well or badly. When I first meet founders and ask what their growth rate is, sometimes they tell me \"we get about a hundred new customers a month.\" That's not a rate. What matters is not the absolute number of new customers, but the ratio of new customers to existing ones. If you're really getting a constant number of new customers every month, you're in trouble, because that means your growth rate is decreasing. During Y Combinator we measure growth rate per week, partly because there is so little time before Demo Day, and partly because startups early on need frequent feedback from their users to tweak what they're doing. [ 6 ] A good growth rate during YC is 5-7% a week. If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing. The best thing to measure the growth rate of is revenue. The next best, for startups that aren't charging initially, is active users. That's a reasonable proxy for revenue growth because whenever the startup does start trying to make money, their revenues will probably be a constant multiple of active users. [ 7 ] Compass We usually advise startups to pick a growth rate they think they can hit, and then just try to hit it every week. The key word here is \"just.\" If they decide to grow at 7% a week and they hit that number, they're successful for that week. There's nothing more they need to do. But if they don't hit it, they've failed in the only thing that mattered, and should be correspondingly alarmed. Programmers will recognize what we're doing here. We're turning starting a startup into an optimization problem. And anyone who has tried optimizing code knows how wonderfully effective that sort of narrow focus can be. Optimizing code means taking an existing program and changing it to use less of something, usually time or memory. You don't have to think about what the program should do, just make it faster. For most programmers this is very satisfying work. The narrow focus makes it a sort of puzzle, and you're generally surprised how fast you can solve it. Focusing on hitting a growth rate reduces the otherwise bewilderingly multifarious problem of starting a startup to a single problem. You can use that target growth rate to make all your decisions for you; anything that gets you the growth you need is ipso facto right. Should you spend two days at a conference? Should you hire another programmer? Should you focus more on marketing? Should you spend time courting some big customer? Should you add x feature? Whatever gets you your target growth rate. [ 8 ] Judging yourself by weekly growth doesn't mean you can look no more than a week ahead. Once you experience the pain of missing your target one week (it was the only thing that mattered, and you failed at it), you become interested in anything that could spare you such pain in the future. So you'll be willing for example to hire another programmer, who won't contribute to this week's growth but perhaps in a month will have implemented some new feature that will get you more users. But only if (a) the distraction of hiring someone won't make you miss your numbers in the short term, and (b) you're sufficiently worried about whether you can keep hitting your numbers without hiring someone new. It's not that you don't think about the future, just that you think about it no more than necessary. In theory this sort of hill-climbing could get a startup into trouble. They could end up on a local maximum.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8528,
+        "end_char_idx": 12977,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "6c7b1ce5-23b1-4c73-bed5-d9635b687631",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+          "file_name": "Startup Growth (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 30874,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "7c8a1499-c545-4586-9180-90ddddf22b69",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "27678b1139a6417f4d67dc7dc1f91ff5598ceff8307e118f57eddfe7442bd941",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7dcf7050-9ed8-4aef-b9fe-38c89a1d6f8d",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "d9aac7a7988fbb5936e1e8b1789f504c22219752a68b30da89c1eb82e2f39528",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "f35cf276-127d-433a-aa80-e2598332bff8",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "f21afcebc5a9fa8836c972de9bf43e6cdfe75b79dfee6dd20abdd3e7e840dd0b",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nInstagram (Description: A rapidly growing startup acquired by Facebook, highlighting the importance of growth in startup success.) -> DRIVE (Description: Rapid growth as a key factor in Instagram's acquisition by Facebook, illustrating the importance of growth in startup valuation.) -> Growth (Description: A critical factor driving startup success, valuation, and acquisition offers, as exemplified by Instagram's acquisition.)\nGrowth (Description: A critical factor driving startup success, valuation, and acquisition offers, as exemplified by Instagram's acquisition.) -> SIMILAR_TO (Description: Analogy highlighting the guiding and revealing nature of growth in startups, mirroring scientific discovery.) -> truth (Description: A guiding principle in scientific inquiry, analogous to growth's role in shaping startups.)\n\nMost product acquisitions have some component of fear. Even if an acquirer isn't threatened by the startup itself, they might be alarmed at the thought of what a competitor could do with it. And because startups are in this sense doubly valuable to acquirers, acquirers will often pay more than an ordinary investor would. [ 14 ] Understand The combination of founders, investors, and acquirers forms a natural ecosystem. It works so well that those who don't understand it are driven to invent conspiracy theories to explain how neatly things sometimes turn out. Just as our ancestors did to explain the apparently too neat workings of the natural world. But there is no secret cabal making it all work. If you start from the mistaken assumption that Instagram was worthless, you have to invent a secret boss to force Mark Zuckerberg to buy it. To anyone who knows Mark Zuckerberg, that is the reductio ad absurdum of the initial assumption. The reason he bought Instagram was that it was valuable and dangerous, and what made it so was growth. If you want to understand startups, understand growth. Growth drives everything in this world. Growth is why startups usually work on technology â€” because ideas for fast growing companies are so rare that the best way to find new ones is to discover those recently made viable by change, and technology is the best source of rapid change. Growth is why it's a rational choice economically for so many founders to try starting a startup: growth makes the successful companies so valuable that the expected value is high even though the risk is too. Growth is why VCs want to invest in startups: not just because the returns are high but also because generating returns from capital gains is easier to manage than generating returns from dividends. Growth explains why the most successful startups take VC money even if they don't need to: it lets them choose their growth rate. And growth explains why successful startups almost invariably get acquisition offers. To acquirers a fast-growing company is not merely valuable but dangerous too. It's not just that if you want to succeed in some domain, you have to understand the forces driving it. Understanding growth is what starting a startup consists of. What you're really doing (and to the dismay of some observers, all you're really doing) when you start a startup is committing to solve a harder type of problem than ordinary businesses do. You're committing to search for one of the rare ideas that generates rapid growth. Because these ideas are so valuable, finding one is hard. The startup is the embodiment of your discoveries so far. Starting a startup is thus very much like deciding to be a research scientist: you're not committing to solve any specific problem; you don't know for sure which problems are soluble; but you're committing to try to discover something no one knew before. A startup founder is in effect an economic research scientist. Most don't discover anything that remarkable, but some discover relativity. Notes [ 1 ] Strictly speaking it's not lots of customers you need but a big market, meaning a high product of number of customers times how much they'll pay. But it's dangerous to have too few customers even if they pay a lot, or the power that individual customers have over you could turn you into a de facto consulting firm. So whatever market you're in, you'll usually do best to err on the side of making the broadest type of product for it. [ 2 ] One year at Startup School David Heinemeier Hansson encouraged programmers who wanted to start businesses to use a restaurant as a model. What he meant, I believe, is that it's fine to start software companies constrained in (a) in the same way a restaurant is constrained in (b). I agree. Most people should not try to start startups. [ 3 ] That sort of stepping back is one of the things we focus on at Y Combinator. It's common for founders to have discovered something intuitively without understanding all its implications. That's probably true of the biggest discoveries in any field. [ 4 ] I got it wrong in \"How to Make Wealth\" when I said that a startup was a small company that takes on a hard technical problem. That is the most common recipe but not the only one. [ 5 ] In principle companies aren't limited by the size of the markets they serve, because they could just expand into new markets. But there seem to be limits on the ability of big companies to do that. Which means the slowdown that comes from bumping up against the limits of one's markets is ultimately just another way in which internal limits are expressed.",
+        "mimetype": "text/plain",
+        "start_char_idx": 21611,
+        "end_char_idx": 26239,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9952563452204041,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "a7599598-3b01-4c6b-8ca2-4034be43ca7e",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+          "file_name": "Startup Growth (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 30874,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "7c8a1499-c545-4586-9180-90ddddf22b69",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "27678b1139a6417f4d67dc7dc1f91ff5598ceff8307e118f57eddfe7442bd941",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "949448f9-ec78-4a93-8ffe-e581e526ed57",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\Startup Growth (HIVE).txt",
+              "file_name": "Startup Growth (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 30874,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "8532afe8699d0bc4789f08006dd270f73036f3f281d2467652284bdbe1638dd4",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "7dcf7050-9ed8-4aef-b9fe-38c89a1d6f8d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1385bd3e25ca3f145cc6b620f89751b355c416785a3deb236b5d822c940eeaf0",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartup Success (Description: The achievement of significant growth and value creation in a startup, a rare but highly rewarding outcome.) -> PROBABILITY (Description: The likelihood of a startup achieving significant success, influenced by various factors.) -> 1% (Description: A low probability of success, yet still resulting in a high expected value due to the potential rewards.)\n\nIn theory this sort of hill-climbing could get a startup into trouble. They could end up on a local maximum. But in practice that never happens. Having to hit a growth number every week forces founders to act, and acting versus not acting is the high bit of succeeding. Nine times out of ten, sitting around strategizing is just a form of procrastination. Whereas founders' intuitions about which hill to climb are usually better than they realize. Plus the maxima in the space of startup ideas are not spiky and isolated. Most fairly good ideas are adjacent to even better ones. The fascinating thing about optimizing for growth is that it can actually discover startup ideas. You can use the need for growth as a form of evolutionary pressure. If you start out with some initial plan and modify it as necessary to keep hitting, say, 10% weekly growth, you may end up with a quite different company than you meant to start. But anything that grows consistently at 10% a week is almost certainly a better idea than you started with. There's a parallel here to small businesses. Just as the constraint of being located in a particular neighborhood helps define a bar, the constraint of growing at a certain rate can help define a startup. You'll generally do best to follow that constraint wherever it leads rather than being influenced by some initial vision, just as a scientist is better off following the truth wherever it leads rather than being influenced by what he wishes were the case. When Richard Feynman said that the imagination of nature was greater than the imagination of man, he meant that if you just keep following the truth you'll discover cooler things than you could ever have made up. For startups, growth is a constraint much like truth. Every successful startup is at least partly a product of the imagination of growth. [ 9 ] Value It's hard to find something that grows consistently at several percent a week, but if you do you may have found something surprisingly valuable. If we project forward we see why. A company that grows at 1% a week will grow 1.7x a year, whereas a company that grows at 5% a week will grow 12.6x. A company making $1000 a month (a typical number early in YC) and growing at 1% a week will 4 years later be making $7900 a month, which is less than a good programmer makes in salary in Silicon Valley. A startup that grows at 5% a week will in 4 years be making $25 million a month. [ 10 ] Our ancestors must rarely have encountered cases of exponential growth, because our intuitions are no guide here. What happens to fast growing startups tends to surprise even the founders. Small variations in growth rate produce qualitatively different outcomes. That's why there's a separate word for startups, and why startups do things that ordinary companies don't, like raising money and getting acquired. And, strangely enough, it's also why they fail so frequently. Considering how valuable a successful startup can become, anyone familiar with the concept of expected value would be surprised if the failure rate weren't high. If a successful startup could make a founder $100 million, then even if the chance of succeeding were only 1%, the expected value of starting one would be $1 million. And the probability of a group of sufficiently smart and determined founders succeeding on that scale might be significantly over 1%. For the right people â€” e.g. the young Bill Gates â€” the probability might be 20% or even 50%. So it's not surprising that so many want to take a shot at it. In an efficient market, the number of failed startups should be proportionate to the size of the successes. And since the latter is huge the former should be too. [ 11 ] What this means is that at any given time, the great majority of startups will be working on something that's never going to go anywhere, and yet glorifying their doomed efforts with the grandiose title of \"startup.\" This doesn't bother me. It's the same with other high-beta vocations, like being an actor or a novelist. I've long since gotten used to it. But it seems to bother a lot of people, particularly those who've started ordinary businesses. Many are annoyed that these so-called startups get all the attention, when hardly any of them will amount to anything. If they stepped back and looked at the whole picture they might be less indignant. The mistake they're making is that by basing their opinions on anecdotal evidence they're implicitly judging by the median rather than the average.",
+        "mimetype": "text/plain",
+        "start_char_idx": 12869,
+        "end_char_idx": 17379,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.99154724868549,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}

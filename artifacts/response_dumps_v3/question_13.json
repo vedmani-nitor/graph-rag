@@ -1,0 +1,162 @@
+{
+  "question": "How does the concept of \"better technology\" drive the success of web startups, and how has this concept evolved over time?",
+  "answer": "Based solely on the provided text, \"better technology\" drives the success of startups in several key ways:\n\n1. **Reduced Costs and Accelerated Growth:** Technological advancements have significantly decreased the cost of product development and customer acquisition.  This is explicitly stated as impacting the growth trajectory of startups, leading to faster revenue generation and increased valuation.  Examples include the comparison of time taken for companies like IBM, Hewlett-Packard, and Microsoft to reach a billion dollars in revenue, showing a dramatic decrease over time (45 years, 25 years, 13 years respectively) with the current norm being 7-8 years. This faster growth directly increases the value of founders' stock.\n\n2. **Shift in Power Dynamics:** The decreased cost of starting a startup has altered the power balance between founders and investors.  Previously, substantial capital was needed (e.g., building a factory), making investors essential. Now, the lower barrier to entry means founders are in a stronger negotiating position, leading to better terms when raising capital.\n\n3. **Increased Startup Value:**  Faster growth, a direct consequence of technological advancements, makes companies more valuable.  The value of a company is linked to both its revenue and growth rate; faster growth means higher valuation even at the same revenue level. This explains why founders can become wealthy more quickly.\n\n4. **More Startups, More Wealth:** The combination of lower costs and faster growth leads to more people starting startups.  This, in turn, contributes to a higher number of wealthy individuals.  The text notes that while the overall number of new companies may have decreased, the type of companies designed for rapid growth (the focus of the analysis) has increased.\n\nIn summary, the evolution of technology has dramatically altered the startup landscape.  The decrease in the cost of building products and acquiring customers, coupled with the acceleration of growth rates, has created a more favorable environment for startups, empowering founders, increasing company valuations, and ultimately leading to a greater number of successful and wealthy entrepreneurs.  The text highlights this shift as a key factor in understanding the increase in wealth inequality.\n",
+  "sources": [
+    {
+      "node": {
+        "id_": "7db182dd-f2ea-4bac-accf-0b3fe4922807",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+          "file_name": "A Student's Guide to Startups (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 35856,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "89726fb7-4d79-4142-8bd4-c43cac27e169",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "c93d2695e878542a3875974944596c8b180c2788d87dcb71a104c6ec2a8753c2",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "207f4a5e-80fe-4a04-b4f6-aef44846a004",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\A Student's Guide to Startups (HIVE).txt",
+              "file_name": "A Student's Guide to Startups (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 35856,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "9d271102cc584b28ed40c9a17e012a30622305db089adeee5876aaddc3d15074",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "12047642-2218-44c2-aa6f-30971780e0de",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1ce2d1f54262fe39b9ecf796d53dce004021d534239f72c9ed30899c8f26f826",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nStartups (Description: New businesses that offer potential learning opportunities for college students.) -> LEAD_TO (Description: The causal relationship between the rise of startups and the acceleration of technological progress.) -> Faster Technological Advancements (Description: The rapid evolution of technology driven by the increased number of startups and their quicker implementation of new ideas.)\nStartups (Description: New businesses that offer potential learning opportunities for college students.) -> LEAD_TO (Description: The causal relationship between the rise of startups and the acceleration of technological progress.) -> Faster Technological Advancements (Description: The rapid evolution of technology driven by the increased number of startups and their quicker implementation of new ideas.)\nStartups (Description: New businesses that offer potential learning opportunities for college students.) -> WORK_ON (Description: Focus on technology as a means to achieve rapid growth, reflecting the scarcity of ideas for fast-growing companies.) -> Technology (Description: Technological advancements that have not only reduced the cost but also accelerated the speed of product development and distribution, impacting the growth trajectory of startups.)\nStartups (Description: New businesses that offer potential learning opportunities for college students.) -> WORK_ON (Description: Focus on technology as a means to achieve rapid growth, reflecting the scarcity of ideas for fast-growing companies.) -> Technology (Description: Technological advancements that have not only reduced the cost but also accelerated the speed of product development and distribution, impacting the growth trajectory of startups.)\n\nAnd that cures the other half of the class-project syndrome. After you've been working for a while, you yourself tend to measure what you've done the same way the market does. Of course, you don't have to spend years working to learn this stuff. If you're sufficiently perceptive you can grasp these things while you're still in school. Sam Altman did. He must have, because Loopt is no class project. And as his example suggests, this can be valuable knowledge. At a minimum, if you get this stuff, you already have most of what you gain from the \"work experience\" employers consider so desirable. But of course if you really get it, you can use this information in a way that's more valuable to you than that. Now So suppose you think you might start a startup at some point, either when you graduate or a few years after. What should you do now? For both jobs and grad school, there are ways to prepare while you're in college. If you want to get a job when you graduate, you should get summer jobs at places you'd like to work. If you want to go to grad school, it will help to work on research projects as an undergrad. What's the equivalent for startups? How do you keep your options maximally open? One thing you can do while you're still in school is to learn how startups work. Unfortunately that's not easy. Few if any colleges have classes about startups. There may be business school classes on entrepreneurship, as they call it over there, but these are likely to be a waste of time. Business schools like to talk about startups, but philosophically they're at the opposite end of the spectrum. Most books on startups also seem to be useless. I've looked at a few and none get it right. Books in most fields are written by people who know the subject from experience, but for startups there's a unique problem: by definition the founders of successful startups don't need to write books to make money. As a result most books on the subject end up being written by people who don't understand it. So I'd be skeptical of classes and books. The way to learn about startups is by watching them in action, preferably by working at one. How do you do that as an undergrad? Probably by sneaking in through the back door. Just hang around a lot and gradually start doing things for them. Most startups are (or should be) very cautious about hiring. Every hire increases the burn rate, and bad hires early on are hard to recover from. However, startups usually have a fairly informal atmosphere, and there's always a lot that needs to be done. If you just start doing stuff for them, many will be too busy to shoo you away. You can thus gradually work your way into their confidence, and maybe turn it into an official job later, or not, whichever you prefer. This won't work for all startups, but it would work for most I've known. Number two, make the most of the great advantage of school: the wealth of co-founders. Look at the people around you and ask yourself which you'd like to work with. When you apply that test, you may find you get surprising results. You may find you'd prefer the quiet guy you've mostly ignored to someone who seems impressive but has an attitude to match. I'm not suggesting you suck up to people you don't really like because you think one day they'll be successful. Exactly the opposite, in fact: you should only start a startup with someone you like, because a startup will put your friendship through a stress test. I'm just saying you should think about who you really admire and hang out with them, instead of whoever circumstances throw you together with. Another thing you can do is learn skills that will be useful to you in a startup. These may be different from the skills you'd learn to get a job. For example, thinking about getting a job will make you want to learn programming languages you think employers want, like Java and C++. Whereas if you start a startup, you get to pick the language, so you have to think about which will actually let you get the most done. If you use that test you might end up learning Ruby or Python instead. But the most important skill for a startup founder isn't a programming technique. It's a knack for understanding users and figuring out how to give them what they want. I know I repeat this, but that's because it's so important. And it's a skill you can learn, though perhaps habit might be a better word.",
+        "mimetype": "text/plain",
+        "start_char_idx": 29161,
+        "end_char_idx": 33557,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 1.0,
+      "class_name": "NodeWithScore"
+    },
+    {
+      "node": {
+        "id_": "3e0c1e6b-281f-408c-af19-451a8b3afec9",
+        "embedding": null,
+        "metadata": {
+          "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How People Get Rich Now (HIVE).txt",
+          "file_name": "How People Get Rich Now (HIVE).txt",
+          "file_type": "text/plain",
+          "file_size": 14641,
+          "creation_date": "2024-11-26",
+          "last_modified_date": "2024-11-20"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "5e19c9e8-b104-4193-8eb9-470fcc513b78",
+            "node_type": "4",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How People Get Rich Now (HIVE).txt",
+              "file_name": "How People Get Rich Now (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 14641,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "638a3fc276bd116c3f2338f93ccc6b47968652c31d9796044490018cc67f0735",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "89dccb77-10ac-4be3-a181-264319e95b45",
+            "node_type": "1",
+            "metadata": {
+              "file_path": "D:\\projects\\graphrag-poc\\data\\selection 1\\How People Get Rich Now (HIVE).txt",
+              "file_name": "How People Get Rich Now (HIVE).txt",
+              "file_type": "text/plain",
+              "file_size": 14641,
+              "creation_date": "2024-11-26",
+              "last_modified_date": "2024-11-20"
+            },
+            "hash": "6d4822e74239add8eb3544bc96a6267bdd6ec1caa1a5e3279fed8a01a508b64e",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "ae6a7f90-9f34-4d51-9ea7-2c7f60afd969",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "0702388b3c14a3f02a648203043450dd3a6fc5bf2a8a4d9122bfcc9edb9aa076",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "metadata_template": "{key}: {value}",
+        "metadata_separator": "\n",
+        "text": "Here are some facts extracted from the provided text:\n\nTechnology (Description: Technological advancements that have not only reduced the cost but also accelerated the speed of product development and distribution, impacting the growth trajectory of startups.) -> DECREASE (Description: Reduction in the cost of building products and acquiring customers, leading to a shift in power dynamics between founders and investors in the startup ecosystem.) -> Cost of starting a startup (Description: The overall expense associated with establishing a new company, significantly influenced by technological progress in product development and customer acquisition.)\nTechnology (Description: Technological advancements that have not only reduced the cost but also accelerated the speed of product development and distribution, impacting the growth trajectory of startups.) -> ACCELERATE (Description: The impact of technology on the growth rate of newly founded companies, leading to faster revenue generation and increased valuation.) -> Growth of newly founded companies (Description: The rate at which startups generate revenue and expand their operations, significantly influenced by technological advancements.)\n\nBut the main reason it's easier to start a startup now is that it's cheaper. Technology has driven down the cost of both building products and acquiring customers. The decreasing cost of starting a startup has in turn changed the balance of power between founders and investors. Back when starting a startup meant building a factory, you needed investors' permission to do it at all. But now investors need founders more than founders need investors, and that, combined with the increasing amount of venture capital available, has driven up valuations. [ 8 ] So the decreasing cost of starting a startup increases the number of rich people in two ways: it means that more people start them, and that those who do can raise money on better terms. But there's also a third factor at work: the companies themselves are more valuable, because newly founded companies grow faster than they used to. Technology hasn't just made it cheaper to build and distribute things, but faster too. This trend has been running for a long time. IBM, founded in 1896, took 45 years to reach a billion 2020 dollars in revenue. Hewlett-Packard, founded in 1939, took 25 years. Microsoft, founded in 1975, took 13 years. Now the norm for fast-growing companies is 7 or 8 years. [ 9 ] Fast growth has a double effect on the value of founders' stock. The value of a company is a function of its revenue and its growth rate. So if a company grows faster, you not only get to a billion dollars in revenue sooner, but the company is more valuable when it reaches that point than it would be if it were growing slower. That's why founders sometimes get so rich so young now. The low initial cost of starting a startup means founders can start young, and the fast growth of companies today means that if they succeed they could be surprisingly rich just a few years later. It's easier now to start and grow a company than it has ever been. That means more people start them, that those who do get better terms from investors, and that the resulting companies become more valuable. Once you understand how these mechanisms work, and that startups were suppressed for most of the 20th century, you don't have to resort to some vague right turn the country took under Reagan to explain why America's Gini coefficient is increasing. Of course the Gini coefficient is increasing. With more people starting more valuable companies, how could it not be? Notes [ 1 ] Investment firms grew rapidly after a regulatory change by the Labor Department in 1978 allowed pension funds to invest in them, but the effects of this growth were not yet visible in the top 100 fortunes in 1982. [ 2 ] George Mitchell deserves mention as an exception. Though really driven and good at making deals, he was also the first to figure out how to use fracking to get natural gas out of shale. [ 3 ] When I say people are starting more companies, I mean the type of company meant to grow very big. There has actually been a decrease in the last couple decades in the overall number of new companies. But the vast majority of companies are small retail and service businesses. So what the statistics about the decreasing number of new businesses mean is that people are starting fewer shoe stores and barber shops. People sometimes get confused when they see a graph labelled \"startups\" that's going down, because there are two senses of the word \"startup\": (1) the founding of a company, and (2) a particular type of company designed to grow big fast. The statistics mean startup in sense (1), not sense (2). [ 4 ] Rockoff, Hugh. \"Great Fortunes of the Gilded Age.\" NBER Working Paper 14555, 2008. [ 5 ] Lind, Michael. Land of Promise. HarperCollins, 2012. It's also likely that the high tax rates in the mid 20th century deterred people from starting their own companies. Starting one's own company is risky, and when risk isn't rewarded, people opt for safety instead. But it wasn't simply cause and effect. The oligopolies and high tax rates of the mid 20th century were all of a piece.",
+        "mimetype": "text/plain",
+        "start_char_idx": 8123,
+        "end_char_idx": 12153,
+        "metadata_seperator": "\n",
+        "text_template": "{metadata_str}\n\n{content}",
+        "class_name": "TextNode"
+      },
+      "score": 0.9841247088619224,
+      "class_name": "NodeWithScore"
+    }
+  ]
+}
